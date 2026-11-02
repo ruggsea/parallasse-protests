@@ -1,0 +1,10 @@
+{
+  "list_templates": [
+    "https://www.channelstv.com/{YYYY}/{MM}/{DD}/",
+    "https://www.channelstv.com/{YYYY}/{MM}/",
+    "https://www.channelstv.com/sitemap.xml",
+    "https://www.channelstv.com/post-sitemap{NUM}.xml"
+  ],
+  "article_regex": "^https?://(?:www\\.)?channelstv\\.com/\\d{4}/\\d{2}/\\d{2}/[^/]+/?$",
+  "notes": "Uses daily archive pages and sitemaps to locate articles; article_regex matches absolute channelstv.com article URLs."
+}

@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.oranews.tv/sitemaps/sitemap-{YYYY}-{MM}.xml"
+  ],
+  "article_regex": "https://www\\.oranews\\.tv/(?:[a-z0-9-]+/){0,2}[a-z0-9-]+-i\\d{4,}",
+  "notes": "Monthly article sitemap from /sitemap.xml index (robots.txt is a bare 'User-agent: *', no Sitemap line, nothing disallowed); 160-296 URLs/day in the window, lastmod equals publication time (id order and lastmod order agree exactly, 0 inversions in both months), every <loc> is an article slug ending -i<id>; no daily sitemap exists (sitemap-YYYY-MM-DD.xml is 404) and articles are server-rendered, ~50k chars of text."
+}

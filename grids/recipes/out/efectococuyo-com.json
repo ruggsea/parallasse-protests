@@ -1,0 +1,5 @@
+{
+ "list_templates": [],
+ "article_regex": "",
+ "notes": "dead edge-block cell, submitted empty, do not re-dispatch with this fetcher: every path 403s in 0.04-0.14s with a 'Checking your browser...' JS-challenge body (server=nginx, script /__challenge/probes.js) - robots.txt, homepage, /sitemap.xml, /sitemap_index.xml, /feed, /archivo/2026/10/, and a nonexistent path (403 not 404, so the challenge fires before routing) on www+bare https; a Chrome UA from the same IP gets the identical 403 challenge, so it is IP/fingerprint-based, not a UA block - no plain-HTTP fetcher can pass it, and the checker uses the same fetcher, so no template could pass. Not a robots issue (robots.txt itself 403s, cannot be read at all)."
+}

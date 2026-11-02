@@ -1,0 +1,8 @@
+{
+  "list_templates": [
+    "https://jovempan.com.br/{YYYY}/{MM}/{DD}/",
+    "https://jovempan.com.br/post_sitemap-{YYYY}-{MM}.xml"
+  ],
+  "article_regex": "^https://jovempan\\.com\\.br/[a-z-]+/[^/]+/$",
+  "notes": "Daily archive pages list articles; monthly sitemap as fallback. Regex captures absolute article URLs."
+}

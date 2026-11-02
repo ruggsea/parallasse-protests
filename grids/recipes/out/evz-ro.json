@@ -1,0 +1,7 @@
+{
+ "list_templates": [
+  "https://evz.ro/sitemap-articles-{YYYY}-{MM}.xml"
+ ],
+ "article_regex": "https://evz\\.ro/[a-z0-9]+(?:-[a-z0-9]+)*\\.html",
+ "notes": "monthly sitemap from robots.txt index; lastmod==pub date, month-bounded; regex skips empty-slug https://evz.ro/.html dup entries"
+}

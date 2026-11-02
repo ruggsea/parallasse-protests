@@ -1,0 +1,1 @@
+{"script": "scrapers/custom/danas-rs.py", "notes": "Used Danas RSS feed with pagination (/feed/?paged=N). Parsed pubDate, filtered to 2026-09-25..2026-10-25. Collected unique URLs, wrote TSV. Verified counts: >=15 per required dates."}

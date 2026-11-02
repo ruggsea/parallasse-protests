@@ -1,0 +1,1 @@
+{"list_templates":["https://www.la-croix.com/feeds/sitemaps/articles/{YYYY}-{MM}.xml"],"article_regex":"^https://www\\.la-croix\\.com/[a-z0-9\\-/]+-\\d{8}$","notes":"Monthly article sitemap https://www.la-croix.com/feeds/sitemaps/articles/YYYY-MM.xml (index in robots.txt Sitemap line sitemaps_articles.xml), ~50 urls per day with <lastmod> on that day; urls end in -YYYYMMDD."}

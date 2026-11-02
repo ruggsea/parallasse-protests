@@ -1,0 +1,8 @@
+outlet	domain	leaning	url	quote	note
+The Journal	thejournal.ie	centre_left	https://mediabiasfactcheck.com/thejournal-ie/	ie is rated Left-Center with High factual reporting by Media Bias Fact Check.	MBFC bias rating Left-Center mapped to centre_left.
+RTÉ	rte.ie	centre	https://mediabiasfactcheck.com/rte/	RTE (Radio Television of Ireland) is rated Least biased with High factual reporting by Media Bias Fact Check.	MBFC bias rating Least biased mapped to centre.
+Business Post	businesspost.ie	centre	https://mediabiasfactcheck.com/business-post/	Business Post – Ireland is rated Least biased with High factual reporting by Media Bias Fact Check.	MBFC bias rating Least biased mapped to centre.
+BreakingNews.ie	breakingnews.ie	centre_left	https://mediabiasfactcheck.com/breakingnews-ie/	ie is rated Left-Center with High factual reporting by Media Bias Fact Check.	MBFC bias rating Left-Center mapped to centre_left.
+Irish Examiner	irishexaminer.com	centre_left	https://mediabiasfactcheck.com/the-irish-examiner/	The Irish Examiner is rated Left-Center with Mostly Factual factual reporting by Media Bias Fact Check.	MBFC bias rating Left-Center mapped to centre_left.
+Hot Press	hotpress.com	centre_left	https://en.wikipedia.org/wiki/Hot_Press	Hot Press has taken a broadly anti-establishment and left-of-centre editorial stance	English Wikipedia: left-of-centre editorial stance mapped to centre_left.
+Village	villagemagazine.ie	left	https://en.wikipedia.org/wiki/Village_%28magazine%29	"political_position"":{""wt"":""Left-wing"	English Wikipedia infobox political position: Left-wing.

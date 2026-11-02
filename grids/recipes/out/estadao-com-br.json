@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.estadao.com.br/arc/outboundfeeds/sitemap/{YYYY}-{MM}-{DD}/?outputType=xml"
+  ],
+  "article_regex": "https://www\\.estadao\\.com\\.br/[a-z0-9_-]+(?:/[a-z0-9._-]+)+/",
+  "notes": "Arc publishing: robots.txt names /arc/outboundfeeds/sitemap-index-by-day/?outputType=xml, one daily sitemap per date; 146-419 article URLs/day in window, no date in URL but the file is per-day; articles are server-rendered full text."
+}

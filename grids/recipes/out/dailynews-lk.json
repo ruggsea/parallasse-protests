@@ -1,0 +1,5 @@
+{
+  "list_templates": [],
+  "article_regex": "",
+  "notes": "robots.txt and all pages return HTTP 403, site blocks access"
+}

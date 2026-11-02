@@ -1,0 +1,11 @@
+{
+  "script": "scrapers/custom/hotpress-com.py",
+  "notes": "completed",
+  "url_count": 30,
+  "date_counts": {
+    "2026-09-30": 0,
+    "2026-10-10": 0,
+    "2026-10-20": 3
+  },
+  "low_volume": true
+}

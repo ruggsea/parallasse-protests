@@ -1,0 +1,1 @@
+{"list_templates": ["https://www.vanguardia.com/arc/outboundfeeds/sitemap/{YYYY}-{MM}-{DD}/?outputType=xml"], "article_regex": "https?://www\\.vanguardia\\.com/[a-z-]+/\\d{4}/\\d{2}/\\d{2}/[^\"]+", "notes": "per-day sitemap provides URLs with <lastmod> matching the day"}

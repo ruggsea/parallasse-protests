@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.ladepeche.fr/sitemap/sitemap-{YYYY}-{MM}_1.xml.gz"
+  ],
+  "article_regex": "https://www\\.ladepeche\\.fr/\\d{4}/\\d{2}/\\d{2}/[a-z0-9][a-z0-9-]*\\d+\\.php",
+  "notes": "Monthly gz sitemaps sitemap-{YYYY}-{MM}_1.xml.gz (robots.txt Sitemap line -> /sitemap.xml index, both window months have chunk _1 only); pub date in URL /YYYY/MM/DD/slug-id.php, lastmod gives 390-608 URLs per day (09-30: 605, 10-10: 456, 10-20: 390); articles server-rendered, 9k-17k readable chars, no paywall; no dated HTML archive pages needed."
+}

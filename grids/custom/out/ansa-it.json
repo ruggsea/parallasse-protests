@@ -1,0 +1,4 @@
+{
+ "script": "scrapers/custom/ansa-it.py",
+ "notes": "robots.txt 200 (Disallow only /ricerca/, /main/ etc.). Dead routes: dated archive /sito/notizie/<sez>/YYYY/MM/DD/ 404, cronaca_2.shtml 404, ?page=2 returns the same page, RSS and the 63 per-section sitemaps (sito_sitemap_index.xml) hold only ~2 days. Final route, merged: (1) the 63 sitemaps; (2) index pages: /sito/, each <section dir>/<last>.shtml and the root pages /<region>/, /canale_<x>/, /europa/ (200, each lists 1-3 weeks, Oct 20 well covered); (3) Wayback CDX month-prefix queries web.archive.org/cdx/search/cdx?url=www.ansa.it/sito/notizie/<sec>/2026/MM/* for 10 main sections (200 but slow; 504/0 on a few, retried; captures stop at Oct 17, which fills Sep 25-Oct 17). Date = /YYYY/MM/DD/ in the article path, equal to page date. 8143 URLs, all 31 days (Oct 18-21 thin: 10, 44, 87, 91; 09-30: 240; 10-10: 238; 10-20: 87). Runs ~19 min. Check passed (6 samples, text 1500+, dates match)."
+}

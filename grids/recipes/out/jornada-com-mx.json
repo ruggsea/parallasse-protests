@@ -1,0 +1,5 @@
+{
+  "list_templates": [],
+  "article_regex": "",
+  "notes": "jornada.com.mx (La Jornada, MX) is a dead Cloudflare cell for our fetcher: every content path (homepage, the robots-declared sitemap https://www.jornada.com.mx/services/sitemap.xml, /sitemap.xml, /sitemap_index.xml, /news-sitemap.xml, /rss, /archivo/2026-10-10 guess) 403s in ~0.06s with header Cf-Mitigated: challenge and a 'Just a moment...' body, on www + apex, http + https, with our bot UA AND a full Chrome UA (colo VIE, CF-RAY persistent across a 20s retry) - IP-based edge block, not a robots disallow (robots.txt is 200 and allows User-agent: * with Sitemap: /services/sitemap.xml). Same signature as tvklan-al / independent-ie / pd.co.ke; the 1500-char article step is unreachable, so empty is deliberate, do not re-dispatch."
+}

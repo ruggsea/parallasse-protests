@@ -1,0 +1,7 @@
+{
+ "list_templates": [
+  "https://www.libertatea.ro/sitemap-articles-{YYYY}-{MM}.xml"
+ ],
+ "article_regex": "https://www\\.libertatea\\.ro/(?:[a-z0-9-]+/)?[a-z0-9-]+-[a-z0-9]{7}",
+ "notes": "Monthly per-article sitemap (robots.txt -> /sitemap-articles-index.xml); lastmod is the publication date and each file's lastmods span exactly its own month, so the checker's lastmod==date filter is exact; articles are /{section}/{slug}-{7-char hash}, 164/105/137 URLs on the 3 check dates."
+}

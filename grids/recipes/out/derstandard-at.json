@@ -1,0 +1,5 @@
+{
+  "list_templates": ["https://www.derstandard.at/sitemaps/sitemap-{YYYY}-{MM}.xml"],
+  "article_regex": "https://www\\.derstandard\\.at/(?:story|jetzt/livebericht)/\\d+/",
+  "notes": "Monthly sitemaps from robots.txt (index /sitemaps/sitemap.xml -> /sitemaps/sitemap-{YYYY}-{MM}.xml, go back years); URLs carry no date, filter on <lastmod>: 150/90/173 URLs for 09-30/10-10/10-20; only two article shapes /story/<id>/ and /jetzt/livebericht/<id>/ (liveblogs thin at 500-600 chars, story articles 2300+); no dated archive HTML pages, news.xml is a rolling last-day feed; robots allows our bot (only /profil/ disallowed)"
+}

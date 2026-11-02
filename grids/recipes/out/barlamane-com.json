@@ -1,0 +1,1 @@
+{"list_templates": ["https://www.barlamane.com/{YYYY}/{MM}/{DD}/"], "article_regex": "https?://(?:www\\.)?barlamane\\.com/.*%[0-9a-f]{2}.*", "notes": "Date archive pages exist at /YYYY/MM/DD/; filter out category URLs."}

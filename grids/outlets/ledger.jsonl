@@ -1,0 +1,16 @@
+{"ts": "2026-10-25T02:36:07Z", "id": "italy-wikipedia", "attempt": 1, "engine": "local13", "served_by": "", "via": "liquid", "rc": 2, "secs": 2340, "verdict": "rejected", "reasons": "worker timed out (timeout_s 2400)"}
+{"ts": "2026-10-25T02:36:07Z", "id": "italy-landscape", "attempt": 1, "engine": "local13", "served_by": "", "via": "liquid", "rc": 2, "secs": 2340, "verdict": "rejected", "reasons": "worker timed out (timeout_s 2400)"}
+{"ts": "2026-10-25T02:36:08Z", "id": "italy-studies", "attempt": 1, "engine": "local13", "served_by": "", "via": "liquid", "rc": 2, "secs": 2340, "verdict": "rejected", "reasons": "worker timed out (timeout_s 2400)"}
+{"ts": "2026-10-25T02:36:08Z", "id": "france-dnr", "attempt": 1, "engine": "local13", "served_by": "", "via": "liquid", "rc": 2, "secs": 2340, "verdict": "rejected", "reasons": "worker timed out (timeout_s 2400)"}
+{"ts": "2026-10-25T02:42:16Z", "id": "france-wikipedia", "attempt": 1, "engine": "local13", "served_by": "", "via": "liquid", "rc": 2, "secs": 2708, "verdict": "rejected", "reasons": "worker timed out (timeout_s 2400)"}
+{"ts": "2026-10-25T02:42:24Z", "id": "france-wikipedia", "attempt": 2, "engine": "local2", "served_by": "local2/local2-engine", "via": "liquid", "rc": 0, "secs": 8, "verdict": "rejected", "reasons": "the worker did not write ./grids/outlets/out/france-wikipedia.tsv.part (or it is empty)"}
+{"ts": "2026-10-25T02:42:35Z", "id": "italy-dnr", "attempt": 1, "engine": "local13", "served_by": "", "via": "liquid", "rc": 143, "secs": 2728, "verdict": "interrupted", "reasons": ""}
+{"ts": "2026-10-25T02:42:35Z", "id": "france-wikipedia", "attempt": 3, "engine": "kimi", "served_by": "", "rc": 143, "secs": 10, "verdict": "interrupted", "reasons": ""}
+{"ts": "2026-10-25T02:42:35Z", "id": "italy-audit", "attempt": 1, "engine": "local13", "served_by": "", "via": "liquid", "rc": 143, "secs": 2728, "verdict": "interrupted", "reasons": ""}
+{"ts": "2026-10-25T02:42:35Z", "id": "france-audit", "attempt": 1, "engine": "local13", "served_by": "", "via": "liquid", "rc": 143, "secs": 2727, "verdict": "interrupted", "reasons": ""}
+{"ts": "2026-10-25T02:42:35Z", "id": "italy-studies", "attempt": 2, "engine": "local3", "served_by": "", "via": "liquid", "rc": 143, "secs": 380, "verdict": "interrupted", "reasons": ""}
+{"ts": "2026-10-25T02:42:35Z", "id": "france-landscape", "attempt": 1, "engine": "local13", "served_by": "", "via": "liquid", "rc": 143, "secs": 2727, "verdict": "interrupted", "reasons": ""}
+{"ts": "2026-10-25T02:42:35Z", "id": "france-studies", "attempt": 1, "engine": "local13", "served_by": "", "via": "liquid", "rc": 143, "secs": 2726, "verdict": "interrupted", "reasons": ""}
+{"ts": "2026-10-25T02:42:35Z", "id": "italy-landscape", "attempt": 2, "engine": "local3", "served_by": "", "via": "liquid", "rc": 143, "secs": 381, "verdict": "interrupted", "reasons": ""}
+{"ts": "2026-10-25T02:42:35Z", "id": "france-dnr", "attempt": 2, "engine": "local3", "served_by": "", "via": "liquid", "rc": 143, "secs": 376, "verdict": "interrupted", "reasons": ""}
+{"ts": "2026-10-25T02:42:35Z", "id": "italy-wikipedia", "attempt": 2, "engine": "local3", "served_by": "", "via": "liquid", "rc": 143, "secs": 385, "verdict": "interrupted", "reasons": ""}

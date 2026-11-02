@@ -1,0 +1,11 @@
+beautifulsoup4
+cairosvg
+lxml
+matplotlib
+numpy
+pandas
+requests
+scikit-learn
+tokenizers
+trafilatura
+weasyprint

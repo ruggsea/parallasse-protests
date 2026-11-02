@@ -1,0 +1,5 @@
+outlet	domain	leaning	url	quote	note
+Taipei Times	taipeitimes.com	centre_left	https://mediabiasfactcheck.com/taipei-times/	Overall, we rate the Taipei Times as Left-Center Biased based on its left-leaning pro-Taiwan independence stance.	MBFC label mapped: Left-Center->centre_left
+Taiwan News	taiwannews.com.tw	centre_left	https://mediabiasfactcheck.com/taiwan-news/	Overall, we rate Taiwan News Left-Center Biased based on socially liberal editorial positions.	MBFC label mapped: Left-Center->centre_left
+TVBS	tvbs.com.tw	centre_right	https://mediabiasfactcheck.com/tvbs/	Overall, we rate TVBS as Right-Center Biased due to its consistent scrutiny of the Democratic Progressive Party	MBFC label mapped: Right-Center->centre_right
+The News Lens	thenewslens.com	centre_left	https://mediabiasfactcheck.com/the-news-lens/	Overall, we rate The News Lens Left-Center Biased based on editorial positions that moderately align with the left.	MBFC label mapped: Left-Center->centre_left

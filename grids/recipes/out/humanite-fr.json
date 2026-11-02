@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.humanite.fr/sitemap.xml?yyyy={YYYY}&mm={MM}&dd={DD}"
+  ],
+  "article_regex": "https://www\\.humanite\\.fr/[^/\\s\"']+/[^/\\s\"']+/[^/\\s\"']+/?$",
+  "notes": "robots.txt (UA ParallasseResearchBot) allows everything and lists sitemap.xml; per-day sitemap sitemap.xml?yyyy=..&mm=..&dd=.. lists that day's articles, verified for 2026-09-30 (55 urls), 2026-10-10 (30 urls), 2026-10-20 (97 urls); article urls are 3-segment paths like https://www.humanite.fr/politique/editorial/slug; articles are fully readable, no paywall"
+}

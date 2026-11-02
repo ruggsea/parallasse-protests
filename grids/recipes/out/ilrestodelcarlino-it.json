@@ -1,0 +1,9 @@
+{
+ "list_templates": [
+  "https://www.ilrestodelcarlino.it/feedservice/sitemap/generic/rdc/2026/month/sitemap.xml",
+  "https://www.ilrestodelcarlino.it/feedservice/sitemap/generic/rdc/2026/week/sitemap.xml",
+  "https://www.ilrestodelcarlino.it/feedservice/sitemap/generic/rdc/2026/day/sitemap.xml"
+ ],
+ "article_regex": "^https://www\\.ilrestodelcarlino\\.it/(?!image-service|feedservice)[a-z0-9-]+(?:/[a-z0-9-]+)*/[a-z0-9-]+-[a-z0-9]{8}$",
+ "notes": "Rolling QN feedservice sitemaps (declared in robots.txt, robots allows *): month covers 2026-09-15..10-15, week 10-16..10-23, day 10-23 onward; <lastmod> per URL = day, ~750-1000 URLs/day (all local editions). Fetch all three and keep URLs whose lastmod is the day. The year part in the path is fixed 2026."
+}

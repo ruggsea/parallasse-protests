@@ -1,0 +1,5 @@
+{
+  "list_templates": [],
+  "article_regex": "^https?://www\\.naewna\\.com/n/[^/]+/\\d+/$",
+  "notes": "Access to date-based archive pages (/archives) is blocked (HTTP 502/0). No per‑day listing available."
+}

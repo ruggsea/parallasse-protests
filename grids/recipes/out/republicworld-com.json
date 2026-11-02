@@ -1,0 +1,7 @@
+{
+ "list_templates": [
+  "https://www.republicworld.com/sitemaps/sitemaps.xml?yyyy={YYYY}&mm={MM}&dd={DD}"
+ ],
+ "article_regex": "https://www\\.republicworld\\.com/(?:[a-z0-9-]+/)+[a-z0-9-]*-\\d{4}-\\d\\d-\\d\\d-\\d+",
+ "notes": "republicworld.com (India): robots.txt allows (Sitemap lines -> /sitemaps/sitemaps.xml, a per-DAY index); ONE daily sitemap https://www.republicworld.com/sitemaps/sitemaps.xml?yyyy={YYYY}&mm={MM}&dd={DD} returns that whole day, 35-83 URLs for all 31 days 2026-09-25..10-25, every <lastmod> equals the day, every <loc> is /<section>/<slug>-YYYY-MM-DD-<id> ending in a date + numeric id; extra params (page/p) are ignored so the file is not paginated; articles are free, 40k+ chars of markup per page."
+}

@@ -1,0 +1,1 @@
+{"list_templates": [], "article_regex": "", "notes": "Site blocks our fetcher: HTTP 403 in 0.05-0.08s on EVERY path (homepage, robots.txt, sitemap.xml/sitemap_index.xml/news-sitemap.xml, dated archive guesses) on www+apex+m over http+https; persistent (a worker hit the same 403s 8.7h earlier), an edge/WAF block, not rate limiting."}

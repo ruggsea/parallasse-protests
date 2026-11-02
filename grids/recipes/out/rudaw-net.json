@@ -1,0 +1,5 @@
+{
+  "list_templates": ["https://rudaw.net/sitemap.xml"],
+  "article_regex": "https?://(?:www\\.)?rudaw\\.net/(?:sorani|kurmanci|english|arabic|turkish)/categories/[a-z0-9-]+/\\d+",
+  "notes": "only date list is the monolithic sitemap https://rudaw.net/sitemap.xml (45,133 urls, rolling back to ~2026-06-03, declared in robots.txt which allows us); no per-day or monthly sitemaps, no dated HTML archive (section pages are client-rendered, probe pages 200 but 0 article links); lastmod = publication date (spot-checked against page date), 172-254 urls/day across 2026-09-25..10-25, 251/205/243 on the 3 check dates, all 5 language editions share the pattern. Articles render server-side (2.4k-5.5k readable chars, no paywall)."
+}

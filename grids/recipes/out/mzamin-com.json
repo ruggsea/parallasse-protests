@@ -1,0 +1,10 @@
+{
+  "list_templates": [
+    "https://www.mzamin.com/archive/{YYYY}-{MM}-{DD}",
+    "https://www.mzamin.com/archive/{YYYY}-{MM}-{DD}/2",
+    "https://www.mzamin.com/archive/{YYYY}-{MM}-{DD}/3",
+    "https://www.mzamin.com/archive/{YYYY}-{MM}-{DD}/4"
+  ],
+  "article_regex": "https://www\\.mzamin\\.com/article/\\d+(?:/[^\\s\"'<>\\\\]+)?",
+  "notes": "Bengali daily on a custom WordPress-like CMS: per-day archive at /archive/{YYYY-MM-DD}, 12 articles per numbered page (/1==base, tested 12+ pages on 09-25/09-30/10-10/10-20 so first 4 pages = 48 URLs/day, all with that day's pub date); article pages /article/<id> are short URLs, server-rendered full text (samples 2.5k-8.2k chars); robots.txt allows all, sitemap.php is a rolling 1000-URL file covering only ~7 days so it cannot cover the window."
+}

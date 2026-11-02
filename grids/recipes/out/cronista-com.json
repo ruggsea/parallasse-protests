@@ -1,0 +1,7 @@
+{
+ "list_templates": [
+  "https://www.cronista.com/arc/outboundfeeds/sitemap/{YYYY}-{MM}-{DD}/?outputType=xml"
+ ],
+ "article_regex": "https://www\\.cronista\\.com/(?!resizer/|files/|preview/|__export/|engine/|tools/|buscador/|ingresa/|pf/|gtg-ec/|0/)(?:[a-z0-9-]+/){1,2}[a-z0-9-]{6,}/",
+ "notes": "cronista.com is Arc publishing: robots.txt allows all and lists /arc/outboundfeeds/sitemap-index; the per-day sitemap /arc/outboundfeeds/sitemap/{YYYY}-{MM}-{DD}/?outputType=xml is a true publication-date archive (198-217 URLs on 2026-09-25/30, 84 on Sat 2026-10-10, 245 on 2026-10-20, and still populated back to 2025-06-01), identical URL set to the sitemap-news/{date} variant; no HTML date archive exists (/archivo/YYYY/MM/DD/ = 404) and section sitemaps are count-chunked full history, not date-indexed"
+}

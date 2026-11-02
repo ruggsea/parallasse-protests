@@ -1,0 +1,7 @@
+{
+ "list_templates": [
+  "https://www.liberoquotidiano.it/sitemap/Articolo-{YYYY}-{MM}.xml"
+ ],
+ "article_regex": "^https://www\\.liberoquotidiano\\.it/news/[a-z0-9_/-]+/\\d{8}/[^\\s<>]+/$",
+ "notes": "Monthly article sitemap (robots-declared sitemap.xml index), <lastmod> per URL is publication/edit day; 55-97 URLs/day. Gap: the site sitemaps hold only 4 URLs for 2026-09-30 (ids 49259502..49261719 missing), so that day cannot be listed."
+}

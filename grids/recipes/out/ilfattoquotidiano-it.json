@@ -1,0 +1,9 @@
+{
+  "list_templates": [
+    "https://www.ilfattoquotidiano.it/{YYYY}/{MM}/{DD}/",
+    "https://www.ilfattoquotidiano.it/{YYYY}/{MM}/{DD}/page/2/",
+    "https://www.ilfattoquotidiano.it/{YYYY}/{MM}/{DD}/page/3/"
+  ],
+  "article_regex": "https?://www\\.ilfattoquotidiano\\.it/\\d{4}/\\d{2}/\\d{2}/[a-z0-9-]+/\\d{5,}/",
+  "notes": "Daily archive /{YYYY}/{MM}/{DD}/ lists the day's articles (~10/page, /page/2/ and /page/3/ disjoint); article URLs are /YYYY/MM/DD/slug/<5+digit id>/ (page links excluded via 5+ digits); robots.txt has no Sitemap lines and no sitemap.xml exists; /section/YYYY/MM/DD/ is a catchall redirect to one 2018 article so do not use section archives; article bodies are plain HTML well over 1500 chars."
+}

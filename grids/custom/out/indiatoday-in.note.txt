@@ -1,0 +1,1 @@
+Style: use polite_fetch.fetch for all HTTP, UTC dates, dedupe by URL, TSV without header.

@@ -1,0 +1,15 @@
+{
+ "name": "custom",
+ "workdir": ".",
+ "brief": "brief.md",
+ "cells": "cells.tsv",
+ "check": ".venv/bin/python grids/custom/check.py {PART} {START} {ID}",
+ "engines": [
+  "liquid"
+ ],
+ "output": "out/{ID}.json",
+ "parallel": "auto",
+ "timeout_s": 3600,
+ "board": true,
+ "worker_cwd": "grids/custom/work/{ID}"
+}

@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://shekulli.com.al/sitemaps/sitemap-{YYYY}-{MM}.xml"
+  ],
+  "article_regex": "^https://shekulli\\.com\\.al/(?:[^\\s\"'<>]*-i\\d+|\\d{4}/\\d\\d/\\d\\d/[^\\s\"'<>]+)$",
+  "notes": "robots.txt is empty ('User-agent: *', no rules) so nothing is disallowed; no daily sitemaps and no dated archive pages exist (/2026/10/10/ and /sitemaps/sitemap-2026-10-10.xml both 404), but /sitemap.xml is an index over monthly urlset files /sitemaps/sitemap-{YYYY}-{MM}.xml whose <lastmod> equals the pagemap publication_date on all 4296 URLs of Sep+Oct 2026, giving 57-96 articles on each check date and 50-100 on every day of 2026-09-25..2026-10-24; article slugs end in -i<id> (site switched from /YYYY/MM/DD/slug to -iNNNN around 09-14, regex accepts both) and article pages are server-rendered with 10k+ readable characters."
+}

@@ -1,0 +1,6 @@
+outlet	domain	leaning	url	quote	note
+Fars News Agency	farsnews.ir	centre_left	https://mediabiasfactcheck.com/fars-news/	Fars News is rated Left-Center with Mixed factual reporting by Media Bias Fact Check.	MBFC bias rating Left-Center mapped to centre_left.
+Mehr News Agency	mehrnews.com	right	https://mediabiasfactcheck.com/mehr-news-agency/	Mehr News Agency is rated Right with Mixed factual reporting by Media Bias Fact Check.	MBFC bias rating Right mapped to right.
+Press TV	presstv.ir	right	https://mediabiasfactcheck.com/press-tv/	Press TV is rated Right with Low factual reporting by Media Bias Fact Check.	MBFC bias rating Right mapped to right.
+Tehran Times	tehrantimes.com	right	https://mediabiasfactcheck.com/tehran-times/	Tehran Times is rated Right with Mixed factual reporting by Media Bias Fact Check.	MBFC bias rating Right mapped to right.
+Donya-e-Eqtesad	donya-e-eqtesad.com	centre_right	https://en.wikipedia.org/wiki/Donya-e-Eqtesad	"political_position"":{""wt"":""Center-right"""	English Wikipedia infobox political position: Center-right.

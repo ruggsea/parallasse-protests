@@ -1,0 +1,5 @@
+{
+  "list_templates": [],
+  "article_regex": "",
+  "notes": "WAF block: instant ~0.1s 403 on every content path (homepage, articles, all 4 robots-declared sitemaps, /archief/, /tags/) on www+apex, http+https, sustained 20+ min (and 403 in earlier worker log 7h prior); robots.txt is 200 but the only other live path is the rolling /rss/ feed (lastBuildDate = today, latest items only, cannot cover 2026-09-25..2026-10-25); since article pages themselves 403, the checker's 1500-char article-text step can never pass, so no recipe exists"
+}

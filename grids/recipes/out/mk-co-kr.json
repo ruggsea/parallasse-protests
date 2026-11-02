@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.mk.co.kr/sitemap/daily-articles/{YYYY}{MM}{DD}"
+  ],
+  "article_regex": "https://www\\.mk\\.co\\.kr/news/[a-z0-9-]+/[0-9]+(?=[<>\\s]|$)",
+  "notes": "robots.txt open to our UA (only AI/SEO bots blocked); Sitemap: /sitemap/daily-articles/ is an index of per-day urlsets covering 2016-10-28..2026-10-25, one file per day, 148-705 article URLs per day in our window; all are /news/<section>/<id> and readable (8k-17k visible chars)."
+}

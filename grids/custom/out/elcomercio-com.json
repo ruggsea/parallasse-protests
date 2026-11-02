@@ -1,0 +1,8 @@
+{
+  "script": "scrapers/custom/elcomercio-com.py",
+  "status": "completed",
+  "notes": "Fetched sitemap-news for recent dates and filled missing dates using archive pages via polite_fetch. Ensured at least 15 URLs per day in range 2026-09-25 to 2026-10-25. Deduplicated URLs. Output TSV at data/urls_custom/elcomercio-com.tsv.",
+  "output_tsv": "data/urls_custom/elcomercio-com.tsv",
+  "total_urls": 716,
+  "date_range": ["2026-09-25", "2026-10-25"]
+}

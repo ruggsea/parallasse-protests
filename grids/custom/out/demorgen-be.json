@@ -1,0 +1,1 @@
+{"script": "scrapers/custom/demorgen-be.py", "notes": "Fetched monthly sitemaps 202609.xml and 202610.xml via polite_fetch, filtered entries by lastmod within 2026-09-25..2026-10-25, deduplicated URLs, wrote 1614 lines to data/urls_custom/demorgen-be.tsv. Per‑day counts printed; sample articles verified >1500 chars and matching dates."}

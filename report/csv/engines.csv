@@ -1,0 +1,6 @@
+model,engine,rows
+A,,231
+A,local3-engine,12548
+A,qwen38-parallasse@artemis,24847
+B,,3
+B,local2-engine,1197

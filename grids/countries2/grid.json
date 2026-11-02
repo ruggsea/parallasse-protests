@@ -1,0 +1,17 @@
+{
+ "name": "countries2",
+ "workdir": ".",
+ "brief": "brief.md",
+ "cells": "cells.tsv",
+ "check": "python3 grids/countries2/check.py {PART} {START} {ID}",
+ "engines": [
+  "liquid",
+  "liquid",
+  "liquid"
+ ],
+ "output": "out/{ID}.tsv",
+ "parallel": "auto",
+ "timeout_s": 900,
+ "board": true,
+ "worker_cwd": "grids/countries2/work/{ID}"
+}

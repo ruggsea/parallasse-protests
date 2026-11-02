@@ -1,0 +1,7 @@
+{
+ "list_templates": [
+  "https://www.panorama.it/post-sitemap150.xml"
+ ],
+ "article_regex": "^https://www\\.panorama\\.it/(?:attualita|economia|lifestyle|cultura|tecnologia|sport|spettacolo|benessere|motori|viaggi|casa|green|panorama-it|[a-z0-9-]+)/(?:[a-z0-9-]+/)*[a-z0-9-]+$",
+ "notes": "Newest WordPress post sitemap (post-sitemap150.xml, covers 2026-09-24..10-24; robots-declared sitemap_index.xml), <lastmod> per URL gives the day. Site publishes only about 10-27 posts/day."
+}

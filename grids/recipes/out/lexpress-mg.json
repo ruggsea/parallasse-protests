@@ -1,0 +1,9 @@
+{
+  "list_templates": [
+    "https://www.lexpress.mg/feeds/posts/default?published-min={YYYY}-{MM}-{DD}T00:00:00%2B03:00&published-max={YYYY}-{MM}-{DD}T23:59:59%2B03:00&max-results=200&alt=atom",
+    "https://www.lexpress.mg/sitemap.xml?page=1",
+    "https://www.lexpress.mg/sitemap.xml?page=2"
+  ],
+  "article_regex": "https?://(?:www\\.)?lexpress\\.mg/\\d{4}/\\d{2}/[A-Za-z0-9_-]+\\.html",
+  "notes": "Blogger site: apex robots.txt is 404 (assumed open) but www/robots.txt answers Allow / except /search, /share-widget; per-day Blogger atom feed with published-min/max in local time UTC+3 returns exactly the day's posts (22-32 in window, equal set to sitemap lastmod on all dates tested), sitemap pages 1-2 declared in robots are the static fallback filtered by lastmod; no daily HTML archive (/YYYY/MM/DD/ 404), /search is robots-disallowed, Sundays and 2026-09-25 have zero posts."
+}

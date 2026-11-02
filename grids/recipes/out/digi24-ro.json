@@ -1,0 +1,7 @@
+{
+ "list_templates": [
+  "https://www.digi24.ro/sitemaps/sitemap-articles-{YYYY}-{MM}.xml"
+ ],
+ "article_regex": "https://www\\.digi24\\.ro/[a-z0-9\\-]+(?:/[a-z0-9\\-]+)*-\\d+$",
+ "notes": "digi24.ro: robots.txt declares /sitemaps/sitemap-index.xml -> ONE monthly article sitemap sitemap-articles-YYYY-MM.xml (2882-3423 urls); lastmod IS the publication date (each file's lastmods span exactly its own month, 09-01..09-30 / 10-01..10-25, no cross-month drift) so the checker's lastmod==date filter keeps exactly that day's articles (132/68/128 on 09-30/10-10/10-20); all locs are https://www.digi24.ro/<lowercase-hyphenated sections ending in -<numeric id>>; no daily sitemap (2026-10-10.xml 404s) and google_news.xml is rolling-only; articles serve full static HTML, 8-18k chars text."
+}

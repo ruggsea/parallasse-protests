@@ -1,0 +1,5 @@
+{
+ "list_templates": [],
+ "article_regex": "^https://www\\.corriere\\.it/[a-z-]+(?:/[a-z0-9-]+)*/\\d{2}_[a-z]+_\\d{1,2}/[a-z0-9-]+\\.shtml$",
+ "notes": "BLOCKED: robots allow sitemaps; /dynamic-sitemap/sitemap-last-100/<Section>.xml hold only the newest 100 per section (all dated 2026-10-24/25 now); /rss/sitemap_v2.xml indexes 2,327 daily files /rss/sitemaps/YYYY/sitemap_MM_DD_items.xml but they hold only 1-6 items per day (mostly video.corriere.it); /sitemap.xml and dated paths (/archivio, /sitemap-YYYY-MM-DD.xml, /<sezione>/26_ottobre_10/) 404; /notizie-ultima-ora/ returns 504 on two attempts; section pages show only the current page. No listing of past days from the own site."
+}

@@ -1,0 +1,8 @@
+{
+  "list_templates": [
+    "https://nilepost.co.ug/sitemap.xml",
+    "https://nilepost.co.ug/news-sitemap.xml"
+  ],
+  "article_regex": "^https?://(?:www\\.)?nilepost\\.co\\.ug/[^\\s'\"<>]+$",
+  "notes": "use numbered post‑sitemaps via the main sitemap; article URLs are absolute and filtered by <lastmod> dates"
+}

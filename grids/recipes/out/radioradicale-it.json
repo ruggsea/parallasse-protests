@@ -1,0 +1,1 @@
+{"list_templates": ["https://www.radioradicale.it/agenda?data={YYYY}-{MM}-{DD}"], "article_regex": "https://www\\.radioradicale\\.it/scheda/[0-9]+/[^\"'<>\\s]+", "notes": "per-day agenda page (site's own per-date listing); /archivio is robots-disallowed, /archivio/*/feed only feed allowed; sitemap.xml is a 20-page id-ordered index, not per-date"}

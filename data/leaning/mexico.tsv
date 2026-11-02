@@ -1,0 +1,17 @@
+outlet	domain	leaning	url1	quote1	url2	quote2	note
+La Jornada	jornada.com.mx	left	https://mediabiasfactcheck.com/la-jornada/	Overall, we rate La Jornada as Left Biased based on consistent ideological framing of political power and strong opposition to U.S. and neoliberal policies.	https://es.wikipedia.org/wiki/La_Jornada_(M%C3%A9xico)	el apoyo a las causas de izquierda y una línea editorial progresista	homepage answers HTTP 403 to our fetcher (bot block), site is live
+Reforma	reforma.com	unclassified	https://en.wikipedia.org/wiki/Reforma_(newspaper)	Despite its avowed independent editorial style, Reforma has been labeled as a right-wing newspaper			only one source (en.wikipedia: labeled right-wing in references despite its avowed independent style); es.wikipedia has no placement
+Proceso	proceso.com.mx	unclassified	https://en.wikipedia.org/wiki/Proceso_(magazine)	was traditionally renowned for its left-wing journalism.			only one source (en.wikipedia: traditionally left-wing journalism); es.wikipedia describes harsh criticism of governments, no placement
+Letras Libres	letraslibres.com	unclassified	https://en.wikipedia.org/wiki/Letras_Libres	in its political views, stating it represents the Mexican cultural and literary establishment			only one source (en.wikipedia: described as right-wing by critics); es.wikipedia says liberal and open spirit, no left-right placement
+Milenio	milenio.com	unclassified					no fetched source gives a left-right placement
+El Financiero	elfinanciero.com.mx	unclassified					business daily; no fetched source gives a left-right placement
+El Economista	eleconomista.com.mx	unclassified					business daily; no fetched source gives a left-right placement
+La Razón	razon.com.mx	unclassified					no fetched source gives a left-right placement
+Televisa	noticieros.televisa.com	unclassified					en.wikipedia describes close ties to governments, not a left-right placement
+Heraldo de México	heraldodemexico.com.mx	unclassified					en.wikipedia only cites a headline calling it a conservative business and says it was loyal to governments in power; no placement quotable beyond that
+Latinus	latinus.us	unclassified					no fetched source gives a left-right placement
+Canal Once	canalonce.mx	unclassified					public broadcaster; no fetched source gives a left-right placement
+Imagen Radio	imagen.com.mx	unclassified					no fetched source gives a left-right placement
+Excélsior	excelsior.com.mx	unclassified					no fetched source gives a left-right placement
+Animal Político	animalpolitico.com	unclassified					no fetched source gives a left-right placement
+Expansión	expansion.mx	unclassified					business magazine; no fetched source gives a left-right placement

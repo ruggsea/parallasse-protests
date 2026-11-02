@@ -1,0 +1,5 @@
+{
+ "list_templates": [],
+ "article_regex": "^https://www\\.unionesarda\\.it/[a-z0-9-]+(?:/[a-z0-9-]+)*/[a-z0-9-]+-[a-z0-9]{8}$",
+ "notes": "BLOCKED: robots allow all, but the only sitemaps (sitemaps/sitemap_index.xml -> sitemap_news1.xml = last 2 days only, sitemap1.xml = 242 section/old URLs) hold no history; no sitemap2/news2, no feedservice sitemaps (404), /archivio/ and /ultime-notizie 404; edicola.unionesarda.it is a subscription print edition. Section pages have no date paging."
+}

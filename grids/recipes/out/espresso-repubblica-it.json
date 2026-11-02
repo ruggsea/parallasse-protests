@@ -1,0 +1,5 @@
+{
+ "list_templates": [],
+ "article_regex": "^https://lespresso\\.it/c/[a-z-]+/\\d{4}/\\d{1,2}/\\d{1,2}/[^\\s<>]+/\\d+$",
+ "notes": "BLOCKED: espresso.repubblica.it now redirects/serves the relaunched site lespresso.it (Nuxt); its sitemap.xml index lists 12 section sitemaps (politica, attualita, archivio...) that are all EMPTY urlsets; /archivio, /sitemap.xml, news-sitemap, category pages (client-rendered) give no article list. Output is only ~15-20 articles/day across all sections (ids 65061 on 10-02 to 65496 on 10-24) so 15 per day would not be reached anyway."
+}

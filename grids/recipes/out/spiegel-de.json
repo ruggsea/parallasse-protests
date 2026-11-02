@@ -1,0 +1,3 @@
+{"list_templates": ["https://www.spiegel.de/nachrichtenarchiv/artikel-{DD}.{MM}.{YYYY}.html"],
+ "article_regex": "https://www\\.spiegel\\.de/[a-z0-9\\-/]+-a-[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}",
+ "notes": "spiegel.de daily news archive https://www.spiegel.de/nachrichtenarchiv/artikel-DD.MM.YYYY.html (title 'Nachrichtenarchiv - DER SPIEGEL Artikel vom D.M.Y') lists that day's articles; robots.txt allows our bot; 200 on all of 2026-09-25..2026-10-25 with 66-117 distinct article URLs (131/80/115 on check dates after link+embedded-URL collection), articles no paywall, 18-20k readable chars; monthly sitemaps /sitemaps/article/sitemap-YYYY-MM_N.xml exist but months run 30+ chunks so they hit the 4-template cap"}

@@ -1,0 +1,7 @@
+{
+ "list_templates": [
+  "https://www.ilgiornale.it/arc/outboundfeeds/sitemap2/{YYYY}-{MM}-{DD}/?outputType=xml"
+ ],
+ "article_regex": "https://www\\.ilgiornale\\.it/(?:news|intervista|diretta)/[a-z0-9-]+/[a-z0-9-]+/",
+ "notes": "Daily sitemap per date (Arc publishing); shard number in path (sitemap/sitemap2/sitemap3) is a cache-buster, server serves the date regardless; 105-132 URLs/day, all lastmod on that day; robots.txt allows /arc/outboundfeeds/"
+}

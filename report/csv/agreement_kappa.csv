@@ -1,0 +1,11 @@
+comparison,field,n,kappa,agreement
+modello A (Qwen3.8-27B) contro modello B (gpt-oss-120b),stance_protesters,598,0.6619191001260527,0.774247491638796
+modello A (Qwen3.8-27B) contro modello B (gpt-oss-120b),stance_demands,598,0.6566907708217826,0.7558528428093646
+modello A (Qwen3.8-27B) contro modello B (gpt-oss-120b),protest_type,598,0.6257674757807803,0.7876254180602007
+modello A (Qwen3.8-27B) contro modello B (gpt-oss-120b),headline_stance_protesters,600,0.505437724521431,0.665
+modello A (Qwen3.8-27B) contro modello B (gpt-oss-120b),headline_frame,600,0.6435973256792029,0.7716666666666666
+modello A contro lettura di Claude,stance_protesters,299,0.6425933524825604,0.7759197324414716
+modello A contro lettura di Claude,stance_demands,299,0.6474056603773586,0.7591973244147158
+modello A contro lettura di Claude,protest_type,299,0.6334376315163492,0.7759197324414716
+modello A contro lettura di Claude,headline_stance_protesters,300,0.44713199723566,0.6533333333333333
+modello A contro lettura di Claude,headline_frame,300,0.6368426674262114,0.7733333333333333

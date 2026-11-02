@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.news24.com/news24/sitemapindex/0/{YYYY}/{MM}/{DD}"
+  ],
+  "article_regex": "https://www\\.news24\\.com/(?:[a-z0-9-]+/)*[a-z0-9-]*-202[0-9]{5}-[0-9]{4}(?=[<>\\s]|$)",
+  "notes": "robots.txt open (Allow: /) declares Sitemap: https://www.news24.com/sitemap, an index of ONE per-day file /news24/sitemapindex/0/YYYY/MM/DD (urlset of that day's URLs, lastmod DD-MM-YYYY; index lists unpadded days but zero-padded serves the same file, verified 10/05=10/5). Verified 130/76/126 matched URLs on 09-30/10-10/10-20 and 108 on 09-25, all >=15. TRAP: the file is keyed by lastmod, so ~15% of entries are older articles (slug date in URL = publication date YYYYMMDD) merely updated that day - filter on the slug date if publication day matters. Every URL ends -YYYYMMDD-NNNN incl. 6 root-level author pages; sample articles 2.5k-14k text chars."
+}

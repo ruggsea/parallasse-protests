@@ -1,0 +1,16 @@
+step,n
+Testate nell'elenco,841
+Testate con articoli raccolti (file in data/articles),
+Articoli raccolti (somma delle colonne del registro),1439388
+Candidati del primo filtro a parole chiave,110894
+Candidati del secondo filtro,9283
+Articoli etichettati per pertinenza,120040
+Su proteste (protest=1),42431
+Su proteste giovanili (protest=1 e youth=1): insieme da analizzare,18489
+Articoli già etichettati (titolo o testo) dal modello A,18355
+Con etichetta del titolo,18353
+Con etichetta del testo,17445
+"Testi analizzati (non troncati, non dirette)",13253
+Di cui proteste nel paese della testata (copertura interna),7317
+Testi esclusi perché troncati (paywall o brevi),4124
+Testi esclusi perché dirette (oltre 30000 caratteri),68

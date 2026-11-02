@@ -1,0 +1,842 @@
+id	country	outlet	domain
+corriere-it	Italy	Corriere della Sera	corriere.it
+lastampa-it	Italy	La Stampa	lastampa.it
+ilsole24ore-com	Italy	Il Sole 24 Ore	ilsole24ore.com
+ilgiornale-it	Italy	Il Giornale	ilgiornale.it
+liberoquotidiano-it	Italy	Libero	liberoquotidiano.it
+ilfattoquotidiano-it	Italy	Il Fatto Quotidiano	ilfattoquotidiano.it
+ilmanifesto-it	Italy	il manifesto	ilmanifesto.it
+avvenire-it	Italy	Avvenire	avvenire.it
+ilfoglio-it	Italy	Il Foglio	ilfoglio.it
+editorialedomani-it	Italy	Domani	editorialedomani.it
+ilmessaggero-it	Italy	Il Messaggero	ilmessaggero.it
+ilrestodelcarlino-it	Italy	Il Resto del Carlino	ilrestodelcarlino.it
+ilmattino-it	Italy	Il Mattino	ilmattino.it
+ilsecoloxix-it	Italy	Il Secolo XIX	ilsecoloxix.it
+lanazione-it	Italy	La Nazione	lanazione.it
+ilgazzettino-it	Italy	Il Gazzettino	ilgazzettino.it
+lagazzettadelmezzogiorno-it	Italy	Gazzetta del Mezzogiorno	lagazzettadelmezzogiorno.it
+unionesarda-it	Italy	L'Unione Sarda	unionesarda.it
+rai-it	Italy	Rai	rai.it
+rainews-it	Italy	Rai News 24	rainews.it
+tg1-rai-it	Italy	TG1	tg1.rai.it
+tg5-mediaset-it	Italy	TG5	tg5.mediaset.it
+tg-la7-it	Italy	Tg La7	tg.la7.it
+tg24-sky-it	Italy	Sky TG24	tg24.sky.it
+mediaset-it	Italy	Mediaset	mediaset.it
+rete4-mediaset-it	Italy	Rete 4	rete4.mediaset.it
+ansa-it	Italy	ANSA	ansa.it
+adnkronos-com	Italy	Adnkronos	adnkronos.com
+agi-it	Italy	Agenzia Italia	agi.it
+ilpost-it	Italy	Il Post	ilpost.it
+fanpage-it	Italy	Fanpage.it	fanpage.it
+huffingtonpost-it	Italy	HuffPost Italia	huffingtonpost.it
+espresso-repubblica-it	Italy	L'Espresso	espresso.repubblica.it
+internazionale-it	Italy	Internazionale	internazionale.it
+panorama-it	Italy	Panorama	panorama.it
+famigliacristiana-it	Italy	Famiglia Cristiana	famigliacristiana.it
+radioradicale-it	Italy	Radio Radicale	radioradicale.it
+radio24-ilsole24ore-com	Italy	Radio 24	radio24.ilsole24ore.com
+raiplaysound-it	Italy	Radio Rai	raiplaysound.it
+gazzetta-it	Italy	Gazzetta dello Sport	gazzetta.it
+iltempo-it	Italy	Il Tempo	iltempo.it
+linkiesta-it	Italy	Linkiesta	linkiesta.it
+ilriformista-it	Italy	Il Riformista	ilriformista.it
+lemonde-fr	France	Le Monde	lemonde.fr
+lefigaro-fr	France	Le Figaro	lefigaro.fr
+liberation-fr	France	Libération	liberation.fr
+humanite-fr	France	L'Humanité	humanite.fr
+lesechos-fr	France	Les Echos	lesechos.fr
+la-croix-com	France	La Croix	la-croix.com
+leparisien-fr	France	Le Parisien	leparisien.fr
+lequipe-fr	France	L'Équipe	lequipe.fr
+ouest-france-fr	France	Ouest-France	ouest-france.fr
+sudouest-fr	France	Sud Ouest	sudouest.fr
+lavoixdunord-fr	France	La Voix du Nord	lavoixdunord.fr
+bfmtv-com	France	BFMTV	bfmtv.com
+cnews-fr	France	CNews	cnews.fr
+tf1info-fr	France	LCI	tf1info.fr
+francetvinfo-fr	France	franceinfo	francetvinfo.fr
+tf1-fr	France	TF1	tf1.fr
+afp-com	France	Agence France-Presse	afp.com
+mediapart-fr	France	Mediapart	mediapart.fr
+lemediatv-fr	France	Le Média	lemediatv.fr
+streetpress-com	France	StreetPress	streetpress.com
+brut-media	France	Brut	brut.media
+lexpress-fr	France	L'Express	lexpress.fr
+lepoint-fr	France	Le Point	lepoint.fr
+marianne-net	France	Marianne	marianne.net
+valeursactuelles-com	France	Valeurs actuelles	valeursactuelles.com
+charliehebdo-fr	France	Charlie Hebdo	charliehebdo.fr
+lecanardenchaine-fr	France	Le Canard enchaîné	lecanardenchaine.fr
+radiofrance-fr	France	France Inter	radiofrance.fr
+rtl-fr	France	RTL	rtl.fr
+europe1-fr	France	Europe 1	europe1.fr
+france-tv	France	France 2	france.tv
+letelegramme-fr	France	Le Télégramme	letelegramme.fr
+ladepeche-fr	France	La Dépêche du Midi	ladepeche.fr
+panorama-com-al	Albania	Panorama	panorama.com.al
+shekulli-com-al	Albania	Shekulli	shekulli.com.al
+gazetashqiptare-al	Albania	Gazeta Shqiptare	gazetashqiptare.al
+kohajone-com	Albania	Koha Jonë	kohajone.com
+gazetatema-net	Albania	Gazeta Tema	gazetatema.net
+albaniandailynews-com	Albania	Albanian Daily News	albaniandailynews.com
+top-channel-tv	Albania	Top Channel	top-channel.tv
+tvklan-al	Albania	TV Klan	tvklan.al
+vizionplus-tv	Albania	Vizion Plus	vizionplus.tv
+oranews-tv	Albania	Ora News	oranews.tv
+abcnews-al	Albania	ABC News Albania	abcnews.al
+rtsh-al	Albania	RTSH	rtsh.al
+ata-gov-al	Albania	Albanian Telegraphic Agency	ata.gov.al
+euronews-al	Albania	Euronews Albania	euronews.al
+clarin-com	Argentina	Clarín	clarin.com
+lanacion-com-ar	Argentina	La Nación	lanacion.com.ar
+pagina12-com-ar	Argentina	Página/12	pagina12.com.ar
+infobae-com	Argentina	Infobae	infobae.com
+perfil-com	Argentina	Perfil	perfil.com
+ambito-com	Argentina	Ámbito Financiero	ambito.com
+cronista-com	Argentina	El Cronista Comercial	cronista.com
+tn-com-ar	Argentina	Todo Noticias	tn.com.ar
+c5n-com	Argentina	C5N	c5n.com
+lavoz-com-ar	Argentina	La Voz del Interior	lavoz.com.ar
+losandes-com-ar	Argentina	Los Andes	losandes.com.ar
+eldia-com	Argentina	El Día	eldia.com
+lagaceta-com-ar	Argentina	La Gaceta	lagaceta.com.ar
+laizquierdadiario-com	Argentina	La Izquierda Diario	laizquierdadiario.com
+radiomitre-cienradios-com	Argentina	Radio Mitre	radiomitre.cienradios.com
+eltrecetv-com-ar	Argentina	Canal 13	eltrecetv.com.ar
+tvpublica-com-ar	Argentina	Televisión Pública Argentina	tvpublica.com.ar
+abc-net-au	Australia	Australian Broadcasting Corporation	abc.net.au
+sbs-com-au	Australia	SBS	sbs.com.au
+smh-com-au	Australia	Sydney Morning Herald	smh.com.au
+theage-com-au	Australia	The Age	theage.com.au
+theaustralian-com-au	Australia	The Australian	theaustralian.com.au
+heraldsun-com-au	Australia	Herald Sun	heraldsun.com.au
+dailytelegraph-com-au	Australia	Daily Telegraph	dailytelegraph.com.au
+couriermail-com-au	Australia	The Courier-Mail	couriermail.com.au
+thewest-com-au	Australia	West Australian	thewest.com.au
+afr-com	Australia	Australian Financial Review	afr.com
+theguardian-com	Australia	Guardian Australia	theguardian.com
+news-com-au	Australia	news.com.au	news.com.au
+skynews-com-au	Australia	Sky News Australia	skynews.com.au
+9news-com-au	Australia	Nine News	9news.com.au
+canberratimes-com-au	Australia	The Canberra Times	canberratimes.com.au
+aap-com-au	Australia	Australian Associated Press	aap.com.au
+theconversation-com	Australia	The Conversation	theconversation.com
+crikey-com-au	Australia	Crikey	crikey.com.au
+thenewdaily-com-au	Australia	The New Daily	thenewdaily.com.au
+thesaturdaypaper-com-au	Australia	The Saturday Paper	thesaturdaypaper.com.au
+krone-at	Austria	Kronen Zeitung	krone.at
+derstandard-at	Austria	Der Standard	derstandard.at
+diepresse-com	Austria	Die Presse	diepresse.com
+kurier-at	Austria	Kurier	kurier.at
+kleinezeitung-at	Austria	Kleine Zeitung	kleinezeitung.at
+sn-at	Austria	Salzburger Nachrichten	sn.at
+heute-at	Austria	Heute	heute.at
+oe24-at	Austria	Österreich	oe24.at
+wienerzeitung-at	Austria	Wiener Zeitung	wienerzeitung.at
+tt-com	Austria	Tiroler Tageszeitung	tt.com
+falter-at	Austria	Falter	falter.at
+profil-at	Austria	profil	profil.at
+orf-at	Austria	ORF	orf.at
+apa-at	Austria	APA	apa.at
+nachrichten-at	Austria	Oberösterreichische Nachrichten	nachrichten.at
+vn-at	Austria	Vorarlberger Nachrichten	vn.at
+exxpress-at	Austria	exxpress	exxpress.at
+prothomalo-com	Bangladesh	Prothom Alo	prothomalo.com
+thedailystar-net	Bangladesh	The Daily Star	thedailystar.net
+kalerkantho-com	Bangladesh	Kaler Kantho	kalerkantho.com
+jugantor-com	Bangladesh	Jugantor	jugantor.com
+ittefaq-com-bd	Bangladesh	Ittefaq	ittefaq.com.bd
+dhakatribune-com	Bangladesh	Dhaka Tribune	dhakatribune.com
+newagebd-net	Bangladesh	New Age	newagebd.net
+tbsnews-net	Bangladesh	The Business Standard	tbsnews.net
+bdnews24-com	Bangladesh	bdnews24	bdnews24.com
+bss-org-bd	Bangladesh	BSS	bss.org.bd
+bd-pratidin-com	Bangladesh	Bangladesh Pratidin	bd-pratidin.com
+samakal-com	Bangladesh	Samakal	samakal.com
+dailynayadiganta-com	Bangladesh	Naya Diganta	dailynayadiganta.com
+thefinancialexpress-com-bd	Bangladesh	Financial Express	thefinancialexpress.com.bd
+mzamin-com	Bangladesh	Manab Zamin	mzamin.com
+channelionline-com	Bangladesh	Channel i	channelionline.com
+standaard-be	Belgium	De Standaard	standaard.be
+hln-be	Belgium	Het Laatste Nieuws	hln.be
+nieuwsblad-be	Belgium	Het Nieuwsblad	nieuwsblad.be
+demorgen-be	Belgium	De Morgen	demorgen.be
+lesoir-be	Belgium	Le Soir	lesoir.be
+lalibre-be	Belgium	La Libre Belgique	lalibre.be
+dhnet-be	Belgium	La Dernière Heure	dhnet.be
+tijd-be	Belgium	De Tijd	tijd.be
+gva-be	Belgium	Gazet van Antwerpen	gva.be
+hbvl-be	Belgium	Het Belang van Limburg	hbvl.be
+vrt-be	Belgium	VRT	vrt.be
+rtbf-be	Belgium	RTBF	rtbf.be
+rtl-be	Belgium	RTL Belgium	rtl.be
+knack-be	Belgium	Knack	knack.be
+levif-be	Belgium	Le Vif	levif.be
+belganewsagency-eu	Belgium	Belga	belganewsagency.eu
+sudinfo-be	Belgium	Sudinfo	sudinfo.be
+avaz-ba	Bosnia And Herzegovina	Dnevni avaz	avaz.ba
+oslobodjenje-ba	Bosnia And Herzegovina	Oslobođenje	oslobodjenje.ba
+klix-ba	Bosnia And Herzegovina	Klix.ba	klix.ba
+nezavisne-com	Bosnia And Herzegovina	Nezavisne novine	nezavisne.com
+glassrpske-com	Bosnia And Herzegovina	Glas Srpske	glassrpske.com
+rtrs-tv	Bosnia And Herzegovina	RTRS	rtrs.tv
+bhrt-ba	Bosnia And Herzegovina	BHRT	bhrt.ba
+n1info-ba	Bosnia And Herzegovina	N1	n1info.ba
+hayat-ba	Bosnia And Herzegovina	Hayat TV	hayat.ba
+face-ba	Bosnia And Herzegovina	Face TV	face.ba
+fena-ba	Bosnia And Herzegovina	FENA	fena.ba
+radiosarajevo-ba	Bosnia And Herzegovina	Radio Sarajevo	radiosarajevo.ba
+vecernji-ba	Bosnia And Herzegovina	Večernji list	vecernji.ba
+folha-uol-com-br	Brazil	Folha de S.Paulo	folha.uol.com.br
+estadao-com-br	Brazil	O Estado de S. Paulo	estadao.com.br
+oglobo-globo-com	Brazil	O Globo	oglobo.globo.com
+correiobraziliense-com-br	Brazil	Correio Braziliense	correiobraziliense.com.br
+gauchazh-clicrbs-com-br	Brazil	Zero Hora	gauchazh.clicrbs.com.br
+valor-globo-com	Brazil	Valor Econômico	valor.globo.com
+cartacapital-com-br	Brazil	CartaCapital	cartacapital.com.br
+veja-abril-com-br	Brazil	Veja	veja.abril.com.br
+agenciabrasil-ebc-com-br	Brazil	Agência Brasil	agenciabrasil.ebc.com.br
+r7-com	Brazil	Record	r7.com
+jovempan-com-br	Brazil	Jovem Pan	jovempan.com.br
+brasildefato-com-br	Brazil	Brasil de Fato	brasildefato.com.br
+metropoles-com	Brazil	Metrópoles	metropoles.com
+gazetadopovo-com-br	Brazil	Gazeta do Povo	gazetadopovo.com.br
+cnnbrasil-com-br	Brazil	CNN Brasil	cnnbrasil.com.br
+em-com-br	Brazil	Estado de Minas	em.com.br
+band-uol-com-br	Brazil	Band	band.uol.com.br
+24chasa-bg	Bulgaria	24 Часа	24chasa.bg
+mediapool-bg	Bulgaria	Mediapool	mediapool.bg
+nova-bg	Bulgaria	Nova	nova.bg
+segabg-com	Bulgaria	Сега	segabg.com
+monitor-bg	Bulgaria	Monitor	monitor.bg
+standartnews-com	Bulgaria	Standart	standartnews.com
+duma-bg	Bulgaria	Дума	duma.bg
+bnr-bg	Bulgaria	Bulgarian National Radio	bnr.bg
+clubz-bg	Bulgaria	Club Z	clubz.bg
+dir-bg	Bulgaria	Dir.bg	dir.bg
+news-bg	Bulgaria	News.bg	news.bg
+offnews-bg	Bulgaria	OFFNews	offnews.bg
+vesti-bg	Bulgaria	Vesti.bg	vesti.bg
+bntnews-bg	Bulgaria	Bulgarian National Television	bntnews.bg
+bta-bg	Bulgaria	Bulgarian Telegraph Agency	bta.bg
+theglobeandmail-com	Canada	The Globe and Mail	theglobeandmail.com
+thestar-com	Canada	Toronto Star	thestar.com
+nationalpost-com	Canada	National Post	nationalpost.com
+cbc-ca	Canada	CBC News	cbc.ca
+ctvnews-ca	Canada	CTV News	ctvnews.ca
+globalnews-ca	Canada	Global News	globalnews.ca
+lapresse-ca	Canada	La Presse	lapresse.ca
+ledevoir-com	Canada	Le Devoir	ledevoir.com
+journaldemontreal-com	Canada	Le Journal de Montréal	journaldemontreal.com
+torontosun-com	Canada	Toronto Sun	torontosun.com
+thecanadianpress-com	Canada	The Canadian Press	thecanadianpress.com
+thetyee-ca	Canada	The Tyee	thetyee.ca
+ottawacitizen-com	Canada	Ottawa Citizen	ottawacitizen.com
+vancouversun-com	Canada	Vancouver Sun	vancouversun.com
+ici-radio-canada-ca	Canada	Radio-Canada	ici.radio-canada.ca
+westernstandard-news	Canada	Western Standard	westernstandard.news
+thewalrus-ca	Canada	The Walrus	thewalrus.ca
+aptnnews-ca	Canada	APTN	aptnnews.ca
+winnipegfreepress-com	Canada	Winnipeg Free Press	winnipegfreepress.com
+montrealgazette-com	Canada	Montreal Gazette	montrealgazette.com
+elmercurio-com	Chile	El Mercurio	elmercurio.com
+latercera-com	Chile	La Tercera	latercera.com
+lun-com	Chile	Las Últimas Noticias	lun.com
+lacuarta-com	Chile	La Cuarta	lacuarta.com
+elmostrador-cl	Chile	El Mostrador	elmostrador.cl
+emol-com	Chile	Emol	emol.com
+biobiochile-cl	Chile	BioBioChile	biobiochile.cl
+tvn-cl	Chile	Televisión Nacional de Chile	tvn.cl
+13-cl	Chile	Canal 13	13.cl
+mega-cl	Chile	Mega	mega.cl
+cnnchile-com	Chile	CNN Chile	cnnchile.com
+cooperativa-cl	Chile	Cooperativa	cooperativa.cl
+eldinamo-cl	Chile	El Dínamo	eldinamo.cl
+theclinic-cl	Chile	The Clinic	theclinic.cl
+df-cl	Chile	Diario Financiero	df.cl
+lasegunda-com	Chile	La Segunda	lasegunda.com
+ellibero-cl	Chile	El Líbero	ellibero.cl
+ex-ante-cl	Chile	Ex-Ante	ex-ante.cl
+chv-cl	Chile	Chilevisión	chv.cl
+publimetro-cl	Chile	Publimetro Chile	publimetro.cl
+eltiempo-com	Colombia	El Tiempo	eltiempo.com
+elespectador-com	Colombia	El Espectador	elespectador.com
+semana-com	Colombia	Semana	semana.com
+elcolombiano-com	Colombia	El Colombiano	elcolombiano.com
+elheraldo-co	Colombia	El Heraldo	elheraldo.co
+noticiascaracol-com	Colombia	Noticias Caracol	noticiascaracol.com
+noticiasrcn-com	Colombia	Noticias RCN	noticiasrcn.com
+noticiasuno-com	Colombia	Noticias Uno	noticiasuno.com
+rtvc-gov-co	Colombia	RTVC	rtvc.gov.co
+bluradio-com	Colombia	Blu Radio	bluradio.com
+caracol-com-co	Colombia	Caracol Radio	caracol.com.co
+pulzo-com	Colombia	Pulzo	pulzo.com
+lasillavacia-com	Colombia	La Silla Vacía	lasillavacia.com
+elnuevosiglo-com-co	Colombia	El Nuevo Siglo	elnuevosiglo.com.co
+vanguardia-com	Colombia	Vanguardia	vanguardia.com
+cambiocolombia-com	Colombia	Cambio	cambiocolombia.com
+elcomercio-com	Ecuador	El Comercio	elcomercio.com
+eluniverso-com	Ecuador	El Universo	eluniverso.com
+expreso-ec	Ecuador	Expreso	expreso.ec
+extra-ec	Ecuador	Extra	extra.ec
+eltelegrafo-com-ec	Ecuador	El Telégrafo	eltelegrafo.com.ec
+primicias-ec	Ecuador	Primicias	primicias.ec
+teleamazonas-com	Ecuador	Teleamazonas	teleamazonas.com
+vistazo-com	Ecuador	Vistazo	vistazo.com
+planv-com-ec	Ecuador	Plan V	planv.com.ec
+elmercurio-com-ec	Ecuador	El Mercurio	elmercurio.com.ec
+ecuadortv-ec	Ecuador	Ecuador TV	ecuadortv.ec
+radiopichincha-com	Ecuador	Radio Pichincha	radiopichincha.com
+metroecuador-com-ec	Ecuador	Metro Ecuador	metroecuador.com.ec
+spiegel-de	Germany	Der Spiegel	spiegel.de
+sueddeutsche-de	Germany	Süddeutsche Zeitung	sueddeutsche.de
+faz-net	Germany	Frankfurter Allgemeine Zeitung	faz.net
+welt-de	Germany	Die Welt	welt.de
+bild-de	Germany	Bild	bild.de
+taz-de	Germany	taz	taz.de
+handelsblatt-com	Germany	Handelsblatt	handelsblatt.com
+tagesspiegel-de	Germany	Der Tagesspiegel	tagesspiegel.de
+jungewelt-de	Germany	junge Welt	jungewelt.de
+nd-aktuell-de	Germany	Neues Deutschland	nd-aktuell.de
+jungefreiheit-de	Germany	Junge Freiheit	jungefreiheit.de
+berliner-zeitung-de	Germany	Berliner Zeitung	berliner-zeitung.de
+tagesschau-de	Germany	Tagesschau	tagesschau.de
+zdf-de	Germany	ZDF	zdf.de
+deutschlandfunk-de	Germany	Deutschlandfunk	deutschlandfunk.de
+dpa-com	Germany	Deutsche Presse-Agentur	dpa.com
+rp-online-de	Germany	Rheinische Post	rp-online.de
+stern-de	Germany	Stern	stern.de
+kathimerini-gr	Greece	Kathimerini	kathimerini.gr
+tovima-gr	Greece	To Vima	tovima.gr
+ethnos-gr	Greece	Ethnos	ethnos.gr
+protothema-gr	Greece	Proto Thema	protothema.gr
+efsyn-gr	Greece	Efimerida ton Syntakton	efsyn.gr
+avgi-gr	Greece	Αυγή	avgi.gr
+naftemporiki-gr	Greece	Naftemporiki	naftemporiki.gr
+documentonews-gr	Greece	Documento	documentonews.gr
+ertnews-gr	Greece	ERT	ertnews.gr
+in-gr	Greece	in.gr	in.gr
+tanea-gr	Greece	Ta Nea	tanea.gr
+amna-gr	Greece	Athens-Macedonian News Agency	amna.gr
+eleftherostypos-gr	Greece	Eleftheros Typos	eleftherostypos.gr
+megatv-com	Greece	MEGA	megatv.com
+iefimerida-gr	Greece	iefimerida	iefimerida.gr
+thehindu-com	India	The Hindu	thehindu.com
+timesofindia-indiatimes-com	India	The Times of India	timesofindia.indiatimes.com
+hindustantimes-com	India	Hindustan Times	hindustantimes.com
+indianexpress-com	India	The Indian Express	indianexpress.com
+telegraphindia-com	India	The Telegraph	telegraphindia.com
+jagran-com	India	Dainik Jagran	jagran.com
+bhaskar-com	India	Dainik Bhaskar	bhaskar.com
+amarujala-com	India	Amar Ujala	amarujala.com
+eenadu-net	India	Eenadu	eenadu.net
+manoramaonline-com	India	Malayala Manorama	manoramaonline.com
+indiatoday-in	India	India Today	indiatoday.in
+republicworld-com	India	Republic TV	republicworld.com
+thewire-in	India	The Wire	thewire.in
+scroll-in	India	Scroll.in	scroll.in
+theprint-in	India	ThePrint	theprint.in
+ptinews-com	India	Press Trust of India	ptinews.com
+organiser-org	India	Organiser	organiser.org
+frontline-thehindu-com	India	Frontline	frontline.thehindu.com
+kompas-com	Indonesia	Kompas	kompas.com
+tempo-co	Indonesia	Tempo	tempo.co
+thejakartapost-com	Indonesia	The Jakarta Post	thejakartapost.com
+pikiran-rakyat-com	Indonesia	Pikiran Rakyat	pikiran-rakyat.com
+detik-com	Indonesia	Detik	detik.com
+republika-co-id	Indonesia	Republika	republika.co.id
+mediaindonesia-com	Indonesia	Media Indonesia	mediaindonesia.com
+jawapos-com	Indonesia	Jawa Pos	jawapos.com
+liputan6-com	Indonesia	Liputan6	liputan6.com
+cnnindonesia-com	Indonesia	CNN Indonesia	cnnindonesia.com
+antaranews-com	Indonesia	Antara	antaranews.com
+metrotvnews-com	Indonesia	Metro TV	metrotvnews.com
+tvonenews-com	Indonesia	tvOne	tvonenews.com
+beritasatu-com	Indonesia	Berita Satu	beritasatu.com
+kontan-co-id	Indonesia	Kontan	kontan.co.id
+suaramerdeka-com	Indonesia	Suara Merdeka	suaramerdeka.com
+rm-id	Indonesia	Rakyat Merdeka	rm.id
+okezone-com	Indonesia	Okezone	okezone.com
+hamshahrionline-ir	Iran	Hamshahri	hamshahrionline.ir
+kayhan-ir	Iran	Kayhan	kayhan.ir
+ettelaat-com	Iran	Ettelaat	ettelaat.com
+irannewspaper-ir	Iran	Iran	irannewspaper.ir
+sharghdaily-com	Iran	Shargh	sharghdaily.com
+donya-e-eqtesad-com	Iran	Donya-e-Eqtesad	donya-e-eqtesad.com
+hammihanonline-ir	Iran	Ham-Mihan	hammihanonline.ir
+irna-ir	Iran	IRNA	irna.ir
+farsnews-ir	Iran	Fars News Agency	farsnews.ir
+mehrnews-com	Iran	Mehr News Agency	mehrnews.com
+isna-ir	Iran	ISNA	isna.ir
+presstv-ir	Iran	Press TV	presstv.ir
+tabnak-ir	Iran	Tabnak	tabnak.ir
+khabaronline-ir	Iran	KhabarOnline	khabaronline.ir
+entekhab-ir	Iran	Entekhab	entekhab.ir
+tehrantimes-com	Iran	Tehran Times	tehrantimes.com
+almadapaper-net	Iraq	Al-Mada	almadapaper.net
+azzaman-com	Iraq	Azzaman	azzaman.com
+ina-iq	Iraq	Iraqi News Agency	ina.iq
+imn-iq	Iraq	Al Iraqiya	imn.iq
+alsumaria-tv	Iraq	Al Sumaria	alsumaria.tv
+alsharqiya-com	Iraq	Al Sharqiya	alsharqiya.com
+rudaw-net	Iraq	Rudaw	rudaw.net
+kurdistan24-net	Iraq	Kurdistan24	kurdistan24.net
+hawlati-co	Iraq	Hawlati	hawlati.co
+albaghdadia-com	Iraq	Al Baghdadia	albaghdadia.com
+kurdsat-tv	Iraq	Kurdsat	kurdsat.tv
+irishtimes-com	Ireland	The Irish Times	irishtimes.com
+independent-ie	Ireland	Irish Independent	independent.ie
+irishexaminer-com	Ireland	Irish Examiner	irishexaminer.com
+thejournal-ie	Ireland	The Journal	thejournal.ie
+rte-ie	Ireland	RTÉ	rte.ie
+businesspost-ie	Ireland	Business Post	businesspost.ie
+newstalk-com	Ireland	Newstalk	newstalk.com
+gript-ie	Ireland	Gript	gript.ie
+sundayworld-com	Ireland	Sunday World	sundayworld.com
+hotpress-com	Ireland	Hot Press	hotpress.com
+echolive-ie	Ireland	The Echo	echolive.ie
+breakingnews-ie	Ireland	BreakingNews.ie	breakingnews.ie
+tg4-ie	Ireland	TG4	tg4.ie
+irishmirror-ie	Ireland	Irish Mirror	irishmirror.ie
+villagemagazine-ie	Ireland	Village	villagemagazine.ie
+virginmedia-ie	Ireland	Virgin Media News	virginmedia.ie
+nation-africa	Kenya	Daily Nation	nation.africa
+standardmedia-co-ke	Kenya	The Standard	standardmedia.co.ke
+the-star-co-ke	Kenya	The Star	the-star.co.ke
+citizen-digital	Kenya	Citizen TV	citizen.digital
+kbc-co-ke	Kenya	Kenya Broadcasting Corporation	kbc.co.ke
+businessdailyafrica-com	Kenya	Business Daily	businessdailyafrica.com
+theeastafrican-co-ke	Kenya	The EastAfrican	theeastafrican.co.ke
+taifaleo-nation-co-ke	Kenya	Taifa Leo	taifaleo.nation.co.ke
+capitalfm-co-ke	Kenya	Capital FM	capitalfm.co.ke
+pd-co-ke	Kenya	People Daily	pd.co.ke
+tuko-co-ke	Kenya	Tuko	tuko.co.ke
+lexpress-mg	Madagascar	L'Express de Madagascar	lexpress.mg
+midi-madagasikara-mg	Madagascar	Midi Madagasikara	midi-madagasikara.mg
+lagazette-dgi-com	Madagascar	La Gazette de la Grande Île	lagazette-dgi.com
+madagascar-tribune-com	Madagascar	Madagascar Tribune	madagascar-tribune.com
+newsmada-com	Madagascar	Newsmada	newsmada.com
+2424-mg	Madagascar	2424.mg	2424.mg
+laverite-mg	Madagascar	La Vérité	laverite.mg
+radiodonbosco-org	Madagascar	Radio Don Bosco	radiodonbosco.org
+antsiva-mg	Madagascar	Radio Antsiva	antsiva.mg
+jornada-com-mx	Mexico	La Jornada	jornada.com.mx
+reforma-com	Mexico	Reforma	reforma.com
+proceso-com-mx	Mexico	Proceso	proceso.com.mx
+letraslibres-com	Mexico	Letras Libres	letraslibres.com
+milenio-com	Mexico	Milenio	milenio.com
+elfinanciero-com-mx	Mexico	El Financiero	elfinanciero.com.mx
+eleconomista-com-mx	Mexico	El Economista	eleconomista.com.mx
+razon-com-mx	Mexico	La Razón	razon.com.mx
+noticieros-televisa-com	Mexico	Televisa	noticieros.televisa.com
+heraldodemexico-com-mx	Mexico	Heraldo de México	heraldodemexico.com.mx
+latinus-us	Mexico	Latinus	latinus.us
+canalonce-mx	Mexico	Canal Once	canalonce.mx
+imagen-com-mx	Mexico	Imagen Radio	imagen.com.mx
+excelsior-com-mx	Mexico	Excélsior	excelsior.com.mx
+animalpolitico-com	Mexico	Animal Político	animalpolitico.com
+expansion-mx	Mexico	Expansión	expansion.mx
+montsame-mn	Mongolia	Montsame	montsame.mn
+mnb-mn	Mongolia	Mongolian National Broadcaster	mnb.mn
+unuudur-mn	Mongolia	Unuudur	unuudur.mn
+dnn-mn	Mongolia	Өдрийн сонин	dnn.mn
+ikon-mn	Mongolia	Ikon.mn	ikon.mn
+news-mn	Mongolia	News.mn	news.mn
+gogo-mn	Mongolia	Gogo.mn	gogo.mn
+ubs-mn	Mongolia	UBS	ubs.mn
+tv5-mn	Mongolia	TV5	tv5.mn
+eguur-mn	Mongolia	Eguur	eguur.mn
+mongolianminingjournal-com	Mongolia	Mongolian Mining Journal	mongolianminingjournal.com
+hespress-com	Morocco	Hespress	hespress.com
+assabah-ma	Morocco	Assabah	assabah.ma
+telquel-ma	Morocco	TelQuel	telquel.ma
+le360-ma	Morocco	Le360	le360.ma
+snrt-ma	Morocco	SNRT	snrt.ma
+yabiladi-com	Morocco	Yabiladi	yabiladi.com
+lopinion-ma	Morocco	L'Opinion	lopinion.ma
+lavieeco-com	Morocco	La Vie éco	lavieeco.com
+aujourdhui-ma	Morocco	Aujourd'hui le Maroc	aujourdhui.ma
+bladi-net	Morocco	Bladi.net	bladi.net
+barlamane-com	Morocco	Barlamane	barlamane.com
+kathmandupost-com	Nepal	The Kathmandu Post	kathmandupost.com
+thehimalayantimes-com	Nepal	The Himalayan Times	thehimalayantimes.com
+myrepublica-nagariknetwork-com	Nepal	Republica	myrepublica.nagariknetwork.com
+ekantipur-com	Nepal	Kantipur	ekantipur.com
+nagariknews-nagariknetwork-com	Nepal	Nagarik	nagariknews.nagariknetwork.com
+gorkhapatraonline-com	Nepal	Gorkhapatra	gorkhapatraonline.com
+onlinekhabar-com	Nepal	Online Khabar	onlinekhabar.com
+annapurnapost-com	Nepal	Annapurna Post	annapurnapost.com
+nepalitimes-com	Nepal	Nepali Times	nepalitimes.com
+ratopati-com	Nepal	Ratopati	ratopati.com
+risingnepaldaily-com	Nepal	The Rising Nepal	risingnepaldaily.com
+nayapatrikadaily-com	Nepal	Naya Patrika	nayapatrikadaily.com
+setopati-com	Nepal	Setopati	setopati.com
+telegraaf-nl	Netherlands	De Telegraaf	telegraaf.nl
+volkskrant-nl	Netherlands	de Volkskrant	volkskrant.nl
+nrc-nl	Netherlands	NRC	nrc.nl
+ad-nl	Netherlands	Algemeen Dagblad	ad.nl
+trouw-nl	Netherlands	Trouw	trouw.nl
+parool-nl	Netherlands	Het Parool	parool.nl
+fd-nl	Netherlands	Het Financieele Dagblad	fd.nl
+rd-nl	Netherlands	Reformatorisch Dagblad	rd.nl
+nd-nl	Netherlands	Nederlands Dagblad	nd.nl
+nos-nl	Netherlands	NOS	nos.nl
+rtl-nl	Netherlands	RTL Nieuws	rtl.nl
+anp-nl	Netherlands	ANP	anp.nl
+nu-nl	Netherlands	NU.nl	nu.nl
+groene-nl	Netherlands	De Groene Amsterdammer	groene.nl
+decorrespondent-nl	Netherlands	De Correspondent	decorrespondent.nl
+geenstijl-nl	Netherlands	GeenStijl	geenstijl.nl
+dvhn-nl	Netherlands	Dagblad van het Noorden	dvhn.nl
+ftm-nl	Netherlands	Follow the Money	ftm.nl
+punchng-com	Nigeria	Punch	punchng.com
+thisdaylive-com	Nigeria	ThisDay	thisdaylive.com
+guardian-ng	Nigeria	The Guardian	guardian.ng
+vanguardngr-com	Nigeria	Vanguard	vanguardngr.com
+dailytrust-com	Nigeria	Daily Trust	dailytrust.com
+premiumtimesng-com	Nigeria	Premium Times	premiumtimesng.com
+leadership-ng	Nigeria	Leadership	leadership.ng
+thenationonlineng-net	Nigeria	The Nation	thenationonlineng.net
+channelstv-com	Nigeria	Channels Television	channelstv.com
+nta-ng	Nigeria	Nigerian Television Authority	nta.ng
+nannews-ng	Nigeria	News Agency of Nigeria	nannews.ng
+saharareporters-com	Nigeria	Sahara Reporters	saharareporters.com
+thecable-ng	Nigeria	TheCable	thecable.ng
+tribuneonlineng-com	Nigeria	Nigerian Tribune	tribuneonlineng.com
+arise-tv	Nigeria	Arise News	arise.tv
+dailypost-ng	Nigeria	Daily Post	dailypost.ng
+sunnewsonline-com	Nigeria	The Sun	sunnewsonline.com
+blueprint-ng	Nigeria	Blueprint	blueprint.ng
+novamakedonija-com-mk	North Macedonia	Nova Makedonija	novamakedonija.com.mk
+sitel-com-mk	North Macedonia	Sitel	sitel.com.mk
+kanal5-com-mk	North Macedonia	Kanal 5	kanal5.com.mk
+alfa-mk	North Macedonia	Alfa TV	alfa.mk
+telma-com-mk	North Macedonia	Telma	telma.com.mk
+vecer-mk	North Macedonia	Vecer	vecer.mk
+republika-mk	North Macedonia	Republika	republika.mk
+kurir-mk	North Macedonia	Kurir	kurir.mk
+makfax-com-mk	North Macedonia	Makfax	makfax.com.mk
+kapital-mk	North Macedonia	Kapital	kapital.mk
+plusinfo-mk	North Macedonia	Plusinfo	plusinfo.mk
+slobodnaevropa-mk	North Macedonia	Радио Слободна Европа	slobodnaevropa.mk
+wafa-ps	Palestine	WAFA	wafa.ps
+alquds-com	Palestine	Al-Quds	alquds.com
+al-ayyam-ps	Palestine	Al-Ayyam	al-ayyam.ps
+alhaya-ps	Palestine	Al-Hayat Al-Jadida	alhaya.ps
+pbc-ps	Palestine	Palestinian Broadcasting Corporation	pbc.ps
+maannews-net	Palestine	Ma'an News Agency	maannews.net
+alaqsa-tv	Palestine	Al-Aqsa TV	alaqsa.tv
+palinfo-com	Palestine	Palestinian Information Center	palinfo.com
+qudsn-ps	Palestine	Quds News Network	qudsn.ps
+electronicintifada-net	Palestine	The Electronic Intifada	electronicintifada.net
+elcomercio-pe	Peru	El Comercio	elcomercio.pe
+larepublica-pe	Peru	La República	larepublica.pe
+peru21-pe	Peru	Perú 21	peru21.pe
+diariocorreo-pe	Peru	Correo	diariocorreo.pe
+trome-com	Peru	Trome	trome.com
+elperuano-pe	Peru	El Peruano	elperuano.pe
+gestion-pe	Peru	Gestión	gestion.pe
+rpp-pe	Peru	RPP	rpp.pe
+andina-pe	Peru	Andina	andina.pe
+latina-pe	Peru	Latina Televisión	latina.pe
+americatv-com-pe	Peru	América Televisión	americatv.com.pe
+panamericana-pe	Peru	Panamericana Televisión	panamericana.pe
+willax-pe	Peru	Willax	willax.pe
+exitosanoticias-pe	Peru	Exitosa	exitosanoticias.pe
+idl-reporteros-pe	Peru	IDL-Reporteros	idl-reporteros.pe
+ojo-publico-com	Peru	Ojo Público	ojo-publico.com
+caretas-pe	Peru	Caretas	caretas.pe
+diariouno-pe	Peru	Diario Uno	diariouno.pe
+wayka-pe	Peru	Wayka	wayka.pe
+larazon-pe	Peru	La Razón	larazon.pe
+inquirer-net	Philippines	Philippine Daily Inquirer	inquirer.net
+philstar-com	Philippines	The Philippine Star	philstar.com
+manilatimes-net	Philippines	The Manila Times	manilatimes.net
+rappler-com	Philippines	Rappler	rappler.com
+gmanetwork-com	Philippines	GMA Network	gmanetwork.com
+pna-gov-ph	Philippines	Philippine News Agency	pna.gov.ph
+tribune-net-ph	Philippines	Daily Tribune	tribune.net.ph
+bulatlat-com	Philippines	Bulatlat	bulatlat.com
+bworldonline-com	Philippines	BusinessWorld	bworldonline.com
+sunstar-com-ph	Philippines	SunStar	sunstar.com.ph
+abante-com-ph	Philippines	Abante	abante.com.ph
+verafiles-org	Philippines	VERA Files	verafiles.org
+smni-com	Philippines	Sonshine Media Network International	smni.com
+publico-pt	Portugal	Público	publico.pt
+expresso-pt	Portugal	Expresso	expresso.pt
+observador-pt	Portugal	Observador	observador.pt
+jn-pt	Portugal	Jornal de Notícias	jn.pt
+dn-pt	Portugal	Diário de Notícias	dn.pt
+cmjornal-pt	Portugal	Correio da Manhã	cmjornal.pt
+sabado-pt	Portugal	Sábado	sabado.pt
+visao-pt	Portugal	Visão	visao.pt
+sol-sapo-pt	Portugal	Nascer do Sol	sol.sapo.pt
+noticiasaominuto-com	Portugal	Notícias ao Minuto	noticiasaominuto.com
+rtp-pt	Portugal	RTP	rtp.pt
+cnnportugal-iol-pt	Portugal	CNN Portugal	cnnportugal.iol.pt
+sicnoticias-pt	Portugal	SIC Notícias	sicnoticias.pt
+tvi-iol-pt	Portugal	TVI	tvi.iol.pt
+lusa-pt	Portugal	Lusa	lusa.pt
+tsf-pt	Portugal	TSF	tsf.pt
+romaniatv-net	Romania	România TV	romaniatv.net
+antena3-ro	Romania	Antena 3	antena3.ro
+romanialibera-ro	Romania	România liberă	romanialibera.ro
+adevarul-ro	Romania	Adevărul	adevarul.ro
+libertatea-ro	Romania	Libertatea	libertatea.ro
+evz-ro	Romania	Evenimentul Zilei	evz.ro
+jurnalul-ro	Romania	Jurnalul Național	jurnalul.ro
+gandul-ro	Romania	Gândul	gandul.ro
+hotnews-ro	Romania	HotNews.ro	hotnews.ro
+digi24-ro	Romania	Digi24	digi24.ro
+stirileprotv-ro	Romania	Pro TV	stirileprotv.ro
+agerpres-ro	Romania	Agerpres	agerpres.ro
+romania-europalibera-org	Romania	Europa Liberă România	romania.europalibera.org
+zf-ro	Romania	Ziarul Financiar	zf.ro
+dilemaveche-ro	Romania	Dilema Veche	dilemaveche.ro
+g4media-ro	Romania	G4Media	g4media.ro
+romania-actualitati-ro	Romania	Radio România	romania-actualitati.ro
+cotidianul-ro	Romania	Cotidianul	cotidianul.ro
+kommersant-ru	Russia	Kommersant	kommersant.ru
+iz-ru	Russia	Izvestia	iz.ru
+rg-ru	Russia	Rossiyskaya Gazeta	rg.ru
+kp-ru	Russia	Komsomolskaya Pravda	kp.ru
+mk-ru	Russia	Moskovskij Komsomolets	mk.ru
+novayagazeta-ru	Russia	Novaya Gazeta	novayagazeta.ru
+vedomosti-ru	Russia	Vedomosti	vedomosti.ru
+rbc-ru	Russia	RBC	rbc.ru
+tass-ru	Russia	TASS	tass.ru
+ria-ru	Russia	RIA Novosti	ria.ru
+interfax-ru	Russia	Interfax	interfax.ru
+meduza-io	Russia	Meduza	meduza.io
+1tv-ru	Russia	Channel One Russia	1tv.ru
+ntv-ru	Russia	NTV	ntv.ru
+vgtrk-ru	Russia	VGTRK	vgtrk.ru
+aif-ru	Russia	Argumenty i Fakty	aif.ru
+ng-ru	Russia	Nezavisimaya Gazeta	ng.ru
+lenta-ru	Russia	Lenta.ru	lenta.ru
+rt-com	Russia	RT	rt.com
+politika-rs	Serbia	Politika	politika.rs
+blic-rs	Serbia	Blic	blic.rs
+novosti-rs	Serbia	Večernje novosti	novosti.rs
+kurir-rs	Serbia	Kurir	kurir.rs
+informer-rs	Serbia	Informer	informer.rs
+danas-rs	Serbia	Danas	danas.rs
+nova-rs	Serbia	Nova	nova.rs
+n1info-rs	Serbia	N1	n1info.rs
+rts-rs	Serbia	Radio Television of Serbia	rts.rs
+tanjug-rs	Serbia	Tanjug	tanjug.rs
+beta-rs	Serbia	Beta	beta.rs
+pink-rs	Serbia	Pink	pink.rs
+nin-rs	Serbia	NIN	nin.rs
+vreme-com	Serbia	Vreme	vreme.com
+nedeljnik-rs	Serbia	Nedeljnik	nedeljnik.rs
+b92-net	Serbia	B92	b92.net
+happytv-rs	Serbia	Happy TV	happytv.rs
+news24-com	South Africa	News24	news24.com
+dailymaverick-co-za	South Africa	Daily Maverick	dailymaverick.co.za
+timeslive-co-za	South Africa	Sunday Times	timeslive.co.za
+citizen-co-za	South Africa	The Citizen	citizen.co.za
+iol-co-za	South Africa	IOL	iol.co.za
+enca-com	South Africa	eNCA	enca.com
+businesslive-co-za	South Africa	Business Day	businesslive.co.za
+sowetanlive-co-za	South Africa	Sowetan	sowetanlive.co.za
+dailysun-co-za	South Africa	Daily Sun	dailysun.co.za
+ewn-co-za	South Africa	Eyewitness News	ewn.co.za
+groundup-org-za	South Africa	GroundUp	groundup.org.za
+chosun-com	South Korea	The Chosun Ilbo	chosun.com
+joongang-co-kr	South Korea	JoongAng Ilbo	joongang.co.kr
+donga-com	South Korea	The Dong-A Ilbo	donga.com
+hani-co-kr	South Korea	The Hankyoreh	hani.co.kr
+khan-co-kr	South Korea	Kyunghyang Shinmun	khan.co.kr
+hankookilbo-com	South Korea	Hankook Ilbo	hankookilbo.com
+segye-com	South Korea	Segye Ilbo	segye.com
+munhwa-com	South Korea	Munhwa Ilbo	munhwa.com
+seoul-co-kr	South Korea	Seoul Shinmun	seoul.co.kr
+mk-co-kr	South Korea	Maeil Business Newspaper	mk.co.kr
+hankyung-com	South Korea	Korea Economic Daily	hankyung.com
+kbs-co-kr	South Korea	KBS	kbs.co.kr
+imbc-com	South Korea	MBC	imbc.com
+sbs-co-kr	South Korea	SBS	sbs.co.kr
+ytn-co-kr	South Korea	YTN	ytn.co.kr
+yna-co-kr	South Korea	Yonhap News Agency	yna.co.kr
+ohmynews-com	South Korea	OhmyNews	ohmynews.com
+koreaherald-com	South Korea	The Korea Herald	koreaherald.com
+koreatimes-co-kr	South Korea	The Korea Times	koreatimes.co.kr
+kmib-co-kr	South Korea	Kukmin Ilbo	kmib.co.kr
+elpais-com	Spain	El País	elpais.com
+elmundo-es	Spain	El Mundo	elmundo.es
+abc-es	Spain	ABC	abc.es
+lavanguardia-com	Spain	La Vanguardia	lavanguardia.com
+larazon-es	Spain	La Razón	larazon.es
+eldiario-es	Spain	eldiario.es	eldiario.es
+publico-es	Spain	Público	publico.es
+elperiodico-com	Spain	El Periódico de Catalunya	elperiodico.com
+elconfidencial-com	Spain	El Confidencial	elconfidencial.com
+lasexta-com	Spain	La Sexta	lasexta.com
+libertaddigital-com	Spain	Libertad Digital	libertaddigital.com
+cope-es	Spain	COPE	cope.es
+europapress-es	Spain	Europa Press	europapress.es
+rtve-es	Spain	RTVE	rtve.es
+20minutos-es	Spain	20minutos	20minutos.es
+lavozdegalicia-es	Spain	La Voz de Galicia	lavozdegalicia.es
+dailymirror-lk	Sri Lanka	Daily Mirror	dailymirror.lk
+dailynews-lk	Sri Lanka	Daily News	dailynews.lk
+island-lk	Sri Lanka	The Island	island.lk
+sundayobserver-lk	Sri Lanka	Sunday Observer	sundayobserver.lk
+sundaytimes-lk	Sri Lanka	The Sunday Times	sundaytimes.lk
+ceylontoday-lk	Sri Lanka	Ceylon Today	ceylontoday.lk
+lankadeepa-lk	Sri Lanka	Lankadeepa	lankadeepa.lk
+dinamina-lk	Sri Lanka	Dinamina	dinamina.lk
+divaina-lk	Sri Lanka	Divaina	divaina.lk
+virakesari-lk	Sri Lanka	Virakesari	virakesari.lk
+adaderana-lk	Sri Lanka	Ada Derana	adaderana.lk
+newsfirst-lk	Sri Lanka	Newsfirst	newsfirst.lk
+rupavahini-lk	Sri Lanka	Rupavahini	rupavahini.lk
+hirunews-lk	Sri Lanka	Hiru TV	hirunews.lk
+colombotelegraph-com	Sri Lanka	Colombo Telegraph	colombotelegraph.com
+sirasatv-lk	Sri Lanka	Sirasa	sirasatv.lk
+ltn-com-tw	Taiwan	Liberty Times	ltn.com.tw
+udn-com	Taiwan	United Daily News	udn.com
+chinatimes-com	Taiwan	China Times	chinatimes.com
+taipeitimes-com	Taiwan	Taipei Times	taipeitimes.com
+cna-com-tw	Taiwan	Central News Agency	cna.com.tw
+pts-org-tw	Taiwan	Public Television Service	pts.org.tw
+tvbs-com-tw	Taiwan	TVBS	tvbs.com.tw
+ctinews-com	Taiwan	CTi News	ctinews.com
+ftvnews-com-tw	Taiwan	Formosa Television	ftvnews.com.tw
+thenewslens-com	Taiwan	The News Lens	thenewslens.com
+mirrormedia-mg	Taiwan	Mirror Media	mirrormedia.mg
+taiwannews-com-tw	Taiwan	Taiwan News	taiwannews.com.tw
+thairath-co-th	Thailand	Thairath	thairath.co.th
+dailynews-co-th	Thailand	Daily News	dailynews.co.th
+khaosod-co-th	Thailand	Khaosod	khaosod.co.th
+matichon-co-th	Thailand	Matichon	matichon.co.th
+bangkokpost-com	Thailand	Bangkok Post	bangkokpost.com
+nationthailand-com	Thailand	The Nation	nationthailand.com
+mgronline-com	Thailand	Manager Daily	mgronline.com
+naewna-com	Thailand	Naewna	naewna.com
+prachatai-com	Thailand	Prachatai	prachatai.com
+thaipbs-or-th	Thailand	Thai Public Broadcasting Service	thaipbs.or.th
+voicetv-co-th	Thailand	Voice TV	voicetv.co.th
+komchadluek-net	Thailand	Kom Chad Luek	komchadluek.net
+bangkokbiznews-com	Thailand	Krungthep Turakij	bangkokbiznews.com
+tna-mcot-net	Thailand	Thai News Agency	tna.mcot.net
+thaipost-net	Thailand	Thai Post	thaipost.net
+ch7-com	Thailand	Channel 7	ch7.com
+thestandard-co	Thailand	The Standard	thestandard.co
+lapresse-tn	Tunisia	La Presse de Tunisie	lapresse.tn
+nawaat-org	Tunisia	Nawaat	nawaat.org
+mosaiquefm-net	Tunisia	Mosaïque FM	mosaiquefm.net
+expressfm-net	Tunisia	Express FM	expressfm.net
+nessma-tv	Tunisia	Nessma	nessma.tv
+letemps-news	Tunisia	Le Temps	letemps.news
+lequotidien-tn	Tunisia	Le Quotidien	lequotidien.tn
+tunisienumerique-com	Tunisia	Tunisie Numérique	tunisienumerique.com
+businessnews-com-tn	Tunisia	Business News	businessnews.com.tn
+kapitalis-com	Tunisia	Kapitalis	kapitalis.com
+realites-com-tn	Tunisia	Réalités	realites.com.tn
+babnet-net	Tunisia	Babnet	babnet.net
+diwanfm-net	Tunisia	Diwan FM	diwanfm.net
+hurriyet-com-tr	Turkey	Hürriyet	hurriyet.com.tr
+sabah-com-tr	Turkey	Sabah	sabah.com.tr
+cumhuriyet-com-tr	Turkey	Cumhuriyet	cumhuriyet.com.tr
+sozcu-com-tr	Turkey	Sözcü	sozcu.com.tr
+haberturk-com	Turkey	Habertürk	haberturk.com
+yenisafak-com	Turkey	Yeni Şafak	yenisafak.com
+dailysabah-com	Turkey	Daily Sabah	dailysabah.com
+trthaber-com	Turkey	TRT Haber	trthaber.com
+aa-com-tr	Turkey	Anadolu Agency	aa.com.tr
+birgun-net	Turkey	BirGün	birgun.net
+evrensel-net	Turkey	Evrensel	evrensel.net
+hurriyetdailynews-com	Turkey	Hürriyet Daily News	hurriyetdailynews.com
+milliyet-com-tr	Turkey	Milliyet	milliyet.com.tr
+karar-com	Turkey	Karar	karar.com
+ntv-com-tr	Turkey	NTV	ntv.com.tr
+yeniakit-com-tr	Turkey	Yeni Akit	yeniakit.com.tr
+posta-com-tr	Turkey	Posta	posta.com.tr
+monitor-co-ug	Uganda	Daily Monitor	monitor.co.ug
+newvision-co-ug	Uganda	New Vision	newvision.co.ug
+observer-ug	Uganda	The Observer	observer.ug
+independent-co-ug	Uganda	The Independent	independent.co.ug
+redpepper-co-ug	Uganda	Red Pepper	redpepper.co.ug
+bukedde-co-ug	Uganda	Bukedde	bukedde.co.ug
+nilepost-co-ug	Uganda	Nile Post	nilepost.co.ug
+ubc-go-ug	Uganda	Uganda Broadcasting Corporation	ubc.go.ug
+ntv-co-ug	Uganda	NTV Uganda	ntv.co.ug
+nbs-ug	Uganda	NBS TV	nbs.ug
+kampalapost-com	Uganda	Kampala Post	kampalapost.com
+dailyexpress-co-ug	Uganda	Daily Express Uganda	dailyexpress.co.ug
+visiongroup-co-ug	Uganda	Vision Group	visiongroup.co.ug
+sunrise-ug	Uganda	Sunrise	sunrise.ug
+kfm-co-ug	Uganda	KFM	kfm.co.ug
+dailymail-co-uk	United Kingdom	Daily Mail	dailymail.co.uk
+mirror-co-uk	United Kingdom	Daily Mirror	mirror.co.uk
+independent-co-uk	United Kingdom	The Independent	independent.co.uk
+morningstaronline-co-uk	United Kingdom	Morning Star	morningstaronline.co.uk
+bbc-co-uk	United Kingdom	BBC News	bbc.co.uk
+channel4-com	United Kingdom	Channel 4 News	channel4.com
+gbnews-com	United Kingdom	GB News	gbnews.com
+spectator-co-uk	United Kingdom	The Spectator	spectator.co.uk
+newstatesman-com	United Kingdom	New Statesman	newstatesman.com
+express-co-uk	United Kingdom	Daily Express	express.co.uk
+pa-media	United Kingdom	PA Media	pa.media
+lbc-co-uk	United Kingdom	LBC	lbc.co.uk
+metro-co-uk	United Kingdom	Metro	metro.co.uk
+nytimes-com	United States	The New York Times	nytimes.com
+usatoday-com	United States	USA Today	usatoday.com
+latimes-com	United States	Los Angeles Times	latimes.com
+nypost-com	United States	New York Post	nypost.com
+washingtontimes-com	United States	The Washington Times	washingtontimes.com
+foxnews-com	United States	Fox News	foxnews.com
+cnn-com	United States	CNN	cnn.com
+msnbc-com	United States	MSNBC	msnbc.com
+nbcnews-com	United States	NBC News	nbcnews.com
+abcnews-go-com	United States	ABC News	abcnews.go.com
+cbsnews-com	United States	CBS News	cbsnews.com
+pbs-org	United States	PBS	pbs.org
+apnews-com	United States	Associated Press	apnews.com
+politico-com	United States	Politico	politico.com
+breitbart-com	United States	Breitbart News	breitbart.com
+huffpost-com	United States	HuffPost	huffpost.com
+thehill-com	United States	The Hill	thehill.com
+vox-com	United States	Vox	vox.com
+nationalreview-com	United States	National Review	nationalreview.com
+axios-com	United States	Axios	axios.com
+elnacional-com	Venezuela	El Nacional	elnacional.com
+eluniversal-com	Venezuela	El Universal	eluniversal.com
+ultimasnoticias-com-ve	Venezuela	Últimas Noticias	ultimasnoticias.com.ve
+correodelorinoco-gob-ve	Venezuela	Correo del Orinoco	correodelorinoco.gob.ve
+globovision-com	Venezuela	Globovisión	globovision.com
+televen-com	Venezuela	Televen	televen.com
+telesurtv-net	Venezuela	teleSUR	telesurtv.net
+elpitazo-net	Venezuela	El Pitazo	elpitazo.net
+efectococuyo-com	Venezuela	Efecto Cocuyo	efectococuyo.com
+talcualdigital-com	Venezuela	Tal Cual	talcualdigital.com
+runrun-es	Venezuela	Runrunes	runrun.es
+avn-info-ve	Venezuela	Agencia Venezolana de Noticias	avn.info.ve
+lapatilla-com	Venezuela	La Patilla	lapatilla.com
+vnexpress-net	Vietnam	VnExpress	vnexpress.net
+tuoitre-vn	Vietnam	Tuoi Tre	tuoitre.vn
+thanhnien-vn	Vietnam	Thanh Nien	thanhnien.vn
+dantri-com-vn	Vietnam	Dan Tri	dantri.com.vn
+vietnamnet-vn	Vietnam	VietnamNet	vietnamnet.vn
+nhandan-vn	Vietnam	Nhan Dan	nhandan.vn
+vtv-vn	Vietnam	Vietnam Television	vtv.vn
+vnanet-vn	Vietnam	Vietnam News Agency	vnanet.vn
+tienphong-vn	Vietnam	Tien Phong	tienphong.vn
+znews-vn	Vietnam	Zing News	znews.vn
+sggp-org-vn	Vietnam	Saigon Giai Phong	sggp.org.vn
+qdnd-vn	Vietnam	People's Army Newspaper	qdnd.vn
+cand-com-vn	Vietnam	Cong An Nhan Dan	cand.com.vn
+vietnamnews-vn	Vietnam	Viet Nam News	vietnamnews.vn
+vov-vn	Vietnam	Voice of Vietnam	vov.vn
+vietnamplus-vn	Vietnam	VietnamPlus	vietnamplus.vn
+kenh14-vn	Vietnam	Kenh14	kenh14.vn
+la-repubblica-it	Italy	La Repubblica	repubblica.it
+laverita-info	Italy	La Verità	laverita.info
+open-online	Italy	Open	open.online
+ilgiorno-it	Italy	Il Giorno	ilgiorno.it
+today-it	Italy	Today.it	today.it
+ildubbio-news	Italy	Il Dubbio	ildubbio.news

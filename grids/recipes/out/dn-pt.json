@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.dn.pt/sitemap/sitemap-daily-{YYYY}-{MM}-{DD}.xml"
+  ],
+  "article_regex": "https://www\\.dn\\.pt/[^/]+/[^/]+(?=[<>\\s]|$)",
+  "notes": "robots.txt open (Allow: /) declares sitemap.xml = index of per-day files sitemap/sitemap-daily-YYYY-MM-DD.xml; verified 76/34/64 distinct www.dn.pt article URLs on 09-30/10-10/10-20 (all >=15, 2026-09-25 also present); regex excludes 3-segment section pages and sibling domains dnbrasil.dn.pt/motor24.pt which also appear in the files; article pages readable (~1.8k-4.5k text chars)."
+}

@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://dailypost.ng/sitemaps/posts-{YYYY}-{MM}.xml"
+  ],
+  "article_regex": "https://dailypost\\.ng/\\d{4}/\\d{2}/\\d{2}/[^/\\s]+/",
+  "notes": "robots.txt open (declares https://dailypost.ng/sitemap_index.xml); one monthly posts sitemap per month back to 2020, per-URL lastmod equals publication day (span exactly month-bounded), and article URLs are dailypost.ng/YYYY/MM/DD/slug/ so the date is in the URL too."
+}

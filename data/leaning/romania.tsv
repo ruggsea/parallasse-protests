@@ -1,0 +1,19 @@
+outlet	domain	leaning	url1	quote1	url2	quote2	note
+România TV	romaniatv.net	right	https://en.wikipedia.org/wiki/Rom%C3%A2nia_TV	news television with conservative and nationalist orientation	https://ro.wikipedia.org/wiki/Rom%C3%A2nia_TV	România TV practică jurnalism părtinitor cauzelor conservatoare și naționaliste	
+Antena 3	antena3.ro	unclassified	https://en.wikipedia.org/wiki/Antena_3_(Romania)	It is a 24 hours news channel with pretty much allegiance to the Romanian centre-left wing political spectrum			DISAGREEMENT within en.wikipedia: one passage says right-wing like attitude on some topics, another says allegiance to the centre-left; ro.wikipedia only reports partisanship and fines, no placement. Not classified.
+România liberă	romanialibera.ro	unclassified	https://en.wikipedia.org/wiki/Rom%C3%A2nia_liber%C4%83	The newspaper promoted conservative values, democracy			only one source (en.wikipedia: promoted conservative values, 1990s); ro.wikipedia gives no placement; ownership changed since. Homepage answers HTTP 403 to our fetcher.
+Adevărul	adevarul.ro	unclassified					en.wikipedia describes the interwar paper as left-wing; no source places the current paper
+Libertatea	libertatea.ro	unclassified					tabloid turned general news daily; no fetched source gives a left-right placement (en/ro Wikipedia pages describe history and ownership only)
+Evenimentul Zilei	evz.ro	unclassified					no fetched source gives a left-right placement (en/ro Wikipedia pages describe history and ownership only)
+Jurnalul Național	jurnalul.ro	unclassified					no fetched source gives a left-right placement (en/ro Wikipedia pages describe history and ownership only)
+Gândul	gandul.ro	unclassified					no fetched source gives a left-right placement (en/ro Wikipedia pages describe history and ownership only)
+HotNews.ro	hotnews.ro	unclassified					no fetched source gives a left-right placement (en/ro Wikipedia pages describe history and ownership only)
+Digi24	digi24.ro	unclassified					no fetched source gives a left-right placement (en/ro Wikipedia pages describe history and ownership only)
+Pro TV	stirileprotv.ro	unclassified					no fetched source gives a left-right placement (en/ro Wikipedia pages describe history and ownership only)
+Agerpres	agerpres.ro	unclassified					state news agency; no fetched source gives a left-right placement (en/ro Wikipedia pages describe history and ownership only)
+Europa Liberă România	romania.europalibera.org	unclassified					US-funded broadcaster; no fetched source gives a left-right placement (en/ro Wikipedia pages describe history and ownership only)
+Ziarul Financiar	zf.ro	unclassified					business daily; no fetched source gives a left-right placement (en/ro Wikipedia pages describe history and ownership only)
+Dilema Veche	dilemaveche.ro	unclassified					no fetched source gives a left-right placement (en/ro Wikipedia pages describe history and ownership only)
+G4Media	g4media.ro	unclassified					no fetched source gives a left-right placement (en/ro Wikipedia pages describe history and ownership only)
+Radio România	romania-actualitati.ro	unclassified					public broadcaster; no fetched source gives a left-right placement (en/ro Wikipedia pages describe history and ownership only)
+Cotidianul	cotidianul.ro	unclassified					no fetched source gives a left-right placement (en/ro Wikipedia pages describe history and ownership only)

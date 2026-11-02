@@ -1,0 +1,5 @@
+{
+  "list_templates": [],
+  "article_regex": "https://www\\.lequipe\\.fr/.+/",
+  "notes": "WAF block: Akamai 403s ParallasseResearchBot on every path (home, robots.txt, sitemap.xml, sitemap_index.xml, news-sitemap.xml, rss, sections; www+bare, http+https, instant ~0.05s Access Denied); only a full Chrome header set (Sec-Fetch-* etc.) gets 200 on sitemap.xml, which check.py's polite_fetch can never send, so no template can pass"
+}

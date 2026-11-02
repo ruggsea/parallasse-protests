@@ -1,0 +1,5 @@
+{
+ "list_templates": [],
+ "article_regex": "^https://www\\.internazionale\\.it/(?:notizie|opinione|reportage|magazine)/[a-z0-9-]+/\\d{4}/\\d{2}/\\d{2}/[a-z0-9-]+$",
+ "notes": "BLOCKED: robots allow; declared sitemaps are google_sitemap_news.xml (last 280 URLs, ~2 days, no lastmod), sections (1 URL), images, videos and rss_*.xml feeds (latest only). /archivio, /sitemap.xml, dated sitemap names 404; /notizie/archivio/YYYY/MM/DD returns the homepage, not a day listing. URLs embed dates but no page lists past days."
+}

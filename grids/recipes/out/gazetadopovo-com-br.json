@@ -1,0 +1,3 @@
+{"list_templates": ["https://www.gazetadopovo.com.br/{YYYY}/{MM}/{YYYY}-{MM}-{DD}.xml"],
+ "article_regex": "https://www\\.gazetadopovo\\.com\\.br/(?:[a-z0-9][a-z0-9-]*/){2,4}",
+ "notes": "Per-day XML sitemap (robots.txt -> /sitemap.xml index, complete for 2026-09-25..2026-10-25); all <loc> are www article URLs with trailing slash, 17-253/day, no lastmod filter needed; order is UTC day, so a Brazilian local day also needs the next day's first 3 hours; the -gnews twin has the identical URL set; robots disallows /politica/ for our bot, so those articles list but cannot be fetched."}

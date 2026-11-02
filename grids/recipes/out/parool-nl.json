@@ -1,0 +1,7 @@
+{
+ "list_templates": [
+  "https://www.parool.nl/sitemaps/{YYYY}{MM}.xml"
+ ],
+ "article_regex": "https://www\\.parool\\.nl/[a-z0-9-]+/[a-z0-9-]+~[0-9a-f]{6,10}/",
+ "notes": "Monthly sitemap from robots.txt Sitemap: line (index /sitemap.xml -> /sitemaps/{YYYYMM}.xml); URL has no date, so the checker must use lastmod, which is the pub date and strictly month-bounded (66/45/50 URLs with lastmod==date on 09-30/10-10/10-20, need 15); robots.txt is open to ParallasseResearchBot (AI bots blocked, we are not one)."
+}

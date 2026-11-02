@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.rainews.it/sitemap.rainews.articoli.{MM}.{YYYY}.xml"
+  ],
+  "article_regex": "https://www\\.rainews\\.it/articoli/\\d{4}/\\d{2}/[a-z0-9-]+-[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}\\.html",
+  "notes": "Rai news articles live on www.rainews.it (www.rai.it is a JS shell that links there); no date archive pages and no sitemaps on www.rai.it itself, no Sitemap line in its robots.txt. Official monthly article sitemaps are declared in rainews.it robots.txt (sitemap.xml index): sitemap.rainews.articoli.{MM}.{YYYY}.xml, 800-1100 URLs/month, <lastmod> = publication day (use it to pick the day). TGR regional sitemaps (sitemap.<region>.articoli.MM.YYYY.xml) exist separately if regional coverage is wanted."
+}

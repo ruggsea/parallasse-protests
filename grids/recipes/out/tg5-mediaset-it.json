@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://tg5.mediaset.it/archivio/{YYYY}/{MM}/{DD}/"
+  ],
+  "article_regex": "^https://tg5\\.mediaset\\.it/video/tg5/[^/]+$",
+  "notes": "Archive page lists TG5 video URLs; regex matches absolute TG5 video links."
+}

@@ -1,0 +1,1 @@
+{"list_templates": ["https://www.mirror.co.uk/sitemaps/map_art_{YYYY}-{MM}-01.xml"], "article_regex": "https?://(?:www\\.)?mirror\\.co\\.uk/[^\\s\"'<>]+", "notes": "Monthly sitemap per month; checker filters by <lastmod> date to get daily articles."}

@@ -1,0 +1,5 @@
+{
+  "list_templates": [],
+  "article_regex": "",
+  "notes": "BLOCKED: server WAF 405s ParallasseResearchBot on every content path (homepage, articles, sections, /page/N/, date archives /YYYY/MM/DD/ and /YYYY-MM-DD/, all .xml sitemaps incl. sitemap_index.xml + news-sitemap.xml declared in robots.txt, /wp-json/) on www and bare, http and https, instant ~0.04s, persistent across 20+ requests over 25 min; only /robots.txt (200, allows all) and the rolling /feed/ (+?paged=N, page 10 already at 2026-09-20, no date in URL, not expressible as {DD} template) return 200, so no dated list page or article body is reachable via polite_fetch for the checker either"
+}

@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.sunstar.com.ph/sitemap/sitemap-daily-{YYYY}-{MM}-{DD}.xml"
+  ],
+  "article_regex": "https://www\\.sunstar\\.com\\.ph/[a-z0-9-]+/[a-z0-9-]+",
+  "notes": "Per-day sitemap (named by date, 32-94 URLs/day in the window) covers every date 2026-09-25..2026-10-25; robots.txt reachable and allows our fetcher (disallows only named AI bots we are not). A few URLs/day contain non-ASCII (e.g. osmeña) - percent-encode before fetching. Article pages need no JS; text is server-rendered."
+}

@@ -1,0 +1,7 @@
+{
+ "list_templates": [
+  "https://www.ilriformista.it/sitemap-posttype-post.{YYYY}.xml"
+ ],
+ "article_regex": "^https://www\\.ilriformista\\.it/[a-z0-9-]+-\\d{6}/$",
+ "notes": "Yearly WordPress post sitemap from robots-declared sitemap.xml index; <lastmod> per URL gives the day (about 20-35 URLs/day); robots allows."
+}

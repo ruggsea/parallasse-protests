@@ -1,0 +1,1 @@
+{"script": "scrapers/custom/dhnet-be.py", "notes": "Used sitemap-index from robots.txt, iterated chunk URLs, filtered by <lastmod> within 2026-09-25..2026-10-25, wrote unique URLs to data/urls_custom/dhnet-be.tsv. Got >150 URLs per day, meeting required sample dates. Verified sample articles have >1500 chars and dates match within a day."}

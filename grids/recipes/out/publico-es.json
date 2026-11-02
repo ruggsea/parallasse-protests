@@ -1,0 +1,7 @@
+{
+ "list_templates": [
+  "https://www.publico.es/sitemap-noticias-{YYYY}{MM}.xml"
+ ],
+ "article_regex": "https://www\\.publico\\.es/[^/]+/(?:[^/]+/)?[^/]+\\.html",
+ "notes": "Monthly news sitemaps from /sitemap.xml index; no date in article URLs, sitemap lastmod (=page dateModified) is strictly month-bounded per file (202609: 09-01..09-30, 202610: 10-01..10-24) so lastmod==date gives that day's articles: 75/43/96 URLs on 09-30/10-10/10-20; all locs are www.publico.es <sec>[/sec]/<slug>.html; articles readable, 4.9k-35k chars."
+}

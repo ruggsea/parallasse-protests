@@ -1,0 +1,10 @@
+{
+ "list_templates": [
+  "https://www.ilsole24ore.com/sitemap/italia-news.xml",
+  "https://www.ilsole24ore.com/sitemap/mondo-news.xml",
+  "https://www.ilsole24ore.com/sitemap/finanzamercati-news.xml",
+  "https://www.ilsole24ore.com/sitemap/impresaeterritori-news.xml"
+ ],
+ "article_regex": "^https://www\\.ilsole24ore\\.com/art/[A-Za-z0-9_-]+$",
+ "notes": "Per-section news sitemaps (robots-declared sitemap-news.xml index) hold the newest ~1000 articles each (italia back to 2026-08-20, mondo 07-01, finanzamercati 05-22, impresaeterritori 07-03) with <news:publication_date> but NO <lastmod>, so the day must be filtered on news:publication_date (URL has no date). Measured per day by publication_date over these 4 files: 2026-09-30 about 50, 10-10 about 35, 10-20 about 55. check.py cannot accept it (it filters monthly-style files on lastmod); other sections (normetributi, salute, tecnologia, sport24...) add few per day and only the newest 22 section files exist."
+}

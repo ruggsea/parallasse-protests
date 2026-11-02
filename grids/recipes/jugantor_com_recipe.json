@@ -1,0 +1,5 @@
+{
+  "list_templates": ["https://www.jugantor.com/news_sitemap.xml"],
+  "article_regex": "https?://(?:www\\.)?jugantor\\.com/[a-z-]+/\\d+",
+  "notes": "Uses the news sitemap which lists each article with <news:publication_date>. The checker will filter URLs by the given dates. Tested on 2026-09-30, 2026-10-10, 2026-10-20: each yields >15 URLs and article body >1500 chars."
+}

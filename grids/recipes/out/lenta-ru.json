@@ -1,0 +1,5 @@
+{
+  "list_templates": [],
+  "article_regex": "https?://(www\\.)?lenta\\.ru/\\d{4}/\\d{2}/\\d{2}/[a-z0-9-]+/[a-z0-9-]+/$",
+  "notes": "BLOCKED by robots, not by the network: lenta.ru/robots.txt (HTTP 200, fetched with polite_fetch on both www and bare, http and https) disallows our bot for EVERY path, because its 'Disallow: /?' line (User-agent: *; the site's tracking-URL block for lenta.ru/?rcmclid=...) is normalized from '/?' to '/' by the Python robotparser that polite_fetch and the checker use, so homepage, sitemap (https://lenta.ru/sitemap.xml.gz, declared in robots) and any archive page all return robots_disallow status -1 before any HTTP request; tried sitemap + archive pages and both are refused, so list_templates is empty."
+}

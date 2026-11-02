@@ -1,0 +1,10 @@
+{
+  "list_templates": [
+    "https://www.latercera.com/arc/outboundfeeds/news-sitemap/?outputType=xml",
+    "https://www.latercera.com/arc/outboundfeeds/news-sitemap/?outputType=xml&from=100",
+    "https://www.latercera.com/arc/outboundfeeds/news-sitemap/?outputType=xml&from=200",
+    "https://www.latercera.com/arc/outboundfeeds/news-sitemap/?outputType=xml&from=300"
+  ],
+  "article_regex": "https://www\\.latercera\\.com/.+/noticia/.+|https://www\\.latercera\\.com/.+/opinion/.+|https://www\\.latercera\\.com/.+/politica/.+|https://www\\.latercera\\.com/.+/mundo/.+|https://www\\.latercera\\.com/.+/nacional/.+|https://www\\.latercera\\.com/.+/el-deportivo/.+|https://www\\.latercera\\.com/.+/culto/.+|https://www\\.latercera\\.com/.+/servicios/.+",
+  "notes": "Use news-sitemap paginated URLs; regex captures common article paths."
+}

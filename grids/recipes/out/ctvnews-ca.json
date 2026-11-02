@@ -1,0 +1,3 @@
+{"list_templates": ["https://www.ctvnews.ca/arc/outboundfeeds/sitemap/{YYYY}-{MM}-{DD}/?outputType=xml"],
+ "article_regex": "https://www\\.ctvnews\\.ca/(?:[a-z0-9-]+/)*article/[a-z0-9-]+/",
+ "notes": "Arc Publishing: robots.txt declares /arc/outboundfeeds/sitemap-index/ -> ONE per-day sitemap (index lists only latest+1 day but any date 2026-09-25..10-25 returns 200); 53-374 locs/day, every lastmod equals that day, all URLs /<section...>/article/<slug>/ (0 of 7823 missed the regex); no paywall, sample articles 7.6-7.8k chars; www host only."}

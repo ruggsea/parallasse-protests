@@ -1,0 +1,1 @@
+{"script": "scrapers/custom/eleftherostypos-gr.py", "notes": "Fetched sitemap index and news sitemap via polite_fetch, parsed <loc> and dates, filtered 2026-09-25 to 2026-10-25, deduplicated, wrote 5453 URLs to data/urls_custom/eleftherostypos-gr.tsv. No RSS or Wayback fallback needed as sitemap covered range."}

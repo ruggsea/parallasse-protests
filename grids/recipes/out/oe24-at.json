@@ -1,0 +1,1 @@
+{"list_templates": ["https://www.oe24.at/sitemap-article-{YYYY}-{MM}.xml"], "article_regex": "https://www\\.oe24\\.at/a/[a-z0-9-]+-\\d+", "notes": "oe24.at monthly article sitemaps (robots.txt Sitemap: sitemap-article.xml index -> sitemap-article-YYYY-MM.xml), every <loc> has <lastmod> = publication date, 115-196 URLs/day in window; all URLs under /a/"}

@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.winnipegfreepress.com/sitemap.xml?yyyy={YYYY}&mm={MM}&dd={DD}"
+  ],
+  "article_regex": "https://www\\.winnipegfreepress\\.com/(?:[a-z0-9-]+/)*\\d{4}/\\d{2}/\\d{2}/[a-z0-9-]+",
+  "notes": "Daily sitemap (query-param style) from the robots.txt-declared index /sitemap.xml; every <loc> is /<section...>/YYYY/MM/DD/<slug> (day in URL), 229/230/252 URLs on 09-30/10-10/10-20, no paywall on checked articles (17.6k-22.5k chars)."
+}

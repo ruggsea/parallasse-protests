@@ -1,0 +1,1 @@
+Avoid assuming <lastmod> is always present; fallback to URL date parsing if missing, and always dedupe URLs across multiple sitemap chunks.

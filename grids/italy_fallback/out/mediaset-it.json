@@ -1,0 +1,7 @@
+{
+ "list_templates": [
+  "https://www.tgcom24.mediaset.it/sitemap/contents/articolo/{YYYY}/{MM}/sitemap.xml"
+ ],
+ "article_regex": "^https://www\\.tgcom24\\.mediaset\\.it/[a-z0-9\\-]+/[^\\s\"'<>#?]+\\.shtml$",
+ "notes": "mediaset.it itself has no dated listing: /robots.txt (200) allows all but declares no Sitemap; /sitemap.xml, /sitemap_index.xml, /news-sitemap.xml, /sitemaps/, /sitemap-0.xml, /sitemap/sitemap.xml, /archivio/, /archivio/2026/10/10/, /archivio/2026/09/30/ and /news all 404 - it is the MediasetPlay/Infinity Next.js streaming portal with no article text. TGCOM24 is the Mediaset news site with the same articles: its robots.txt (200) declares Sitemap: https://www.tgcom24.mediaset.it/sitemap/sitemap.xml, an index of 1121 monthly per-content-type sitemaps; /sitemap/contents/articolo/{YYYY}/{MM}/sitemap.xml is 200 (1488 URLs, 465 KB for 2026/10) and its per-URL lastmod is the publication day, giving 64 URLs for 2026-09-30, 51 for 2026-10-10 and 59 for 2026-10-20 (~60 articles/day, basically the day's whole output); there is no daily sitemap (/YYYY/MM/DD/ gives 403 and appears nowhere in the index), section pages ignore paging and date params (/notizie-di-oggi/?page=2 returns byte-identical HTML) and /ricerca/risultato.shtml is robots-disallowed, so the monthly sitemap is the only route; 4/4 sample article pages returned 5.7k-8.0k characters of text."
+}

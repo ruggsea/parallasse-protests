@@ -1,0 +1,6 @@
+outlet	domain	leaning	url	quote	note
+Libertad Digital	libertaddigital.com	right	https://mediabiasfactcheck.com/libertad-digital/	Libertad Digital is rated Right with Mostly Factual factual reporting by Media Bias Fact Check.	MBFC mapping: Left-Center->centre_left, Least biased->centre, Right-Center->centre_right, Right->right; source URL on page matches outlet domain
+Europa Press	europapress.es	centre	https://mediabiasfactcheck.com/europa-press/	Europa Press is rated Least biased with High factual reporting by Media Bias Fact Check.	MBFC mapping: Left-Center->centre_left, Least biased->centre, Right-Center->centre_right, Right->right; source URL on page matches outlet domain
+El Periódico de Catalunya	elperiodico.com	centre_left	https://en.wikipedia.org/wiki/El_Peri%C3%B3dico_de_Catalunya	The paper has also center-left stance.	en.wikipedia: centre-left stance
+El Confidencial	elconfidencial.com	centre_right	https://es.wikipedia.org/wiki/El_Confidencial	De carácter conservador, está orientado hacia un público profesional de mediana edad	es.wikipedia: De carácter conservador; mapped to centre_right
+La Sexta	lasexta.com	left	https://en.wikipedia.org/wiki/LaSexta	The political alignment of its news and debate programmes is left-leaning.	en.wikipedia: news and debate programmes left-leaning; mapped to left

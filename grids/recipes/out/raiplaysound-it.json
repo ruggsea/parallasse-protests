@@ -1,0 +1,5 @@
+{
+ "list_templates": [],
+ "article_regex": "^https://www\\.raiplaysound\\.it/.+$",
+ "notes": "robots: raiplaysound.it robots.txt has Disallow: /*.xml$ and /dl/*, /programmi/*/ (so its sitemaps may not be fetched); the declared sitemaps (sitemap.archivio.*.xml, homepage) only list program/genre/audiobook pages, no dated items; content is audio, no article text. Also Rai ToS in robots.txt forbids text-and-data mining without permission."
+}

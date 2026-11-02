@@ -1,0 +1,10 @@
+{
+ "list_templates": [
+  "https://tg.la7.it/sites/default/files/sitemap-xml/cronaca.{YYYY}.xml",
+  "https://tg.la7.it/sites/default/files/sitemap-xml/esteri.{YYYY}.xml",
+  "https://tg.la7.it/sites/default/files/sitemap-xml/politica.{YYYY}.xml",
+  "https://tg.la7.it/sites/default/files/sitemap-xml/economia.{YYYY}.xml"
+ ],
+ "article_regex": "^https://tg\\.la7\\.it/[a-z-]+/[a-z0-9-]+-\\d{2}-\\d{2}-\\d{4}-\\d+$",
+ "notes": "Yearly per-section sitemaps (robots-declared sitemap_index.xml); no <lastmod>, the day is in the URL suffix -DD-MM-YYYY-<id>, filter on that. Measured by URL date: only 9-15 articles per day across cronaca+esteri+politica(+economia 0) (30-09: 18, 10-10: 9, 20-10: 15), so the site publishes less than the 15/day the check wants; other sections (sport, spettacolo, ...) add 0-1."
+}

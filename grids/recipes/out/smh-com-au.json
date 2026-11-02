@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.smh.com.au/sitemaps/smh-articles-{YYYY}{MM}{DD}.xml"
+  ],
+  "article_regex": "https://www\\.smh\\.com\\.au/[a-z0-9-]+(?:/[a-z0-9-]+)*-\\d{8}-p[a-z0-9]+\\.html",
+  "notes": "robots.txt (Allow: / for our bot; only AI-specific UAs disallowed) declares smh-sitemaps-articles.xml, an index of per-day sitemaps smh-articles-YYYYMMDD.xml covering back to 2025-08-07; every <loc> in a day file is an article URL ending -YYYYMMDD-pXXXX.html with lastmod on that day (87/64/72 URLs for 09-30/10-10/10-20); articles are server-rendered, no paywall on text (4.3k-9.3k chars tag-stripped)."
+}

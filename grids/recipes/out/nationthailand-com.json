@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://media.nationthailand.com/sitemap/xml/{YYYY}/sitemap_{YYYY}_{MM}.xml"
+  ],
+  "article_regex": "https://www\\.nationthailand\\.com/[a-z0-9\\-]+(?:/[a-z0-9\\-]+){0,2}/\\d+",
+  "notes": "Monthly sitemaps on media.nationthailand.com (declared by www robots.txt -> /sitemap_index.xml, one urlset per month); no date in URLs, checker's lastmod==date filter applies (48/23/64 URLs on 09-30/10-10/10-20, all matched by regex); media host robots.txt 403s -> assumed open, sitemaps serve 200; articles 6k-11k chars. Caveat: lastmod differs from news:publication_date on ~6% of entries (late edits), so per-day lists follow lastmod, not publication."
+}

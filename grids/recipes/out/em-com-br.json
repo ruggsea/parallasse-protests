@@ -1,0 +1,5 @@
+{
+  "list_templates": ["https://www.em.com.br/sitemap/{YYYY}-{MM}-{DD}.xml"],
+  "article_regex": "https://www\\.em\\.com\\.br/(?!redirect/)(?:[a-z0-9-]+/)*20\\d{2}/\\d{2}/[0-9a-z]{6,}-[a-z0-9-]+\\.html",
+  "notes": "Estado de Minas: one per-day sitemap https://www.em.com.br/sitemap/{YYYY}-{MM}-{DD}.xml (unlisted per-day files; robots.txt sitemap.xml index declares only rolling ones), 200 for all 31 window days, every <lastmod> equals the day, 59-286 article URLs/day (weekends lower), all locs /section.../YYYY/MM/<id>-<slug>.html; robots.txt allows all except /busca; no date archive pages exist (/(YYYY)/(MM)/(DD)/ and /arquivo/... all 404)."
+}

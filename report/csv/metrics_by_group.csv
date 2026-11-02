@@ -1,0 +1,781 @@
+view,group,metric,label,est,lo,hi,n,n_articles,n_outlets
+all,Italy,hostile,Articoli ostili verso i manifestanti,0.4933920704845815,0.3832754291650311,0.5913978921304086,1589,2216,32
+all,Italy,supportive,Articoli favorevoli ai manifestanti,0.21397105097545627,0.15457475697359108,0.28478050755586903,1589,2216,32
+all,Italy,hostile_dem,Articoli ostili verso le richieste (dove citate),0.2222222222222222,0.10959659983512468,0.32369145868351246,1179,2216,32
+all,Italy,viol,Quota di frasi sulla violenza (media),0.4093769666456891,0.3677946782956849,0.44402311273979256,1589,2216,32
+all,Italy,dem,Quota di frasi sulle richieste (media),0.18548458149779737,0.16252756096895818,0.21045091327399795,1589,2216,32
+all,Italy,ratio,Rapporto frasi violenza / frasi richieste,2.2070673655996065,1.7520149745562563,2.7046538784261966,1589,2216,32
+all,Italy,q_gov,Articoli che citano polizia o governo,0.5317809943360604,0.4892753550543024,0.5780951421351077,1589,2216,32
+all,Italy,q_prot,Articoli che citano manifestanti o organizzatori,0.35934550031466334,0.3165079815420189,0.3990442255156117,1589,2216,32
+all,Italy,deleg,Articoli con almeno un termine delegittimante,0.5626179987413468,0.4657407606172973,0.651212017271464,1589,2216,32
+all,Italy,head_viol,Titoli con cornice di violenza,0.48826714801444043,0.44494672303649446,0.52686957380041,2216,2216,32
+all,Italy,head_host,Titoli ostili verso i manifestanti,0.4146341463414634,0.3330506278490872,0.4990657313659634,2214,2216,32
+all,Italy,gap,Titolo meno testo: differenza di ostilità (punti),-0.0315059861373661,-0.07221059249554812,0.008607920341023687,1587,2216,32
+all,Others,hostile,Articoli ostili verso i manifestanti,0.1910150891632373,0.1647756125531344,0.22311475850044987,11664,16139,288
+all,Others,supportive,Articoli favorevoli ai manifestanti,0.2587448559670782,0.2276372611086931,0.2900325168897801,11664,16139,288
+all,Others,hostile_dem,Articoli ostili verso le richieste (dove citate),0.048200060502168,0.03722567903329344,0.06196863206322447,9917,16139,288
+all,Others,viol,Quota di frasi sulla violenza (media),0.34128386488340196,0.3260145699694217,0.35722075406579396,11664,16139,288
+all,Others,dem,Quota di frasi sulle richieste (media),0.21568972908093276,0.19918319931394263,0.22988467473681143,11664,16139,288
+all,Others,ratio,Rapporto frasi violenza / frasi richieste,1.582290757829005,1.425261933746046,1.776535466553581,11664,16139,288
+all,Others,q_gov,Articoli che citano polizia o governo,0.6577503429355281,0.6253196843839668,0.6887193209424345,11664,16139,288
+all,Others,q_prot,Articoli che citano manifestanti o organizzatori,0.42121056241426613,0.3806696642443136,0.458822640493813,11664,16139,288
+all,Others,deleg,Articoli con almeno un termine delegittimante,0.2800068587105624,0.2522020884813224,0.3104863864940732,11664,16139,288
+all,Others,head_viol,Titoli con cornice di violenza,0.4062093325897007,0.3753577185163349,0.4363453636271861,16137,16139,288
+all,Others,head_host,Titoli ostili verso i manifestanti,0.22029380772330007,0.1961550278538198,0.24785639647140786,16133,16139,288
+all,Others,gap,Titolo meno testo: differenza di ostilità (punti),0.03112940571134551,0.015204920256397955,0.0459933544375701,11661,16139,288
+all,Albania,hostile,Articoli ostili verso i manifestanti,0.280970625798212,0.1809734062368019,0.41698546289211935,1566,2811,8
+all,Albania,supportive,Articoli favorevoli ai manifestanti,0.31928480204342274,0.2273636530350266,0.421174097587859,1566,2811,8
+all,Albania,hostile_dem,Articoli ostili verso le richieste (dove citate),0.11448140900195694,0.06699886609071275,0.18232852579290967,1022,2811,8
+all,Albania,viol,Quota di frasi sulla violenza (media),0.40165389527458495,0.3712820961235971,0.4359164454443195,1566,2811,8
+all,Albania,dem,Quota di frasi sulle richieste (media),0.14609833971902936,0.10086541804312565,0.20081867798665856,1566,2811,8
+all,Albania,ratio,Rapporto frasi violenza / frasi richieste,2.7492023252764546,1.9120556836667344,3.9863712807121803,1566,2811,8
+all,Albania,q_gov,Articoli che citano polizia o governo,0.47573435504469985,0.40683211582566964,0.5689345472440944,1566,2811,8
+all,Albania,q_prot,Articoli che citano manifestanti o organizzatori,0.15517241379310345,0.11104314973455598,0.20163343775401169,1566,2811,8
+all,Albania,deleg,Articoli con almeno un termine delegittimante,0.2656449553001277,0.17036955825442385,0.39112179044655904,1566,2811,8
+all,Albania,head_viol,Titoli con cornice di violenza,0.48061188189256493,0.3954843408594319,0.5594673564108609,2811,2811,8
+all,Albania,head_host,Titoli ostili verso i manifestanti,0.23194592671647102,0.16453985329069182,0.30674303804467323,2811,2811,8
+all,Albania,gap,Titolo meno testo: differenza di ostilità (punti),-0.035759897828863345,-0.0952794744629626,0.014112816316652153,1566,2811,8
+all,Argentina,hostile,Articoli ostili verso i manifestanti,0.15498652291105122,0.08730712141702675,0.20242221288339296,742,906,12
+all,Argentina,supportive,Articoli favorevoli ai manifestanti,0.3719676549865229,0.22534847514841114,0.6494857950674479,742,906,12
+all,Argentina,hostile_dem,Articoli ostili verso le richieste (dove citate),0.04090267983074753,0.022371185968222657,0.06809125730421897,709,906,12
+all,Argentina,viol,Quota di frasi sulla violenza (media),0.2805525606469003,0.22435878647214855,0.31657744939271254,742,906,12
+all,Argentina,dem,Quota di frasi sulle richieste (media),0.28711590296495954,0.25423780519336375,0.3430392525818309,742,906,12
+all,Argentina,ratio,Rapporto frasi violenza / frasi richieste,0.9771404431092754,0.6546179230330242,1.2416990011448439,742,906,12
+all,Argentina,q_gov,Articoli che citano polizia o governo,0.6253369272237197,0.45645882729144566,0.7269516705920899,742,906,12
+all,Argentina,q_prot,Articoli che citano manifestanti o organizzatori,0.48517520215633425,0.4276546922760818,0.5372031688658667,742,906,12
+all,Argentina,deleg,Articoli con almeno un termine delegittimante,0.28975741239892183,0.19683927300759013,0.35098886211131597,742,906,12
+all,Argentina,head_viol,Titoli con cornice di violenza,0.3432671081677704,0.25815681396022566,0.41403279075253596,906,906,12
+all,Argentina,head_host,Titoli ostili verso i manifestanti,0.17660044150110377,0.1347724359327537,0.2168443381471794,906,906,12
+all,Argentina,gap,Titolo meno testo: differenza di ostilità (punti),0.04177897574123989,0.013858313286667569,0.07708572971329654,742,906,12
+all,Australia,hostile,Articoli ostili verso i manifestanti,0.06557377049180328,0.017849310776942354,0.2105661881977671,61,63,7
+all,Australia,supportive,Articoli favorevoli ai manifestanti,0.47540983606557374,0.13333333333333333,0.5686359026369168,61,63,7
+all,Australia,hostile_dem,Articoli ostili verso le richieste (dove citate),0.0,0.0,0.0,61,63,7
+all,Australia,viol,Quota di frasi sulla violenza (media),0.34803278688524586,0.317496408045977,0.45999999999999996,61,63,7
+all,Australia,dem,Quota di frasi sulle richieste (media),0.25868852459016395,0.20446428571428574,0.27410576839497586,61,63,7
+all,Australia,ratio,Rapporto frasi violenza / frasi richieste,1.3453738910012674,1.1589787242208949,2.201109871031746,61,63,7
+all,Australia,q_gov,Articoli che citano polizia o governo,0.8360655737704918,0.7866428571428571,0.9583333333333334,61,63,7
+all,Australia,q_prot,Articoli che citano manifestanti o organizzatori,0.6885245901639344,0.3333333333333333,0.7895042839657282,61,63,7
+all,Australia,deleg,Articoli con almeno un termine delegittimante,0.32786885245901637,0.1602977099236641,0.8214285714285714,61,63,7
+all,Australia,head_viol,Titoli con cornice di violenza,0.42857142857142855,0.33326923076923076,0.8,63,63,7
+all,Australia,head_host,Titoli ostili verso i manifestanti,0.19047619047619047,0.1372133599202393,0.4,63,63,7
+all,Australia,gap,Titolo meno testo: differenza di ostilità (punti),0.11475409836065574,0.037003968253968254,0.23536414565826325,61,63,7
+all,Austria,hostile,Articoli ostili verso i manifestanti,0.2857142857142857,0.20721465121136173,0.3887340033822277,301,384,9
+all,Austria,supportive,Articoli favorevoli ai manifestanti,0.1362126245847176,0.0814364125932063,0.17899413815756227,301,384,9
+all,Austria,hostile_dem,Articoli ostili verso le richieste (dove citate),0.05574912891986063,0.026156389324014942,0.09747216683283481,287,384,9
+all,Austria,viol,Quota di frasi sulla violenza (media),0.3285049833887043,0.3063412588695865,0.3575329669463193,301,384,9
+all,Austria,dem,Quota di frasi sulle richieste (media),0.23318936877076415,0.21262564979480167,0.250184068068794,301,384,9
+all,Austria,ratio,Rapporto frasi violenza / frasi richieste,1.4087476848553921,1.2366054276645706,1.6734536486589058,301,384,9
+all,Austria,q_gov,Articoli che citano polizia o governo,0.760797342192691,0.7350953482805394,0.7907136971250687,301,384,9
+all,Austria,q_prot,Articoli che citano manifestanti o organizzatori,0.44518272425249167,0.39883904858615843,0.48093299592914507,301,384,9
+all,Austria,deleg,Articoli con almeno un termine delegittimante,0.4152823920265781,0.3535644781864842,0.49029126213592233,301,384,9
+all,Austria,head_viol,Titoli con cornice di violenza,0.4140625,0.36221425511614774,0.47294094794094793,384,384,9
+all,Austria,head_host,Titoli ostili verso i manifestanti,0.3020833333333333,0.21718355027353328,0.38997128794093516,384,384,9
+all,Austria,gap,Titolo meno testo: differenza di ostilità (punti),0.04318936877076412,-0.004684940745736582,0.10302533839551005,301,384,9
+all,Bangladesh,hostile,Articoli ostili verso i manifestanti,0.06359649122807018,0.044617027596368423,0.08779422301836093,456,525,8
+all,Bangladesh,supportive,Articoli favorevoli ai manifestanti,0.18859649122807018,0.14471267025390955,0.22472242537065354,456,525,8
+all,Bangladesh,hostile_dem,Articoli ostili verso le richieste (dove citate),0.024830699774266364,0.00814890432457568,0.04090100751004866,443,525,8
+all,Bangladesh,viol,Quota di frasi sulla violenza (media),0.2599122807017544,0.2293162069632495,0.2896083104395605,456,525,8
+all,Bangladesh,dem,Quota di frasi sulle richieste (media),0.28135964912280703,0.2680814206424696,0.2940973753581092,456,525,8
+all,Bangladesh,ratio,Rapporto frasi violenza / frasi richieste,0.9237724084177708,0.7872644672539351,1.0716991602715782,456,525,8
+all,Bangladesh,q_gov,Articoli che citano polizia o governo,0.6995614035087719,0.6451881869175102,0.7529574827877763,456,525,8
+all,Bangladesh,q_prot,Articoli che citano manifestanti o organizzatori,0.6359649122807017,0.5668164362519201,0.694458132241648,456,525,8
+all,Bangladesh,deleg,Articoli con almeno un termine delegittimante,0.14035087719298245,0.11091132645111024,0.17343725832467907,456,525,8
+all,Bangladesh,head_viol,Titoli con cornice di violenza,0.29333333333333333,0.25925925925925924,0.3467783106878355,525,525,8
+all,Bangladesh,head_host,Titoli ostili verso i manifestanti,0.1523809523809524,0.1229561157796452,0.1907356948228883,525,525,8
+all,Bangladesh,gap,Titolo meno testo: differenza di ostilità (punti),0.08771929824561403,0.0590803166836093,0.1241513658755038,456,525,8
+all,Belgium,hostile,Articoli ostili verso i manifestanti,0.27335640138408307,0.19245283018867926,0.374109977324263,289,401,6
+all,Belgium,supportive,Articoli favorevoli ai manifestanti,0.2179930795847751,0.14423076923076922,0.27979274611398963,289,401,6
+all,Belgium,hostile_dem,Articoli ostili verso le richieste (dove citate),0.05394190871369295,0.02072538860103627,0.09009009009009009,241,401,6
+all,Belgium,viol,Quota di frasi sulla violenza (media),0.405121107266436,0.3580295566502463,0.4531967494714588,289,401,6
+all,Belgium,dem,Quota di frasi sulle richieste (media),0.18001730103806227,0.16412337680355163,0.1981509433962264,289,401,6
+all,Belgium,ratio,Rapporto frasi violenza / frasi richieste,2.250456511292648,1.8204718731520937,2.7257914338919926,289,401,6
+all,Belgium,q_gov,Articoli che citano polizia o governo,0.6885813148788927,0.64282617671346,0.7491166077738516,289,401,6
+all,Belgium,q_prot,Articoli che citano manifestanti o organizzatori,0.38408304498269896,0.30089798850574717,0.45784842426474454,289,401,6
+all,Belgium,deleg,Articoli con almeno un termine delegittimante,0.4532871972318339,0.39622641509433965,0.5094362084456424,289,401,6
+all,Belgium,head_viol,Titoli con cornice di violenza,0.48877805486284287,0.425531914893617,0.5551330798479087,401,401,6
+all,Belgium,head_host,Titoli ostili verso i manifestanti,0.2793017456359102,0.20657469897067393,0.32763532763532766,401,401,6
+all,Belgium,gap,Titolo meno testo: differenza di ostilità (punti),0.01384083044982699,-0.06704852175004708,0.06860158311345646,289,401,6
+all,Bosnia And Herzegovina,hostile,Articoli ostili verso i manifestanti,0.20245398773006135,0.16462788172402273,0.24324768847795164,163,238,7
+all,Bosnia And Herzegovina,supportive,Articoli favorevoli ai manifestanti,0.10429447852760736,0.01665983606557377,0.15853658536585366,163,238,7
+all,Bosnia And Herzegovina,hostile_dem,Articoli ostili verso le richieste (dove citate),0.02702702702702703,0.0,0.04395604395604396,148,238,7
+all,Bosnia And Herzegovina,viol,Quota di frasi sulla violenza (media),0.41128834355828214,0.36510619865178,0.48409448818897644,163,238,7
+all,Bosnia And Herzegovina,dem,Quota di frasi sulle richieste (media),0.1899079754601227,0.17664062735920277,0.20266428325641647,163,238,7
+all,Bosnia And Herzegovina,ratio,Rapporto frasi violenza / frasi richieste,2.1657244387013406,1.8999665571681532,2.606384716448202,163,238,7
+all,Bosnia And Herzegovina,q_gov,Articoli che citano polizia o governo,0.7423312883435583,0.6814814814814815,0.7831325301204819,163,238,7
+all,Bosnia And Herzegovina,q_prot,Articoli che citano manifestanti o organizzatori,0.3619631901840491,0.279981981981982,0.4236111111111111,163,238,7
+all,Bosnia And Herzegovina,deleg,Articoli con almeno un termine delegittimante,0.3374233128834356,0.2831094315913963,0.40541177970423253,163,238,7
+all,Bosnia And Herzegovina,head_viol,Titoli con cornice di violenza,0.6008403361344538,0.527504505242464,0.691129681836488,238,238,7
+all,Bosnia And Herzegovina,head_host,Titoli ostili verso i manifestanti,0.29831932773109243,0.22995765466882284,0.36123348017621143,238,238,7
+all,Bosnia And Herzegovina,gap,Titolo meno testo: differenza di ostilità (punti),0.1165644171779141,0.07262165006882035,0.15333333333333332,163,238,7
+all,Brazil,hostile,Articoli ostili verso i manifestanti,0.07859078590785908,0.03605679156908665,0.13393498973071655,369,409,15
+all,Brazil,supportive,Articoli favorevoli ai manifestanti,0.2032520325203252,0.11357223627336839,0.3324665858864197,369,409,15
+all,Brazil,hostile_dem,Articoli ostili verso le richieste (dove citate),0.008333333333333333,0.0,0.023271688229224527,360,409,15
+all,Brazil,viol,Quota di frasi sulla violenza (media),0.2966937669376694,0.24895227351899202,0.33257544153063956,369,409,15
+all,Brazil,dem,Quota di frasi sulle richieste (media),0.26256097560975616,0.2434081680478196,0.2904430587941373,369,409,15
+all,Brazil,ratio,Rapporto frasi violenza / frasi richieste,1.12999948392424,0.8584158470538032,1.354671551161817,369,409,15
+all,Brazil,q_gov,Articoli che citano polizia o governo,0.7506775067750677,0.6562790697674419,0.8208153331305141,369,409,15
+all,Brazil,q_prot,Articoli che citano manifestanti o organizzatori,0.5121951219512195,0.4293142857142857,0.5857266009852217,369,409,15
+all,Brazil,deleg,Articoli con almeno un termine delegittimante,0.26558265582655827,0.20658731866240473,0.3362294861775911,369,409,15
+all,Brazil,head_viol,Titoli con cornice di violenza,0.37163814180929094,0.2901869294726438,0.4338373761085028,409,409,15
+all,Brazil,head_host,Titoli ostili verso i manifestanti,0.1491442542787286,0.09112320293258491,0.2196325019704988,409,409,15
+all,Brazil,gap,Titolo meno testo: differenza di ostilità (punti),0.07588075880758807,0.04380933057891889,0.10544102980205215,369,409,15
+all,Bulgaria,hostile,Articoli ostili verso i manifestanti,0.17341040462427745,0.12713413467059678,0.21622016753595702,173,231,8
+all,Bulgaria,supportive,Articoli favorevoli ai manifestanti,0.1676300578034682,0.05184126984126984,0.2745151906916613,173,231,8
+all,Bulgaria,hostile_dem,Articoli ostili verso le richieste (dove citate),0.006134969325153374,0.0,0.018752948113207542,163,231,8
+all,Bulgaria,viol,Quota di frasi sulla violenza (media),0.3398265895953757,0.2940381744445751,0.38212204922149673,173,231,8
+all,Bulgaria,dem,Quota di frasi sulle richieste (media),0.241878612716763,0.20322138680033414,0.27715079545454546,173,231,8
+all,Bulgaria,ratio,Rapporto frasi violenza / frasi richieste,1.4049468275779664,1.0917868083280147,1.857289447394275,173,231,8
+all,Bulgaria,q_gov,Articoli che citano polizia o governo,0.7687861271676301,0.7290293431791682,0.819786076326774,173,231,8
+all,Bulgaria,q_prot,Articoli che citano manifestanti o organizzatori,0.4682080924855491,0.36666666666666664,0.5625,173,231,8
+all,Bulgaria,deleg,Articoli con almeno un termine delegittimante,0.35260115606936415,0.3088985987064983,0.4090909090909091,173,231,8
+all,Bulgaria,head_viol,Titoli con cornice di violenza,0.47619047619047616,0.4232287241893953,0.5521047794117647,231,231,8
+all,Bulgaria,head_host,Titoli ostili verso i manifestanti,0.20346320346320346,0.1373118977020015,0.30275102917487023,231,231,8
+all,Bulgaria,gap,Titolo meno testo: differenza di ostilità (punti),0.06936416184971098,0.004974489795918374,0.13333333333333333,173,231,8
+all,Canada,hostile,Articoli ostili verso i manifestanti,0.17307692307692307,0.08928571428571429,0.4,104,172,8
+all,Canada,supportive,Articoli favorevoli ai manifestanti,0.2692307692307692,0.043014705882353,0.375,104,172,8
+all,Canada,hostile_dem,Articoli ostili verso le richieste (dove citate),0.0707070707070707,0.022222222222222223,0.23076923076923078,99,172,8
+all,Canada,viol,Quota di frasi sulla violenza (media),0.31182692307692306,0.29125,0.3875,104,172,8
+all,Canada,dem,Quota di frasi sulle richieste (media),0.22403846153846155,0.1671875,0.24560149745605922,104,172,8
+all,Canada,ratio,Rapporto frasi violenza / frasi richieste,1.3918454935622318,1.2044484597801872,2.295568749199846,104,172,8
+all,Canada,q_gov,Articoli che citano polizia o governo,0.7692307692307693,0.734375,0.8928571428571429,104,172,8
+all,Canada,q_prot,Articoli che citano manifestanti o organizzatori,0.6153846153846154,0.5555555555555556,0.7142857142857143,104,172,8
+all,Canada,deleg,Articoli con almeno un termine delegittimante,0.33653846153846156,0.20833333333333334,0.5386363636363635,104,172,8
+all,Canada,head_viol,Titoli con cornice di violenza,0.38372093023255816,0.28167403111479333,0.542543067518755,172,172,8
+all,Canada,head_host,Titoli ostili verso i manifestanti,0.1686046511627907,0.11939956182390798,0.26799092771436933,172,172,8
+all,Canada,gap,Titolo meno testo: differenza di ostilità (punti),0.028846153846153848,-0.041666666666666664,0.06818181818181818,104,172,8
+all,Chile,hostile,Articoli ostili verso i manifestanti,0.3739130434782609,0.25,0.6019469673243553,115,134,7
+all,Chile,supportive,Articoli favorevoli ai manifestanti,0.1565217391304348,0.08771381578947368,0.22059077079107503,115,134,7
+all,Chile,hostile_dem,Articoli ostili verso le richieste (dove citate),0.2087912087912088,0.0684931506849315,0.47058823529411764,91,134,7
+all,Chile,viol,Quota di frasi sulla violenza (media),0.40526086956521734,0.3748158819448634,0.4560792230467044,115,134,7
+all,Chile,dem,Quota di frasi sulle richieste (media),0.17882608695652175,0.1541891891891892,0.1917107371794872,115,134,7
+all,Chile,ratio,Rapporto frasi violenza / frasi richieste,2.2662290299051784,1.9911259221549225,2.8994162671575716,115,134,7
+all,Chile,q_gov,Articoli che citano polizia o governo,0.6260869565217392,0.45816532258064513,0.7228064185728917,115,134,7
+all,Chile,q_prot,Articoli che citano manifestanti o organizzatori,0.4434782608695652,0.38633996212121213,0.49264705882352944,115,134,7
+all,Chile,deleg,Articoli con almeno un termine delegittimante,0.4260869565217391,0.35292446524064175,0.5188832394021073,115,134,7
+all,Chile,head_viol,Titoli con cornice di violenza,0.5895522388059702,0.49472474289171203,0.7334090909090908,134,134,7
+all,Chile,head_host,Titoli ostili verso i manifestanti,0.26865671641791045,0.2446043165467626,0.3100086206896552,134,134,7
+all,Chile,gap,Titolo meno testo: differenza di ostilità (punti),-0.11304347826086956,-0.33834422657952073,0.032718909481600826,115,134,7
+all,Colombia,hostile,Articoli ostili verso i manifestanti,0.11458333333333333,0.06666666666666667,0.20254081819849568,96,148,9
+all,Colombia,supportive,Articoli favorevoli ai manifestanti,0.25,0.16087382445141066,0.30434782608695654,96,148,9
+all,Colombia,hostile_dem,Articoli ostili verso le richieste (dove citate),0.0375,0.0,0.11544117647058819,80,148,9
+all,Colombia,viol,Quota di frasi sulla violenza (media),0.2895833333333333,0.24134707427404054,0.32384647817460316,96,148,9
+all,Colombia,dem,Quota di frasi sulle richieste (media),0.2281770833333333,0.16761607142857143,0.26516823394495415,96,148,9
+all,Colombia,ratio,Rapporto frasi violenza / frasi richieste,1.2691166400365212,1.1222931072679516,1.576529008006556,96,148,9
+all,Colombia,q_gov,Articoli che citano polizia o governo,0.5833333333333334,0.513268564832628,0.686765813253012,96,148,9
+all,Colombia,q_prot,Articoli che citano manifestanti o organizzatori,0.3020833333333333,0.21791666666666668,0.35514018691588783,96,148,9
+all,Colombia,deleg,Articoli con almeno un termine delegittimante,0.2916666666666667,0.18069199876428793,0.41897226173541957,96,148,9
+all,Colombia,head_viol,Titoli con cornice di violenza,0.3197278911564626,0.28368235885407944,0.39216306775874904,147,148,9
+all,Colombia,head_host,Titoli ostili verso i manifestanti,0.10884353741496598,0.06592712842712843,0.2210818713450292,147,148,9
+all,Colombia,gap,Titolo meno testo: differenza di ostilità (punti),0.021052631578947368,-0.050012626262626265,0.08975,95,148,9
+all,Ecuador,hostile,Articoli ostili verso i manifestanti,0.16666666666666666,0.08770022883295193,0.2564102564102564,60,63,8
+all,Ecuador,supportive,Articoli favorevoli ai manifestanti,0.25,0.12191968040370059,0.41936479490242934,60,63,8
+all,Ecuador,hostile_dem,Articoli ostili verso le richieste (dove citate),0.01694915254237288,0.0,0.057692307692307696,59,63,8
+all,Ecuador,viol,Quota di frasi sulla violenza (media),0.28650000000000003,0.22042210696612102,0.3687061111111111,60,63,8
+all,Ecuador,dem,Quota di frasi sulle richieste (media),0.26266666666666666,0.20259259259259257,0.30389596394984325,60,63,8
+all,Ecuador,ratio,Rapporto frasi violenza / frasi richieste,1.0907360406091373,0.7756354332466506,1.7409538974044763,60,63,8
+all,Ecuador,q_gov,Articoli che citano polizia o governo,0.7166666666666667,0.6093580163043478,0.8333333333333334,60,63,8
+all,Ecuador,q_prot,Articoli che citano manifestanti o organizzatori,0.4666666666666667,0.36666666666666664,0.5806744868035191,60,63,8
+all,Ecuador,deleg,Articoli con almeno un termine delegittimante,0.23333333333333334,0.15087351502445842,0.3181818181818182,60,63,8
+all,Ecuador,head_viol,Titoli con cornice di violenza,0.30158730158730157,0.2345679012345679,0.38461538461538464,63,63,8
+all,Ecuador,head_host,Titoli ostili verso i manifestanti,0.14285714285714285,0.06556486101211689,0.21128894579598803,63,63,8
+all,Ecuador,gap,Titolo meno testo: differenza di ostilità (punti),-0.016666666666666666,-0.11539855072463769,0.06384694577899792,60,63,8
+all,France,hostile,Articoli ostili verso i manifestanti,0.24244120940649497,0.16923823563196386,0.3760855441973933,1786,3049,11
+all,France,supportive,Articoli favorevoli ai manifestanti,0.251959686450168,0.159506557762267,0.34625924205672165,1786,3049,11
+all,France,hostile_dem,Articoli ostili verso le richieste (dove citate),0.04995766299745978,0.021729766577772452,0.1180733256152497,1181,3049,11
+all,France,viol,Quota di frasi sulla violenza (media),0.3894204927211645,0.36021598921863757,0.421952408797462,1786,3049,11
+all,France,dem,Quota di frasi sulle richieste (media),0.15484322508398654,0.12062457513826655,0.18319368078127138,1786,3049,11
+all,France,ratio,Rapporto frasi violenza / frasi richieste,2.51493400831676,1.973702058871682,3.416476705675702,1786,3049,11
+all,France,q_gov,Articoli che citano polizia o governo,0.6517357222844344,0.5440580965195488,0.7298762959632703,1786,3049,11
+all,France,q_prot,Articoli che citano manifestanti o organizzatori,0.374020156774916,0.2897142162192543,0.4344890250745528,1786,3049,11
+all,France,deleg,Articoli con almeno un termine delegittimante,0.30179171332586785,0.22991463510991983,0.41563928195116906,1786,3049,11
+all,France,head_viol,Titoli con cornice di violenza,0.3542144965562479,0.26510062349129304,0.42421315264208426,3049,3049,11
+all,France,head_host,Titoli ostili verso i manifestanti,0.2549212598425197,0.16519242608305995,0.35870919274214513,3048,3049,11
+all,France,gap,Titolo meno testo: differenza di ostilità (punti),0.019036954087346025,-0.04136509828841288,0.060815383283755034,1786,3049,11
+all,Germany,hostile,Articoli ostili verso i manifestanti,0.24919093851132687,0.1209362269981739,0.39804772099275587,309,409,10
+all,Germany,supportive,Articoli favorevoli ai manifestanti,0.284789644012945,0.1281081495098039,0.4927700519735917,309,409,10
+all,Germany,hostile_dem,Articoli ostili verso le richieste (dove citate),0.030612244897959183,0.0,0.08537178513808484,294,409,10
+all,Germany,viol,Quota di frasi sulla violenza (media),0.3797411003236246,0.3215682613519973,0.4404315748108852,309,409,10
+all,Germany,dem,Quota di frasi sulle richieste (media),0.21532362459546925,0.18202932330827068,0.25496061231510153,309,409,10
+all,Germany,ratio,Rapporto frasi violenza / frasi richieste,1.7635830765762381,1.266864244130254,2.3864617288477197,309,409,10
+all,Germany,q_gov,Articoli che citano polizia o governo,0.8090614886731392,0.7062665331418638,0.8975459663412589,309,409,10
+all,Germany,q_prot,Articoli che citano manifestanti o organizzatori,0.4692556634304207,0.41861622316808034,0.5206051029962547,309,409,10
+all,Germany,deleg,Articoli con almeno un termine delegittimante,0.41423948220064727,0.3146760731319555,0.5144075648572052,309,409,10
+all,Germany,head_viol,Titoli con cornice di violenza,0.41911764705882354,0.32994518846527704,0.5125347222222222,408,409,10
+all,Germany,head_host,Titoli ostili verso i manifestanti,0.28921568627450983,0.22684995446265938,0.37644062033868564,408,409,10
+all,Germany,gap,Titolo meno testo: differenza di ostilità (punti),0.05825242718446602,-0.020023012552301253,0.1314021897810219,309,409,10
+all,Greece,hostile,Articoli ostili verso i manifestanti,0.07786259541984733,0.05890396831944559,0.09936631624545002,655,721,11
+all,Greece,supportive,Articoli favorevoli ai manifestanti,0.2732824427480916,0.1767948825269267,0.35309546615581094,655,721,11
+all,Greece,hostile_dem,Articoli ostili verso le richieste (dove citate),0.01644736842105263,0.009357431783902371,0.024344139633186282,608,721,11
+all,Greece,viol,Quota di frasi sulla violenza (media),0.31890076335877865,0.29238215966667525,0.35279197197698103,655,721,11
+all,Greece,dem,Quota di frasi sulle richieste (media),0.2560763358778626,0.23252062785842115,0.2753617975044213,655,721,11
+all,Greece,ratio,Rapporto frasi violenza / frasi richieste,1.2453347642043764,1.0857053077749816,1.4915154447529773,655,721,11
+all,Greece,q_gov,Articoli che citano polizia o governo,0.7236641221374046,0.6859760955055128,0.7629346420489241,655,721,11
+all,Greece,q_prot,Articoli che citano manifestanti o organizzatori,0.4534351145038168,0.4106227355072464,0.48298938698467136,655,721,11
+all,Greece,deleg,Articoli con almeno un termine delegittimante,0.21374045801526717,0.17973464293466465,0.25674125999962116,655,721,11
+all,Greece,head_viol,Titoli con cornice di violenza,0.420249653259362,0.36541692849063717,0.49241073570475846,721,721,11
+all,Greece,head_host,Titoli ostili verso i manifestanti,0.13472222222222222,0.09981238043851473,0.1748646693592139,720,721,11
+all,Greece,gap,Titolo meno testo: differenza di ostilità (punti),0.0581039755351682,0.03372156780600803,0.0845155560405451,654,721,11
+all,India,hostile,Articoli ostili verso i manifestanti,0.1232986389111289,0.07124358535152973,0.25859179562707785,1249,1418,8
+all,India,supportive,Articoli favorevoli ai manifestanti,0.2546036829463571,0.1822669735327963,0.46053857216805677,1249,1418,8
+all,India,hostile_dem,Articoli ostili verso le richieste (dove citate),0.05917667238421955,0.032255184331797235,0.1553538607909702,1166,1418,8
+all,India,viol,Quota di frasi sulla violenza (media),0.2607606084867895,0.25111212647452574,0.2777436823104693,1249,1418,8
+all,India,dem,Quota di frasi sulle richieste (media),0.2519095276220977,0.22109816798518378,0.26434010028983596,1249,1418,8
+all,India,ratio,Rapporto frasi violenza / frasi richieste,1.035135951181528,0.973903823364311,1.2234969765353958,1249,1418,8
+all,India,q_gov,Articoli che citano polizia o governo,0.6437149719775821,0.5723835115670013,0.7081576895123,1249,1418,8
+all,India,q_prot,Articoli che citano manifestanti o organizzatori,0.5684547638110489,0.50267037485656,0.5901763339865094,1249,1418,8
+all,India,deleg,Articoli con almeno un termine delegittimante,0.177742193755004,0.13304252998909488,0.28649217718245673,1249,1418,8
+all,India,head_viol,Titoli con cornice di violenza,0.25881523272214385,0.23588650479954829,0.30189776217639314,1418,1418,8
+all,India,head_host,Titoli ostili verso i manifestanti,0.1622002820874471,0.13107463091552682,0.2527182490863154,1418,1418,8
+all,India,gap,Titolo meno testo: differenza di ostilità (punti),0.0488390712570056,0.0031020662306101977,0.07212260556672664,1249,1418,8
+all,Indonesia,hostile,Articoli ostili verso i manifestanti,0.12631578947368421,0.09558706444361183,0.15625531462585032,190,197,9
+all,Indonesia,supportive,Articoli favorevoli ai manifestanti,0.14736842105263157,0.10221590909090911,0.19333870967741934,190,197,9
+all,Indonesia,hostile_dem,Articoli ostili verso le richieste (dove citate),0.011695906432748537,0.0,0.03077319587628866,171,197,9
+all,Indonesia,viol,Quota di frasi sulla violenza (media),0.27210526315789474,0.23384176587301592,0.30746076977401127,190,197,9
+all,Indonesia,dem,Quota di frasi sulle richieste (media),0.26071052631578945,0.23650311847954275,0.2847748027469316,190,197,9
+all,Indonesia,ratio,Rapporto frasi violenza / frasi richieste,1.0437064701726053,0.8266024281171974,1.289377768635964,190,197,9
+all,Indonesia,q_gov,Articoli che citano polizia o governo,0.631578947368421,0.5372137875158518,0.7266485969387755,190,197,9
+all,Indonesia,q_prot,Articoli che citano manifestanti o organizzatori,0.5052631578947369,0.4443481848184818,0.5714457417582417,190,197,9
+all,Indonesia,deleg,Articoli con almeno un termine delegittimante,0.18421052631578946,0.12138658173859364,0.24608095238095232,190,197,9
+all,Indonesia,head_viol,Titoli con cornice di violenza,0.37055837563451777,0.32786885245901637,0.409096796985398,197,197,9
+all,Indonesia,head_host,Titoli ostili verso i manifestanti,0.13705583756345177,0.0979542042042042,0.19001190476190474,197,197,9
+all,Indonesia,gap,Titolo meno testo: differenza di ostilità (punti),0.015789473684210527,-0.020695974002527533,0.051888323940210736,190,197,9
+all,Iran,hostile,Articoli ostili verso i manifestanti,0.12903225806451613,0.05125,0.23809523809523808,31,56,5
+all,Iran,supportive,Articoli favorevoli ai manifestanti,0.2903225806451613,0.16216216216216217,0.38235294117647056,31,56,5
+all,Iran,hostile_dem,Articoli ostili verso le richieste (dove citate),0.034482758620689655,0.0,0.13636363636363635,29,56,5
+all,Iran,viol,Quota di frasi sulla violenza (media),0.3729032258064516,0.3278947368421053,0.44476190476190475,31,56,5
+all,Iran,dem,Quota di frasi sulle richieste (media),0.21532258064516127,0.18068181818181817,0.234375,31,56,5
+all,Iran,ratio,Rapporto frasi violenza / frasi richieste,1.7318352059925093,1.4168674698795183,2.4125786163522016,31,56,5
+all,Iran,q_gov,Articoli che citano polizia o governo,0.8387096774193549,0.7498397435897436,0.9615384615384616,31,56,5
+all,Iran,q_prot,Articoli che citano manifestanti o organizzatori,0.3870967741935484,0.2692307692307692,0.5454545454545454,31,56,5
+all,Iran,deleg,Articoli con almeno un termine delegittimante,0.3225806451612903,0.11904761904761904,0.6363636363636364,31,56,5
+all,Iran,head_viol,Titoli con cornice di violenza,0.375,0.18421052631578946,0.5,56,56,5
+all,Iran,head_host,Titoli ostili verso i manifestanti,0.16071428571428573,0.09722222222222222,0.2857142857142857,56,56,5
+all,Iran,gap,Titolo meno testo: differenza di ostilità (punti),-0.03225806451612903,-0.13793103448275862,0.08695652173913043,31,56,5
+all,Iraq,hostile,Articoli ostili verso i manifestanti,0.09090909090909091,0.0,0.13333333333333333,44,51,2
+all,Iraq,supportive,Articoli favorevoli ai manifestanti,0.4772727272727273,0.3333333333333333,0.7857142857142857,44,51,2
+all,Iraq,hostile_dem,Articoli ostili verso le richieste (dove citate),0.07317073170731707,0.0,0.1111111111111111,41,51,2
+all,Iraq,viol,Quota di frasi sulla violenza (media),0.2790909090909091,0.21285714285714286,0.31,44,51,2
+all,Iraq,dem,Quota di frasi sulle richieste (media),0.2888636363636364,0.27283333333333337,0.32321428571428573,44,51,2
+all,Iraq,ratio,Rapporto frasi violenza / frasi richieste,0.966168371361133,0.6585635359116021,1.1362248014660965,44,51,2
+all,Iraq,q_gov,Articoli che citano polizia o governo,0.5681818181818182,0.35714285714285715,0.6666666666666666,44,51,2
+all,Iraq,q_prot,Articoli che citano manifestanti o organizzatori,0.3181818181818182,0.26666666666666666,0.42857142857142855,44,51,2
+all,Iraq,deleg,Articoli con almeno un termine delegittimante,0.20454545454545456,0.14285714285714285,0.23333333333333334,44,51,2
+all,Iraq,head_viol,Titoli con cornice di violenza,0.27450980392156865,0.07142857142857142,0.35135135135135137,51,51,2
+all,Iraq,head_host,Titoli ostili verso i manifestanti,0.17647058823529413,0.14285714285714285,0.1891891891891892,51,51,2
+all,Iraq,gap,Titolo meno testo: differenza di ostilità (punti),0.06818181818181818,0.03333333333333333,0.14285714285714285,44,51,2
+all,Ireland,hostile,Articoli ostili verso i manifestanti,0.0,0.0,0.0,52,56,4
+all,Ireland,supportive,Articoli favorevoli ai manifestanti,0.40384615384615385,0.20833333333333334,0.5294117647058824,52,56,4
+all,Ireland,hostile_dem,Articoli ostili verso le richieste (dove citate),0.0,0.0,0.0,52,56,4
+all,Ireland,viol,Quota di frasi sulla violenza (media),0.23836538461538462,0.016666666666666666,0.2636842105263158,52,56,4
+all,Ireland,dem,Quota di frasi sulle richieste (media),0.29096153846153844,0.2567567567567567,0.3585714285714286,52,56,4
+all,Ireland,ratio,Rapporto frasi violenza / frasi richieste,0.8192333113020489,0.052631578947368425,0.870592383638928,52,56,4
+all,Ireland,q_gov,Articoli che citano polizia o governo,0.6923076923076923,0.3333333333333333,0.8,52,56,4
+all,Ireland,q_prot,Articoli che citano manifestanti o organizzatori,0.6730769230769231,0.3333333333333333,0.7894736842105263,52,56,4
+all,Ireland,deleg,Articoli con almeno un termine delegittimante,0.21153846153846154,0.0,0.2631578947368421,52,56,4
+all,Ireland,head_viol,Titoli con cornice di violenza,0.26785714285714285,0.0,0.2903225806451613,56,56,4
+all,Ireland,head_host,Titoli ostili verso i manifestanti,0.08928571428571429,0.0,0.0967741935483871,56,56,4
+all,Ireland,gap,Titolo meno testo: differenza di ostilità (punti),0.09615384615384616,0.0,0.10588235294117647,52,56,4
+all,Kenya,hostile,Articoli ostili verso i manifestanti,0.15625,0.10526315789473684,0.25,32,34,3
+all,Kenya,supportive,Articoli favorevoli ai manifestanti,0.25,0.2222222222222222,0.2631578947368421,32,34,3
+all,Kenya,hostile_dem,Articoli ostili verso le richieste (dove citate),0.03125,0.0,0.1111111111111111,32,34,3
+all,Kenya,viol,Quota di frasi sulla violenza (media),0.34312499999999996,0.2722222222222222,0.3778947368421052,32,34,3
+all,Kenya,dem,Quota di frasi sulle richieste (media),0.255625,0.2173684210526316,0.3375000000000001,32,34,3
+all,Kenya,ratio,Rapporto frasi violenza / frasi richieste,1.3422982885085573,0.9074074074074074,1.738498789346247,32,34,3
+all,Kenya,q_gov,Articoli che citano polizia o governo,0.59375,0.5,0.631578947368421,32,34,3
+all,Kenya,q_prot,Articoli che citano manifestanti o organizzatori,0.625,0.4444444444444444,0.75,32,34,3
+all,Kenya,deleg,Articoli con almeno un termine delegittimante,0.25,0.1111111111111111,0.3157894736842105,32,34,3
+all,Kenya,head_viol,Titoli con cornice di violenza,0.4411764705882353,0.38095238095238093,0.5555555555555556,34,34,3
+all,Kenya,head_host,Titoli ostili verso i manifestanti,0.3235294117647059,0.0,0.38095238095238093,34,34,3
+all,Kenya,gap,Titolo meno testo: differenza di ostilità (punti),0.15625,-0.25,0.2631578947368421,32,34,3
+all,Mexico,hostile,Articoli ostili verso i manifestanti,0.12121212121212122,0.09882529546321006,0.15789473684210525,165,178,7
+all,Mexico,supportive,Articoli favorevoli ai manifestanti,0.3696969696969697,0.3090764023210832,0.42105263157894735,165,178,7
+all,Mexico,hostile_dem,Articoli ostili verso le richieste (dove citate),0.0,0.0,0.0,149,178,7
+all,Mexico,viol,Quota di frasi sulla violenza (media),0.27690909090909094,0.25651851851851853,0.31576015473887814,165,178,7
+all,Mexico,dem,Quota di frasi sulle richieste (media),0.25212121212121213,0.22520312500000003,0.2651418547829096,165,178,7
+all,Mexico,ratio,Rapporto frasi violenza / frasi richieste,1.0983173076923078,1.0165154647926686,1.304619941807523,165,178,7
+all,Mexico,q_gov,Articoli che citano polizia o governo,0.6060606060606061,0.5194564694564694,0.6829422661315221,165,178,7
+all,Mexico,q_prot,Articoli che citano manifestanti o organizzatori,0.3575757575757576,0.21428571428571427,0.5049849605213685,165,178,7
+all,Mexico,deleg,Articoli con almeno un termine delegittimante,0.2606060606060606,0.21801910299003321,0.36179418985270045,165,178,7
+all,Mexico,head_viol,Titoli con cornice di violenza,0.24157303370786518,0.19642857142857142,0.3142857142857143,178,178,7
+all,Mexico,head_host,Titoli ostili verso i manifestanti,0.11797752808988764,0.0744336569579288,0.19878881987577635,178,178,7
+all,Mexico,gap,Titolo meno testo: differenza di ostilità (punti),0.006060606060606061,-0.03127232142857143,0.072,165,178,7
+all,Morocco,hostile,Articoli ostili verso i manifestanti,0.12195121951219512,0.034482758620689655,0.3333333333333333,41,80,2
+all,Morocco,supportive,Articoli favorevoli ai manifestanti,0.1951219512195122,0.1724137931034483,0.25,41,80,2
+all,Morocco,hostile_dem,Articoli ostili verso le richieste (dove citate),0.029411764705882353,0.0,0.1111111111111111,34,80,2
+all,Morocco,viol,Quota di frasi sulla violenza (media),0.31682926829268293,0.2927586206896552,0.375,41,80,2
+all,Morocco,dem,Quota di frasi sulle richieste (media),0.20219512195121953,0.18166666666666667,0.2106896551724138,41,80,2
+all,Morocco,ratio,Rapporto frasi violenza / frasi richieste,1.5669481302774426,1.3895253682487725,2.0642201834862384,41,80,2
+all,Morocco,q_gov,Articoli che citano polizia o governo,0.7073170731707317,0.5833333333333334,0.7586206896551724,41,80,2
+all,Morocco,q_prot,Articoli che citano manifestanti o organizzatori,0.43902439024390244,0.41379310344827586,0.5,41,80,2
+all,Morocco,deleg,Articoli con almeno un termine delegittimante,0.1951219512195122,0.13793103448275862,0.3333333333333333,41,80,2
+all,Morocco,head_viol,Titoli con cornice di violenza,0.4125,0.3076923076923077,0.43283582089552236,80,80,2
+all,Morocco,head_host,Titoli ostili verso i manifestanti,0.1,0.07462686567164178,0.23076923076923078,80,80,2
+all,Morocco,gap,Titolo meno testo: differenza di ostilità (punti),-0.024390243902439025,-0.08333333333333333,0.0,41,80,2
+all,Nepal,hostile,Articoli ostili verso i manifestanti,0.041666666666666664,0.0,0.16666666666666666,48,56,3
+all,Nepal,supportive,Articoli favorevoli ai manifestanti,0.25,0.21052631578947367,0.5,48,56,3
+all,Nepal,hostile_dem,Articoli ostili verso le richieste (dove citate),0.0,0.0,0.0,47,56,3
+all,Nepal,viol,Quota di frasi sulla violenza (media),0.2916666666666667,0.17500000000000002,0.3410526315789474,48,56,3
+all,Nepal,dem,Quota di frasi sulle richieste (media),0.268125,0.24652173913043476,0.325,48,56,3
+all,Nepal,ratio,Rapporto frasi violenza / frasi richieste,1.0878010878010878,0.5384615384615384,1.2342857142857144,48,56,3
+all,Nepal,q_gov,Articoli che citano polizia o governo,0.7291666666666666,0.6086956521739131,0.8947368421052632,48,56,3
+all,Nepal,q_prot,Articoli che citano manifestanti o organizzatori,0.6875,0.3333333333333333,0.8695652173913043,48,56,3
+all,Nepal,deleg,Articoli con almeno un termine delegittimante,0.16666666666666666,0.15789473684210525,0.17391304347826086,48,56,3
+all,Nepal,head_viol,Titoli con cornice di violenza,0.23214285714285715,0.0,0.2692307692307692,56,56,3
+all,Nepal,head_host,Titoli ostili verso i manifestanti,0.16071428571428573,0.043478260869565216,0.2692307692307692,56,56,3
+all,Nepal,gap,Titolo meno testo: differenza di ostilità (punti),0.125,0.0,0.21739130434782608,48,56,3
+all,Netherlands,hostile,Articoli ostili verso i manifestanti,0.20134228187919462,0.07893703499586663,0.3979591836734694,149,158,6
+all,Netherlands,supportive,Articoli favorevoli ai manifestanti,0.35570469798657717,0.25,0.4473855092276145,149,158,6
+all,Netherlands,hostile_dem,Articoli ostili verso le richieste (dove citate),0.09929078014184398,0.02169900787861103,0.2608695652173913,141,158,6
+all,Netherlands,viol,Quota di frasi sulla violenza (media),0.30979865771812076,0.27579881656804733,0.3657195767195767,149,158,6
+all,Netherlands,dem,Quota di frasi sulle richieste (media),0.23281879194630875,0.1990722222222222,0.2564444444444444,149,158,6
+all,Netherlands,ratio,Rapporto frasi violenza / frasi richieste,1.3306428365523202,1.0863191708854714,1.7869409505143532,149,158,6
+all,Netherlands,q_gov,Articoli che citano polizia o governo,0.6442953020134228,0.5686274509803921,0.7100749879051765,149,158,6
+all,Netherlands,q_prot,Articoli che citano manifestanti o organizzatori,0.5167785234899329,0.40476190476190477,0.6073832832491712,149,158,6
+all,Netherlands,deleg,Articoli con almeno un termine delegittimante,0.42953020134228187,0.31382978723404253,0.585601118359739,149,158,6
+all,Netherlands,head_viol,Titoli con cornice di violenza,0.34177215189873417,0.2827586206896552,0.41875,158,158,6
+all,Netherlands,head_host,Titoli ostili verso i manifestanti,0.23417721518987342,0.18243243243243243,0.3333333333333333,158,158,6
+all,Netherlands,gap,Titolo meno testo: differenza di ostilità (punti),0.020134228187919462,-0.09575106382978724,0.10344827586206896,149,158,6
+all,Nigeria,hostile,Articoli ostili verso i manifestanti,0.13768115942028986,0.08693492657644687,0.19380042714760323,138,148,11
+all,Nigeria,supportive,Articoli favorevoli ai manifestanti,0.2971014492753623,0.18317140874392782,0.3869226054493787,138,148,11
+all,Nigeria,hostile_dem,Articoli ostili verso le richieste (dove citate),0.022222222222222223,0.0,0.037043946932006626,135,148,11
+all,Nigeria,viol,Quota di frasi sulla violenza (media),0.3303623188405797,0.29202416656619246,0.37961076632487856,138,148,11
+all,Nigeria,dem,Quota di frasi sulle richieste (media),0.2551811594202899,0.2178780956725756,0.28293769633507854,138,148,11
+all,Nigeria,ratio,Rapporto frasi violenza / frasi richieste,1.2946187704103362,1.0543047753528254,1.7149149676873943,138,148,11
+all,Nigeria,q_gov,Articoli che citano polizia o governo,0.717391304347826,0.6257659742403043,0.8467953149001536,138,148,11
+all,Nigeria,q_prot,Articoli che citano manifestanti o organizzatori,0.463768115942029,0.33999056603773586,0.5336929519483284,138,148,11
+all,Nigeria,deleg,Articoli con almeno un termine delegittimante,0.2391304347826087,0.15789473684210525,0.3504629629629629,138,148,11
+all,Nigeria,head_viol,Titoli con cornice di violenza,0.4189189189189189,0.341080866807611,0.5185254803675856,148,148,11
+all,Nigeria,head_host,Titoli ostili verso i manifestanti,0.13513513513513514,0.08193823480708726,0.19485309772195014,148,148,11
+all,Nigeria,gap,Titolo meno testo: differenza di ostilità (punti),-0.007246376811594203,-0.0685049598488427,0.0423728813559322,138,148,11
+all,North Macedonia,hostile,Articoli ostili verso i manifestanti,0.18085106382978725,0.14812091503267974,0.24285714285714285,94,128,4
+all,North Macedonia,supportive,Articoli favorevoli ai manifestanti,0.11702127659574468,0.06578947368421052,0.14814814814814814,94,128,4
+all,North Macedonia,hostile_dem,Articoli ostili verso le richieste (dove citate),0.022988505747126436,0.0,0.07142857142857142,87,128,4
+all,North Macedonia,viol,Quota di frasi sulla violenza (media),0.41053191489361696,0.3939423076923076,0.433125,94,128,4
+all,North Macedonia,dem,Quota di frasi sulle richieste (media),0.2280851063829787,0.2010625,0.24923469387755098,94,128,4
+all,North Macedonia,ratio,Rapporto frasi violenza / frasi richieste,1.7999067164179106,1.6302691721686131,2.1870748299319724,94,128,4
+all,North Macedonia,q_gov,Articoli che citano polizia o governo,0.8085106382978723,0.7307692307692307,0.8529411764705882,94,128,4
+all,North Macedonia,q_prot,Articoli che citano manifestanti o organizzatori,0.425531914893617,0.3620689655172414,0.5,94,128,4
+all,North Macedonia,deleg,Articoli con almeno un termine delegittimante,0.2553191489361702,0.21794871794871795,0.28477328431372545,94,128,4
+all,North Macedonia,head_viol,Titoli con cornice di violenza,0.5546875,0.475,0.5879120879120879,128,128,4
+all,North Macedonia,head_host,Titoli ostili verso i manifestanti,0.3203125,0.22093023255813954,0.425531914893617,128,128,4
+all,North Macedonia,gap,Titolo meno testo: differenza di ostilità (punti),0.1276595744680851,0.017241379310344827,0.18333333333333332,94,128,4
+all,Palestine,hostile,Articoli ostili verso i manifestanti,0.25925925925925924,0.0,0.27450980392156865,54,55,3
+all,Palestine,supportive,Articoli favorevoli ai manifestanti,0.3148148148148148,0.27450980392156865,1.0,54,55,3
+all,Palestine,hostile_dem,Articoli ostili verso le richieste (dove citate),0.07547169811320754,0.0,0.08,53,55,3
+all,Palestine,viol,Quota di frasi sulla violenza (media),0.3214814814814815,0.0,0.3403921568627451,54,55,3
+all,Palestine,dem,Quota di frasi sulle richieste (media),0.2646296296296296,0.2556862745098039,0.45,54,55,3
+all,Palestine,ratio,Rapporto frasi violenza / frasi richieste,1.2148355493351994,0.0,1.3312883435582823,54,55,3
+all,Palestine,q_gov,Articoli che citano polizia o governo,0.8333333333333334,0.0,0.8627450980392157,54,55,3
+all,Palestine,q_prot,Articoli che citano manifestanti o organizzatori,0.5185185185185185,0.49019607843137253,1.0,54,55,3
+all,Palestine,deleg,Articoli con almeno un termine delegittimante,0.2962962962962963,0.0,0.3137254901960784,54,55,3
+all,Palestine,head_viol,Titoli con cornice di violenza,0.45454545454545453,0.0,0.4807692307692308,55,55,3
+all,Palestine,head_host,Titoli ostili verso i manifestanti,0.16363636363636364,0.0,0.17307692307692307,55,55,3
+all,Palestine,gap,Titolo meno testo: differenza di ostilità (punti),-0.09259259259259259,-0.09803921568627451,0.0,54,55,3
+all,Portugal,hostile,Articoli ostili verso i manifestanti,0.15492957746478872,0.07389162561576355,0.3103448275862069,142,177,5
+all,Portugal,supportive,Articoli favorevoli ai manifestanti,0.21830985915492956,0.16379310344827586,0.2641509433962264,142,177,5
+all,Portugal,hostile_dem,Articoli ostili verso le richieste (dove citate),0.07462686567164178,0.01752899197145406,0.18876995645863565,134,177,5
+all,Portugal,viol,Quota di frasi sulla violenza (media),0.3558450704225352,0.3394399464119292,0.3733620689655172,142,177,5
+all,Portugal,dem,Quota di frasi sulle richieste (media),0.24330985915492956,0.22490654205607474,0.2544411476162645,142,177,5
+all,Portugal,ratio,Rapporto frasi violenza / frasi richieste,1.4625180897250363,1.3394962486602358,1.6380635778100976,142,177,5
+all,Portugal,q_gov,Articoli che citano polizia o governo,0.6338028169014085,0.5362723024638912,0.6954314720812182,142,177,5
+all,Portugal,q_prot,Articoli che citano manifestanti o organizzatori,0.47183098591549294,0.31896551724137934,0.5708666501954089,142,177,5
+all,Portugal,deleg,Articoli con almeno un termine delegittimante,0.30985915492957744,0.23741007194244604,0.41379310344827586,142,177,5
+all,Portugal,head_viol,Titoli con cornice di violenza,0.4124293785310734,0.3624108228082228,0.4421052631578947,177,177,5
+all,Portugal,head_host,Titoli ostili verso i manifestanti,0.12994350282485875,0.078125,0.19136859462201927,177,177,5
+all,Portugal,gap,Titolo meno testo: differenza di ostilità (punti),-0.028169014084507043,-0.1308411214953271,0.04201680672268908,142,177,5
+all,Romania,hostile,Articoli ostili verso i manifestanti,0.1875,0.14617571059431525,0.23098892831476822,304,324,10
+all,Romania,supportive,Articoli favorevoli ai manifestanti,0.14473684210526316,0.10083024476166012,0.18563329422236607,304,324,10
+all,Romania,hostile_dem,Articoli ostili verso le richieste (dove citate),0.007142857142857143,0.0,0.01672275786792796,280,324,10
+all,Romania,viol,Quota di frasi sulla violenza (media),0.3726973684210526,0.34567746256895193,0.3996113927576601,304,324,10
+all,Romania,dem,Quota di frasi sulle richieste (media),0.2241611842105263,0.2131003540261484,0.2375206395348837,304,324,10
+all,Romania,ratio,Rapporto frasi violenza / frasi richieste,1.662631154156578,1.4792322063927181,1.8471355094768735,304,324,10
+all,Romania,q_gov,Articoli che citano polizia o governo,0.7730263157894737,0.73421905053331,0.8049538348374063,304,324,10
+all,Romania,q_prot,Articoli che citano manifestanti o organizzatori,0.4375,0.362971202879712,0.4954242171506559,304,324,10
+all,Romania,deleg,Articoli con almeno un termine delegittimante,0.3223684210526316,0.2692307692307692,0.38755786762730876,304,324,10
+all,Romania,head_viol,Titoli con cornice di violenza,0.5,0.36701151000274046,0.5958154537829877,324,324,10
+all,Romania,head_host,Titoli ostili verso i manifestanti,0.2191358024691358,0.13600671976107517,0.27726761271875244,324,324,10
+all,Romania,gap,Titolo meno testo: differenza di ostilità (punti),0.03618421052631579,-0.060547404445649225,0.09206565902811636,304,324,10
+all,Russia,hostile,Articoli ostili verso i manifestanti,0.45726495726495725,0.2857142857142857,0.5299539170506913,234,415,4
+all,Russia,supportive,Articoli favorevoli ai manifestanti,0.09401709401709402,0.04608294930875576,0.24489795918367346,234,415,4
+all,Russia,hostile_dem,Articoli ostili verso le richieste (dove citate),0.05,0.026845637583892617,0.1686746987951807,200,415,4
+all,Russia,viol,Quota di frasi sulla violenza (media),0.4236324786324786,0.34,0.44963320463320466,234,415,4
+all,Russia,dem,Quota di frasi sulle richieste (media),0.1803846153846154,0.1562962962962963,0.24188461538461536,234,415,4
+all,Russia,ratio,Rapporto frasi violenza / frasi richieste,2.3484956171523335,1.4208936237875658,2.6784717872800776,234,415,4
+all,Russia,q_gov,Articoli che citano polizia o governo,0.6666666666666666,0.3488372093023256,0.7333333333333333,234,415,4
+all,Russia,q_prot,Articoli che citano manifestanti o organizzatori,0.2692307692307692,0.07407407407407407,0.3923076923076923,234,415,4
+all,Russia,deleg,Articoli con almeno un termine delegittimante,0.47435897435897434,0.32653061224489793,0.5299539170506913,234,415,4
+all,Russia,head_viol,Titoli con cornice di violenza,0.491566265060241,0.45454545454545453,0.5039370078740157,415,415,4
+all,Russia,head_host,Titoli ostili verso i manifestanti,0.2674698795180723,0.1951219512195122,0.37349397590361444,415,415,4
+all,Russia,gap,Titolo meno testo: differenza di ostilità (punti),-0.17094017094017094,-0.25925925925925924,0.04081632653061224,234,415,4
+all,Serbia,hostile,Articoli ostili verso i manifestanti,0.22294022617124395,0.10194910132436409,0.3836921881774823,619,759,7
+all,Serbia,supportive,Articoli favorevoli ai manifestanti,0.2617124394184168,0.11097509591668951,0.4303587830080367,619,759,7
+all,Serbia,hostile_dem,Articoli ostili verso le richieste (dove citate),0.07407407407407407,0.01949317738791423,0.15708873270371182,540,759,7
+all,Serbia,viol,Quota di frasi sulla violenza (media),0.35369951534733435,0.270962331838565,0.4239898989898989,619,759,7
+all,Serbia,dem,Quota di frasi sulle richieste (media),0.1909773828756058,0.1775278990613097,0.202575161081481,619,759,7
+all,Serbia,ratio,Rapporto frasi violenza / frasi richieste,1.8520492323309221,1.351548903585103,2.345961455131212,619,759,7
+all,Serbia,q_gov,Articoli che citano polizia o governo,0.6348949919224556,0.5289777154433536,0.73558648111332,619,759,7
+all,Serbia,q_prot,Articoli che citano manifestanti o organizzatori,0.41518578352180935,0.3333043478260869,0.5070870271167156,619,759,7
+all,Serbia,deleg,Articoli con almeno un termine delegittimante,0.2940226171243942,0.18914148191055183,0.41065686820841457,619,759,7
+all,Serbia,head_viol,Titoli con cornice di violenza,0.4927536231884058,0.3670643978695442,0.6069860932455697,759,759,7
+all,Serbia,head_host,Titoli ostili verso i manifestanti,0.31620553359683795,0.18598299213650843,0.5079699069356701,759,759,7
+all,Serbia,gap,Titolo meno testo: differenza di ostilità (punti),0.10177705977382875,0.04823747680890538,0.14598703318937853,619,759,7
+all,South Africa,hostile,Articoli ostili verso i manifestanti,0.04411764705882353,0.02857142857142857,0.0625,68,74,4
+all,South Africa,supportive,Articoli favorevoli ai manifestanti,0.11764705882352941,0.046153846153846156,0.2,68,74,4
+all,South Africa,hostile_dem,Articoli ostili verso le richieste (dove citate),0.0,0.0,0.0,68,74,4
+all,South Africa,viol,Quota di frasi sulla violenza (media),0.38455882352941173,0.36846153846153845,0.436875,68,74,4
+all,South Africa,dem,Quota di frasi sulle richieste (media),0.24749999999999997,0.205,0.2605769230769231,68,74,4
+all,South Africa,ratio,Rapporto frasi violenza / frasi richieste,1.5537730243612597,1.4140221402214022,2.13109756097561,68,74,4
+all,South Africa,q_gov,Articoli che citano polizia o governo,0.9411764705882353,0.9302325581395349,0.96,68,74,4
+all,South Africa,q_prot,Articoli che citano manifestanti o organizzatori,0.6617647058823529,0.6,0.7228915662650602,68,74,4
+all,South Africa,deleg,Articoli con almeno un termine delegittimante,0.19117647058823528,0.1346153846153846,0.375,68,74,4
+all,South Africa,head_viol,Titoli con cornice di violenza,0.6621621621621622,0.625,0.6847826086956522,74,74,4
+all,South Africa,head_host,Titoli ostili verso i manifestanti,0.14864864864864866,0.0625,0.17865259740259734,74,74,4
+all,South Africa,gap,Titolo meno testo: differenza di ostilità (punti),0.058823529411764705,0.0,0.08004081632653058,68,74,4
+all,South Korea,hostile,Articoli ostili verso i manifestanti,0.16494845360824742,0.08,0.23424257590924255,97,178,9
+all,South Korea,supportive,Articoli favorevoli ai manifestanti,0.24742268041237114,0.09721885113268608,0.47297660563789595,97,178,9
+all,South Korea,hostile_dem,Articoli ostili verso le richieste (dove citate),0.010752688172043012,0.0,0.0408233156276209,93,178,9
+all,South Korea,viol,Quota di frasi sulla violenza (media),0.31278350515463915,0.2639886075949367,0.3534935216652506,97,178,9
+all,South Korea,dem,Quota di frasi sulle richieste (media),0.24221649484536084,0.22089194915254237,0.2600029069767442,97,178,9
+all,South Korea,ratio,Rapporto frasi violenza / frasi richieste,1.291338582677165,1.0588656958058065,1.4995406571739671,97,178,9
+all,South Korea,q_gov,Articoli che citano polizia o governo,0.7010309278350515,0.6249663978494624,0.788282498184459,97,178,9
+all,South Korea,q_prot,Articoli che citano manifestanti o organizzatori,0.44329896907216493,0.3280740489130435,0.5532009878419453,97,178,9
+all,South Korea,deleg,Articoli con almeno un termine delegittimante,0.28865979381443296,0.1896239380309845,0.3853234900611621,97,178,9
+all,South Korea,head_viol,Titoli con cornice di violenza,0.37640449438202245,0.302007465946547,0.43569561482077246,178,178,9
+all,South Korea,head_host,Titoli ostili verso i manifestanti,0.25,0.21232715171879038,0.29918300653594765,176,178,9
+all,South Korea,gap,Titolo meno testo: differenza di ostilità (punti),0.11458333333333333,0.056179775280898875,0.1882395566922421,96,178,9
+all,Spain,hostile,Articoli ostili verso i manifestanti,0.16521739130434782,0.08414239482200647,0.2481744582903404,345,399,5
+all,Spain,supportive,Articoli favorevoli ai manifestanti,0.4260869565217391,0.2861271676300578,0.6196078431372549,345,399,5
+all,Spain,hostile_dem,Articoli ostili verso le richieste (dove citate),0.03215434083601286,0.005494505494505495,0.043731778425655975,311,399,5
+all,Spain,viol,Quota di frasi sulla violenza (media),0.30820289855072464,0.2235686274509804,0.3799853615614332,345,399,5
+all,Spain,dem,Quota di frasi sulle richieste (media),0.27550724637681157,0.2328148148148148,0.3281229773462783,345,399,5
+all,Spain,ratio,Rapporto frasi violenza / frasi richieste,1.1186743819042608,0.6899420091645968,1.669431968295905,345,399,5
+all,Spain,q_gov,Articoli che citano polizia o governo,0.6202898550724638,0.49411764705882355,0.7017208413001912,345,399,5
+all,Spain,q_prot,Articoli che citano manifestanti o organizzatori,0.4782608695652174,0.3719203905071831,0.5825242718446602,345,399,5
+all,Spain,deleg,Articoli con almeno un termine delegittimante,0.23478260869565218,0.16181229773462782,0.302446622747837,345,399,5
+all,Spain,head_viol,Titoli con cornice di violenza,0.40350877192982454,0.3018203012912482,0.474468085106383,399,399,5
+all,Spain,head_host,Titoli ostili verso i manifestanti,0.20300751879699247,0.13020833333333334,0.26101449275362304,399,399,5
+all,Spain,gap,Titolo meno testo: differenza di ostilità (punti),0.034782608695652174,-0.01948051948051948,0.05829596412556054,345,399,5
+all,Sri Lanka,hostile,Articoli ostili verso i manifestanti,0.125,,,40,47,1
+all,Sri Lanka,supportive,Articoli favorevoli ai manifestanti,0.075,,,40,47,1
+all,Sri Lanka,hostile_dem,Articoli ostili verso le richieste (dove citate),0.0,,,39,47,1
+all,Sri Lanka,viol,Quota di frasi sulla violenza (media),0.34750000000000003,,,40,47,1
+all,Sri Lanka,dem,Quota di frasi sulle richieste (media),0.26349999999999996,,,40,47,1
+all,Sri Lanka,ratio,Rapporto frasi violenza / frasi richieste,1.3187855787476281,,,40,47,1
+all,Sri Lanka,q_gov,Articoli che citano polizia o governo,1.0,,,40,47,1
+all,Sri Lanka,q_prot,Articoli che citano manifestanti o organizzatori,0.7,,,40,47,1
+all,Sri Lanka,deleg,Articoli con almeno un termine delegittimante,0.325,,,40,47,1
+all,Sri Lanka,head_viol,Titoli con cornice di violenza,0.5106382978723404,,,47,47,1
+all,Sri Lanka,head_host,Titoli ostili verso i manifestanti,0.2978723404255319,,,47,47,1
+all,Sri Lanka,gap,Titolo meno testo: differenza di ostilità (punti),0.15,,,40,47,1
+all,Thailand,hostile,Articoli ostili verso i manifestanti,0.14285714285714285,0.06060606060606061,0.20833333333333334,35,35,4
+all,Thailand,supportive,Articoli favorevoli ai manifestanti,0.11428571428571428,0.025,0.20833333333333334,35,35,4
+all,Thailand,hostile_dem,Articoli ostili verso le richieste (dove citate),0.0,0.0,0.0,32,35,4
+all,Thailand,viol,Quota di frasi sulla violenza (media),0.31414285714285717,0.27578947368421053,0.3596875,35,35,4
+all,Thailand,dem,Quota di frasi sulle richieste (media),0.1842857142857143,0.16020833333333334,0.22727272727272727,35,35,4
+all,Thailand,ratio,Rapporto frasi violenza / frasi richieste,1.7046511627906977,1.314606741573034,2.0335689045936394,35,35,4
+all,Thailand,q_gov,Articoli che citano polizia o governo,0.7714285714285715,0.631578947368421,0.9375,35,35,4
+all,Thailand,q_prot,Articoli che citano manifestanti o organizzatori,0.42857142857142855,0.4166666666666667,0.4583333333333333,35,35,4
+all,Thailand,deleg,Articoli con almeno un termine delegittimante,0.22857142857142856,0.09090909090909091,0.3125,35,35,4
+all,Thailand,head_viol,Titoli con cornice di violenza,0.34285714285714286,0.2,0.5,35,35,4
+all,Thailand,head_host,Titoli ostili verso i manifestanti,0.14285714285714285,0.08333333333333333,0.16666666666666666,35,35,4
+all,Thailand,gap,Titolo meno testo: differenza di ostilità (punti),0.0,-0.125,0.09090909090909091,35,35,4
+all,Turkey,hostile,Articoli ostili verso i manifestanti,0.10126582278481013,0.058823529411764705,0.1694915254237288,79,120,5
+all,Turkey,supportive,Articoli favorevoli ai manifestanti,0.189873417721519,0.11428571428571428,0.24515036351619293,79,120,5
+all,Turkey,hostile_dem,Articoli ostili verso le richieste (dove citate),0.013157894736842105,0.0,0.03409090909090909,76,120,5
+all,Turkey,viol,Quota di frasi sulla violenza (media),0.3605063291139241,0.2797752808988764,0.4549152542372882,79,120,5
+all,Turkey,dem,Quota di frasi sulle richieste (media),0.21246835443037976,0.1802857142857143,0.24839080459770113,79,120,5
+all,Turkey,ratio,Rapporto frasi violenza / frasi richieste,1.6967530533214181,1.1277173913043481,2.501397949673812,79,120,5
+all,Turkey,q_gov,Articoli che citano polizia o governo,0.7974683544303798,0.7303370786516854,0.8813559322033898,79,120,5
+all,Turkey,q_prot,Articoli che citano manifestanti o organizzatori,0.21518987341772153,0.1411764705882353,0.32786885245901637,79,120,5
+all,Turkey,deleg,Articoli con almeno un termine delegittimante,0.20253164556962025,0.12371134020618557,0.32786885245901637,79,120,5
+all,Turkey,head_viol,Titoli con cornice di violenza,0.525,0.45652173913043476,0.6538461538461539,120,120,5
+all,Turkey,head_host,Titoli ostili verso i manifestanti,0.10833333333333334,0.041666666666666664,0.1826086956521739,120,120,5
+all,Turkey,gap,Titolo meno testo: differenza di ostilità (punti),0.012658227848101266,-0.03626836111569565,0.0759493670886076,79,120,5
+all,United Kingdom,hostile,Articoli ostili verso i manifestanti,0.17647058823529413,0.09090909090909091,0.25,51,52,3
+all,United Kingdom,supportive,Articoli favorevoli ai manifestanti,0.21568627450980393,0.16666666666666666,0.2727272727272727,51,52,3
+all,United Kingdom,hostile_dem,Articoli ostili verso le richieste (dove citate),0.02040816326530612,0.0,0.043478260869565216,49,52,3
+all,United Kingdom,viol,Quota di frasi sulla violenza (media),0.43039215686274507,0.41818181818181815,0.4375,51,52,3
+all,United Kingdom,dem,Quota di frasi sulle richieste (media),0.19058823529411767,0.17727272727272725,0.209375,51,52,3
+all,United Kingdom,ratio,Rapporto frasi violenza / frasi richieste,2.258230452674897,2.08955223880597,2.358974358974359,51,52,3
+all,United Kingdom,q_gov,Articoli che citano polizia o governo,0.8627450980392157,0.7272727272727273,0.9375,51,52,3
+all,United Kingdom,q_prot,Articoli che citano manifestanti o organizzatori,0.5098039215686274,0.45454545454545453,0.5625,51,52,3
+all,United Kingdom,deleg,Articoli con almeno un termine delegittimante,0.37254901960784315,0.09090909090909091,0.5,51,52,3
+all,United Kingdom,head_viol,Titoli con cornice di violenza,0.6923076923076923,0.625,0.8181818181818182,52,52,3
+all,United Kingdom,head_host,Titoli ostili verso i manifestanti,0.4423076923076923,0.375,0.5454545454545454,52,52,3
+all,United Kingdom,gap,Titolo meno testo: differenza di ostilità (punti),0.27450980392156865,0.20833333333333334,0.45454545454545453,51,52,3
+all,United States,hostile,Articoli ostili verso i manifestanti,0.025,0.0,0.058823529411764705,40,46,3
+all,United States,supportive,Articoli favorevoli ai manifestanti,0.25,0.17647058823529413,0.36363636363636365,40,46,3
+all,United States,hostile_dem,Articoli ostili verso le richieste (dove citate),0.0,0.0,0.0,40,46,3
+all,United States,viol,Quota di frasi sulla violenza (media),0.293875,0.2383333333333334,0.32323529411764707,40,46,3
+all,United States,dem,Quota di frasi sulle richieste (media),0.26349999999999996,0.25,0.27647058823529413,40,46,3
+all,United States,ratio,Rapporto frasi violenza / frasi richieste,1.1152751423149905,0.9255663430420714,1.2363636363636363,40,46,3
+all,United States,q_gov,Articoli che citano polizia o governo,0.9,0.8181818181818182,0.9411764705882353,40,46,3
+all,United States,q_prot,Articoli che citano manifestanti o organizzatori,0.725,0.5454545454545454,0.8333333333333334,40,46,3
+all,United States,deleg,Articoli con almeno un termine delegittimante,0.275,0.23529411764705882,0.3333333333333333,40,46,3
+all,United States,head_viol,Titoli con cornice di violenza,0.5,0.36363636363636365,0.5714285714285714,46,46,3
+all,United States,head_host,Titoli ostili verso i manifestanti,0.2391304347826087,0.18181818181818182,0.2857142857142857,46,46,3
+all,United States,gap,Titolo meno testo: differenza di ostilità (punti),0.2,0.16666666666666666,0.23529411764705882,40,46,3
+all,Small,hostile,Articoli ostili verso i manifestanti,0.11568123393316196,0.08623737373737374,0.1492063492063492,389,639,40
+all,Small,supportive,Articoli favorevoli ai manifestanti,0.2210796915167095,0.16747916666666668,0.2865025856652651,389,639,40
+all,Small,hostile_dem,Articoli ostili verso le richieste (dove citate),0.01912568306010929,0.003397495361781076,0.03753857048914967,366,639,40
+all,Small,viol,Quota di frasi sulla violenza (media),0.33028277634961445,0.306991368602169,0.3539494382022472,389,639,40
+all,Small,dem,Quota di frasi sulle richieste (media),0.24194087403598966,0.22541115766604594,0.256070517208695,389,639,40
+all,Small,ratio,Rapporto frasi violenza / frasi richieste,1.3651383945173463,1.233492985146131,1.525586555346389,389,639,40
+all,Small,q_gov,Articoli che citano polizia o governo,0.7506426735218509,0.6755136806954636,0.8249294288940393,389,639,40
+all,Small,q_prot,Articoli che citano manifestanti o organizzatori,0.506426735218509,0.4197111341031974,0.5810159034823142,389,639,40
+all,Small,deleg,Articoli con almeno un termine delegittimante,0.2776349614395887,0.22888027108433734,0.333377659574468,389,639,40
+all,Small,head_viol,Titoli con cornice di violenza,0.4507042253521127,0.36946737551182146,0.5104966692789968,639,639,40
+all,Small,head_host,Titoli ostili verso i manifestanti,0.24100156494522693,0.17385774521324393,0.30044953500187765,639,639,40
+all,Small,gap,Titolo meno testo: differenza di ostilità (punti),0.08483290488431877,0.03738250617681813,0.12694510572748915,389,639,40
+domestic,Italy,hostile,Articoli ostili verso i manifestanti,0.5636658556366586,0.4377451863190911,0.6782052060646675,1233,1518,31
+domestic,Italy,supportive,Articoli favorevoli ai manifestanti,0.19059205190592052,0.13117052985224942,0.2615991997464543,1233,1518,31
+domestic,Italy,hostile_dem,Articoli ostili verso le richieste (dove citate),0.2652582159624413,0.12947000198006733,0.3947440849026917,852,1518,31
+domestic,Italy,viol,Quota di frasi sulla violenza (media),0.4274452554744525,0.38068390639154676,0.46733646884969576,1233,1518,31
+domestic,Italy,dem,Quota di frasi sulle richieste (media),0.1750243309002433,0.1470208970295799,0.2039764950499585,1233,1518,31
+domestic,Italy,ratio,Rapporto frasi violenza / frasi richieste,2.4422047681935077,1.8751289203336226,3.148560786209017,1233,1518,31
+domestic,Italy,q_gov,Articoli che citano polizia o governo,0.49716139497161393,0.4546468108452388,0.5408908678691359,1233,1518,31
+domestic,Italy,q_prot,Articoli che citano manifestanti o organizzatori,0.36009732360097324,0.3118009549715556,0.4012114196428146,1233,1518,31
+domestic,Italy,deleg,Articoli con almeno un termine delegittimante,0.6139497161394971,0.49940674017495473,0.7165045827706253,1233,1518,31
+domestic,Italy,head_viol,Titoli con cornice di violenza,0.505270092226614,0.45962978112493286,0.5501293643444632,1518,1518,31
+domestic,Italy,head_host,Titoli ostili verso i manifestanti,0.4851680949241925,0.3945636609287767,0.5711024556291238,1517,1518,31
+domestic,Italy,gap,Titolo meno testo: differenza di ostilità (punti),-0.06168831168831169,-0.11261293574779944,-0.020164523978083312,1232,1518,31
+domestic,Others,hostile,Articoli ostili verso i manifestanti,0.2049638395792242,0.160628812370591,0.25871216267923625,6084,8563,234
+domestic,Others,supportive,Articoli favorevoli ai manifestanti,0.31015779092702167,0.26619873871536864,0.3604334345508075,6084,8563,234
+domestic,Others,hostile_dem,Articoli ostili verso le richieste (dove citate),0.07546768707482993,0.054489776059445126,0.10602517936916203,4704,8563,234
+domestic,Others,viol,Quota di frasi sulla violenza (media),0.3154750164365549,0.28286964462514,0.3428351918509096,6084,8563,234
+domestic,Others,dem,Quota di frasi sulle richieste (media),0.20466962524654833,0.17883817722476356,0.23215111352618123,6084,8563,234
+domestic,Others,ratio,Rapporto frasi violenza / frasi richieste,1.5413865934260083,1.2350066041815055,1.8832016242801735,6084,8563,234
+domestic,Others,q_gov,Articoli che citano polizia o governo,0.5552268244575936,0.5042287281683834,0.6039571498367684,6084,8563,234
+domestic,Others,q_prot,Articoli che citano manifestanti o organizzatori,0.40055884286653515,0.335540864437222,0.4633351854704224,6084,8563,234
+domestic,Others,deleg,Articoli con almeno un termine delegittimante,0.23520710059171598,0.1929678756238245,0.2840896280379354,6084,8563,234
+domestic,Others,head_viol,Titoli con cornice di violenza,0.36202265561135116,0.31199425083991467,0.4057732974326025,8563,8563,234
+domestic,Others,head_host,Titoli ostili verso i manifestanti,0.21476118182879833,0.1818157021787765,0.2504756422206774,8563,8563,234
+domestic,Others,gap,Titolo meno testo: differenza di ostilità (punti),0.011998685075608152,-0.013337837837837839,0.03324658018547224,6084,8563,234
+domestic,Albania,hostile,Articoli ostili verso i manifestanti,0.29880774962742174,0.1825493426767823,0.4571975805396009,1342,2503,8
+domestic,Albania,supportive,Articoli favorevoli ai manifestanti,0.34575260804769004,0.24060907546711963,0.4550305645359306,1342,2503,8
+domestic,Albania,hostile_dem,Articoli ostili verso le richieste (dove citate),0.13357400722021662,0.07613767262949289,0.22357418671405133,831,2503,8
+domestic,Albania,viol,Quota di frasi sulla violenza (media),0.41303278688524586,0.3809621208638113,0.4522019520253362,1342,2503,8
+domestic,Albania,dem,Quota di frasi sulle richieste (media),0.13491430700447093,0.08088535414165667,0.1918076752832861,1342,2503,8
+domestic,Albania,ratio,Rapporto frasi violenza / frasi richieste,3.0614454171384384,2.0556257432935383,5.0045641406076244,1342,2503,8
+domestic,Albania,q_gov,Articoli che citano polizia o governo,0.4366616989567809,0.3583502366463827,0.5259042033235581,1342,2503,8
+domestic,Albania,q_prot,Articoli che citano manifestanti o organizzatori,0.11475409836065574,0.0673776378936296,0.16743598008431712,1342,2503,8
+domestic,Albania,deleg,Articoli con almeno un termine delegittimante,0.27347242921013415,0.15865384615384615,0.42043057863517813,1342,2503,8
+domestic,Albania,head_viol,Titoli con cornice di violenza,0.47502996404314823,0.3806235014826885,0.5575502533559215,2503,2503,8
+domestic,Albania,head_host,Titoli ostili verso i manifestanti,0.23771474230922893,0.16766308237314823,0.3260567942219714,2503,2503,8
+domestic,Albania,gap,Titolo meno testo: differenza di ostilità (punti),-0.040983606557377046,-0.11364716557207051,0.014563187131438275,1342,2503,8
+domestic,Argentina,hostile,Articoli ostili verso i manifestanti,0.19140625,0.11145401131582765,0.2648436474483322,256,292,12
+domestic,Argentina,supportive,Articoli favorevoli ai manifestanti,0.421875,0.23884711779448622,0.6516391843971631,256,292,12
+domestic,Argentina,hostile_dem,Articoli ostili verso le richieste (dove citate),0.08835341365461848,0.042344846009341124,0.13671875,249,292,12
+domestic,Argentina,viol,Quota di frasi sulla violenza (media),0.1974609375,0.15122084787196255,0.24029141272073762,256,292,12
+domestic,Argentina,dem,Quota di frasi sulle richieste (media),0.33703125,0.28874500574052814,0.39019571514409446,256,292,12
+domestic,Argentina,ratio,Rapporto frasi violenza / frasi richieste,0.5858831710709318,0.38827217197395864,0.8301003680628039,256,292,12
+domestic,Argentina,q_gov,Articoli che citano polizia o governo,0.4453125,0.3019528169631122,0.5714285714285714,256,292,12
+domestic,Argentina,q_prot,Articoli che citano manifestanti o organizzatori,0.546875,0.47616514690982775,0.6279203114998934,256,292,12
+domestic,Argentina,deleg,Articoli con almeno un termine delegittimante,0.28125,0.15973912557029374,0.3926466472930793,256,292,12
+domestic,Argentina,head_viol,Titoli con cornice di violenza,0.2534246575342466,0.18446141500249955,0.3215492664964067,292,292,12
+domestic,Argentina,head_host,Titoli ostili verso i manifestanti,0.2226027397260274,0.16049267551133223,0.2807354925775978,292,292,12
+domestic,Argentina,gap,Titolo meno testo: differenza di ostilità (punti),0.05078125,0.013633292383292382,0.08434755973044719,256,292,12
+domestic,Austria,hostile,Articoli ostili verso i manifestanti,0.05952380952380952,0.0,0.11690221543162718,84,106,9
+domestic,Austria,supportive,Articoli favorevoli ai manifestanti,0.17857142857142858,0.08163265306122448,0.2619047619047619,84,106,9
+domestic,Austria,hostile_dem,Articoli ostili verso le richieste (dove citate),0.04878048780487805,0.0,0.10962709284627088,82,106,9
+domestic,Austria,viol,Quota di frasi sulla violenza (media),0.033690476190476194,0.0056335827464788725,0.06028676814988291,84,106,9
+domestic,Austria,dem,Quota di frasi sulle richieste (media),0.3497619047619048,0.31385076121794875,0.3940674948770492,84,106,9
+domestic,Austria,ratio,Rapporto frasi violenza / frasi richieste,0.09632402995234852,0.014402553191489363,0.1849494436816158,84,106,9
+domestic,Austria,q_gov,Articoli che citano polizia o governo,0.5833333333333334,0.5267739661654135,0.6481532356532357,84,106,9
+domestic,Austria,q_prot,Articoli che citano manifestanti o organizzatori,0.7976190476190477,0.6947295321637428,0.9054117797042325,84,106,9
+domestic,Austria,deleg,Articoli con almeno un termine delegittimante,0.03571428571428571,0.0,0.07031525088028169,84,106,9
+domestic,Austria,head_viol,Titoli con cornice di violenza,0.03773584905660377,0.0,0.08527368122518435,106,106,9
+domestic,Austria,head_host,Titoli ostili verso i manifestanti,0.07547169811320754,0.04285714285714286,0.10187404870624046,106,106,9
+domestic,Austria,gap,Titolo meno testo: differenza di ostilità (punti),0.0,-0.039276960784313725,0.02654867256637168,84,106,9
+domestic,Bangladesh,hostile,Articoli ostili verso i manifestanti,0.04430379746835443,0.0198562978203562,0.07299715150436174,158,181,8
+domestic,Bangladesh,supportive,Articoli favorevoli ai manifestanti,0.17088607594936708,0.09754130605822188,0.23745345125681605,158,181,8
+domestic,Bangladesh,hostile_dem,Articoli ostili verso le richieste (dove citate),0.04081632653061224,0.010749828414550447,0.07751937984496124,147,181,8
+domestic,Bangladesh,viol,Quota di frasi sulla violenza (media),0.17348101265822785,0.12016871721299596,0.22832337339055794,158,181,8
+domestic,Bangladesh,dem,Quota di frasi sulle richieste (media),0.2935443037974684,0.25574431481581217,0.34556213398402835,158,181,8
+domestic,Bangladesh,ratio,Rapporto frasi violenza / frasi richieste,0.5909874946097455,0.3487858746827577,0.8712176636323894,158,181,8
+domestic,Bangladesh,q_gov,Articoli che citano polizia o governo,0.5063291139240507,0.44440476190476186,0.5606082501313715,158,181,8
+domestic,Bangladesh,q_prot,Articoli che citano manifestanti o organizzatori,0.6518987341772152,0.5640957446808511,0.7457672927164453,158,181,8
+domestic,Bangladesh,deleg,Articoli con almeno un termine delegittimante,0.05063291139240506,0.022222222222222223,0.07272947925860547,158,181,8
+domestic,Bangladesh,head_viol,Titoli con cornice di violenza,0.15469613259668508,0.0952240067624683,0.22367034313725478,181,181,8
+domestic,Bangladesh,head_host,Titoli ostili verso i manifestanti,0.13812154696132597,0.09432919837381425,0.20312929258241758,181,181,8
+domestic,Bangladesh,gap,Titolo meno testo: differenza di ostilità (punti),0.0949367088607595,0.04663636363636364,0.1764892032762472,158,181,8
+domestic,Belgium,hostile,Articoli ostili verso i manifestanti,0.31213872832369943,0.20388349514563106,0.45454545454545453,173,242,6
+domestic,Belgium,supportive,Articoli favorevoli ai manifestanti,0.2023121387283237,0.11841751556310129,0.23478260869565218,173,242,6
+domestic,Belgium,hostile_dem,Articoli ostili verso le richieste (dove citate),0.06338028169014084,0.023609530745073052,0.1310344827586207,142,242,6
+domestic,Belgium,viol,Quota di frasi sulla violenza (media),0.417514450867052,0.3807692307692308,0.4689820359281437,173,242,6
+domestic,Belgium,dem,Quota di frasi sulle richieste (media),0.18205202312138727,0.1663097575299941,0.1986849270453361,173,242,6
+domestic,Belgium,ratio,Rapporto frasi violenza / frasi richieste,2.2933799015716785,1.9247548445926461,2.8158768318264684,173,242,6
+domestic,Belgium,q_gov,Articoli che citano polizia o governo,0.6705202312138728,0.6103421342808135,0.7614678899082569,173,242,6
+domestic,Belgium,q_prot,Articoli che citano manifestanti o organizzatori,0.37572254335260113,0.2857142857142857,0.49163728813559315,173,242,6
+domestic,Belgium,deleg,Articoli con almeno un termine delegittimante,0.4797687861271676,0.41337796920977443,0.5685202522913175,173,242,6
+domestic,Belgium,head_viol,Titoli con cornice di violenza,0.512396694214876,0.4585987261146497,0.569163763066202,242,242,6
+domestic,Belgium,head_host,Titoli ostili verso i manifestanti,0.30165289256198347,0.21506490365234218,0.37857142857142856,242,242,6
+domestic,Belgium,gap,Titolo meno testo: differenza di ostilità (punti),0.0,-0.08450704225352113,0.06895711500974647,173,242,6
+domestic,Brazil,hostile,Articoli ostili verso i manifestanti,0.02564102564102564,0.0,0.08624470659407135,78,88,13
+domestic,Brazil,supportive,Articoli favorevoli ai manifestanti,0.5128205128205128,0.2857142857142857,0.6818779904306219,78,88,13
+domestic,Brazil,hostile_dem,Articoli ostili verso le richieste (dove citate),0.0,0.0,0.0,77,88,13
+domestic,Brazil,viol,Quota di frasi sulla violenza (media),0.08743589743589744,0.0475920652173913,0.14545480549199086,78,88,13
+domestic,Brazil,dem,Quota di frasi sulle richieste (media),0.30570512820512824,0.24640467583955222,0.3506539108023308,78,88,13
+domestic,Brazil,ratio,Rapporto frasi violenza / frasi richieste,0.2860138393793248,0.13637060093534795,0.5938101142892646,78,88,13
+domestic,Brazil,q_gov,Articoli che citano polizia o governo,0.4230769230769231,0.3188365981844242,0.5715178571428571,78,88,13
+domestic,Brazil,q_prot,Articoli che citano manifestanti o organizzatori,0.6153846153846154,0.4726278409090909,0.7066767676767677,78,88,13
+domestic,Brazil,deleg,Articoli con almeno un termine delegittimante,0.02564102564102564,0.0,0.08624470659407135,78,88,13
+domestic,Brazil,head_viol,Titoli con cornice di violenza,0.10227272727272728,0.041990976718556276,0.18309859154929578,88,88,13
+domestic,Brazil,head_host,Titoli ostili verso i manifestanti,0.056818181818181816,0.011897840531561461,0.11396056475170395,88,88,13
+domestic,Brazil,gap,Titolo meno testo: differenza di ostilità (punti),0.038461538461538464,0.0,0.0963952584531675,78,88,13
+domestic,Chile,hostile,Articoli ostili verso i manifestanti,0.5084745762711864,0.3090909090909091,0.7143390191897654,59,76,7
+domestic,Chile,supportive,Articoli favorevoli ai manifestanti,0.06779661016949153,0.012987012987012988,0.14705882352941177,59,76,7
+domestic,Chile,hostile_dem,Articoli ostili verso le richieste (dove citate),0.38095238095238093,0.09754130605822188,0.6428571428571429,42,76,7
+domestic,Chile,viol,Quota di frasi sulla violenza (media),0.46915254237288134,0.4252185897435898,0.536266369047619,59,76,7
+domestic,Chile,dem,Quota di frasi sulle richieste (media),0.12254237288135593,0.1,0.141120134126664,59,76,7
+domestic,Chile,ratio,Rapporto frasi violenza / frasi richieste,3.8284923928077457,3.0597567424643053,5.28940500673711,59,76,7
+domestic,Chile,q_gov,Articoli che citano polizia o governo,0.576271186440678,0.4,0.7307835820895522,59,76,7
+domestic,Chile,q_prot,Articoli che citano manifestanti o organizzatori,0.4745762711864407,0.3939269746646796,0.5750694444444443,59,76,7
+domestic,Chile,deleg,Articoli con almeno un termine delegittimante,0.5084745762711864,0.425531914893617,0.5893262987012987,59,76,7
+domestic,Chile,head_viol,Titoli con cornice di violenza,0.7236842105263158,0.6049091544374563,0.8723500967117989,76,76,7
+domestic,Chile,head_host,Titoli ostili verso i manifestanti,0.3157894736842105,0.27939762443438915,0.36666666666666664,76,76,7
+domestic,Chile,gap,Titolo meno testo: differenza di ostilità (punti),-0.1864406779661017,-0.4057971014492754,0.0,59,76,7
+domestic,Colombia,hostile,Articoli ostili verso i manifestanti,0.10256410256410256,0.0285515873015873,0.21052631578947367,39,45,9
+domestic,Colombia,supportive,Articoli favorevoli ai manifestanti,0.20512820512820512,0.0689080459770115,0.34285714285714286,39,45,9
+domestic,Colombia,hostile_dem,Articoli ostili verso le richieste (dove citate),0.07142857142857142,0.0,0.21052631578947367,28,45,9
+domestic,Colombia,viol,Quota di frasi sulla violenza (media),0.20820512820512824,0.11240750232991611,0.26186312580231064,39,45,9
+domestic,Colombia,dem,Quota di frasi sulle richieste (media),0.1621794871794872,0.06856868131868132,0.22641776045939296,39,45,9
+domestic,Colombia,ratio,Rapporto frasi violenza / frasi richieste,1.2837944664031622,0.9163275962779373,2.1566204367254023,39,45,9
+domestic,Colombia,q_gov,Articoli che citano polizia o governo,0.5384615384615384,0.4515294771968854,0.6176470588235294,39,45,9
+domestic,Colombia,q_prot,Articoli che citano manifestanti o organizzatori,0.23076923076923078,0.07142857142857142,0.3333333333333333,39,45,9
+domestic,Colombia,deleg,Articoli con almeno un termine delegittimante,0.23076923076923078,0.10810810810810811,0.3611111111111111,39,45,9
+domestic,Colombia,head_viol,Titoli con cornice di violenza,0.24444444444444444,0.13157894736842105,0.3488662790697674,45,45,9
+domestic,Colombia,head_host,Titoli ostili verso i manifestanti,0.06666666666666667,0.0,0.20942691029900323,45,45,9
+domestic,Colombia,gap,Titolo meno testo: differenza di ostilità (punti),-0.02564102564102564,-0.16691176470588234,0.1111111111111111,39,45,9
+domestic,France,hostile,Articoli ostili verso i manifestanti,0.2470997679814385,0.17087154834685853,0.3760174410293066,1724,2491,11
+domestic,France,supportive,Articoli favorevoli ai manifestanti,0.2494199535962877,0.16825984619837803,0.3402179467421545,1724,2491,11
+domestic,France,hostile_dem,Articoli ostili verso le richieste (dove citate),0.05267857142857143,0.021958206943040105,0.12275917375455642,1120,2491,11
+domestic,France,viol,Quota di frasi sulla violenza (media),0.3941850348027843,0.3671834002059536,0.4254129784923846,1724,2491,11
+domestic,France,dem,Quota di frasi sulle richieste (media),0.1482685614849188,0.11572932231695524,0.17340526546410093,1724,2491,11
+domestic,France,ratio,Rapporto frasi violenza / frasi richieste,2.6585881110263485,2.146202622773163,3.6397177272440264,1724,2491,11
+domestic,France,q_gov,Articoli che citano polizia o governo,0.6525522041763341,0.5580174626696854,0.731898850552189,1724,2491,11
+domestic,France,q_prot,Articoli che citano manifestanti o organizzatori,0.367169373549884,0.2741387319731508,0.43240672442925215,1724,2491,11
+domestic,France,deleg,Articoli con almeno un termine delegittimante,0.3051044083526682,0.23361693903032243,0.4161751598549195,1724,2491,11
+domestic,France,head_viol,Titoli con cornice di violenza,0.39702930549979926,0.33861347901522465,0.43944336622772356,2491,2491,11
+domestic,France,head_host,Titoli ostili verso i manifestanti,0.25853071055800886,0.19711095741862342,0.3371741924916193,2491,2491,11
+domestic,France,gap,Titolo meno testo: differenza di ostilità (punti),0.0191415313225058,-0.03698405216190166,0.06097374439276707,1724,2491,11
+domestic,Germany,hostile,Articoli ostili verso i manifestanti,0.2236842105263158,0.11649078373434642,0.465126303127506,76,112,9
+domestic,Germany,supportive,Articoli favorevoli ai manifestanti,0.19736842105263158,0.06149253731343284,0.41669776119402985,76,112,9
+domestic,Germany,hostile_dem,Articoli ostili verso le richieste (dove citate),0.06944444444444445,0.008472795898020226,0.20933292533659728,72,112,9
+domestic,Germany,viol,Quota di frasi sulla violenza (media),0.2814473684210526,0.21863750000000004,0.35089432565789475,76,112,9
+domestic,Germany,dem,Quota di frasi sulle richieste (media),0.2404605263157895,0.19770067536365737,0.28160918032786886,76,112,9
+domestic,Germany,ratio,Rapporto frasi violenza / frasi richieste,1.1704514363885088,0.7766710907335908,1.7655339251868807,76,112,9
+domestic,Germany,q_gov,Articoli che citano polizia o governo,0.8947368421052632,0.7777412280701754,0.9649173806609547,76,112,9
+domestic,Germany,q_prot,Articoli che citano manifestanti o organizzatori,0.7105263157894737,0.6077786377708978,0.7894736842105263,76,112,9
+domestic,Germany,deleg,Articoli con almeno un termine delegittimante,0.3815789473684211,0.2291517857142857,0.5862068965517241,76,112,9
+domestic,Germany,head_viol,Titoli con cornice di violenza,0.2767857142857143,0.16666666666666666,0.4037474731767998,112,112,9
+domestic,Germany,head_host,Titoli ostili verso i manifestanti,0.22321428571428573,0.14997340425531913,0.36600218886804237,112,112,9
+domestic,Germany,gap,Titolo meno testo: differenza di ostilità (punti),0.05263157894736842,-0.0816751700680272,0.15192071026722925,76,112,9
+domestic,Greece,hostile,Articoli ostili verso i manifestanti,0.0782608695652174,0.03225806451612903,0.13592233009708737,115,139,11
+domestic,Greece,supportive,Articoli favorevoli ai manifestanti,0.45217391304347826,0.2651734693877551,0.5878304090235843,115,139,11
+domestic,Greece,hostile_dem,Articoli ostili verso le richieste (dove citate),0.02857142857142857,0.0,0.06422758212488902,105,139,11
+domestic,Greece,viol,Quota di frasi sulla violenza (media),0.1117391304347826,0.07999193548387097,0.14595777551996175,115,139,11
+domestic,Greece,dem,Quota di frasi sulle richieste (media),0.3403478260869565,0.29796332125321484,0.3736621728161463,115,139,11
+domestic,Greece,ratio,Rapporto frasi violenza / frasi richieste,0.328308635666837,0.219251451780159,0.47189607069239536,115,139,11
+domestic,Greece,q_gov,Articoli che citano polizia o governo,0.391304347826087,0.33570559610705597,0.4577611502347418,115,139,11
+domestic,Greece,q_prot,Articoli che citano manifestanti o organizzatori,0.3652173913043478,0.2808885996163333,0.4473911070780399,115,139,11
+domestic,Greece,deleg,Articoli con almeno un termine delegittimante,0.08695652173913043,0.03164390406395736,0.1524175824175824,115,139,11
+domestic,Greece,head_viol,Titoli con cornice di violenza,0.1366906474820144,0.08286532515586192,0.21553471575023297,139,139,11
+domestic,Greece,head_host,Titoli ostili verso i manifestanti,0.07913669064748201,0.027510538060996778,0.14189298169136877,139,139,11
+domestic,Greece,gap,Titolo meno testo: differenza di ostilità (punti),0.017391304347826087,-0.014285714285714285,0.051038001407459524,115,139,11
+domestic,India,hostile,Articoli ostili verso i manifestanti,0.11420863309352518,0.06238119769315061,0.23358964358017123,1112,1261,8
+domestic,India,supportive,Articoli favorevoli ai manifestanti,0.2670863309352518,0.1991302653123797,0.4872799295774647,1112,1261,8
+domestic,India,hostile_dem,Articoli ostili verso le richieste (dove citate),0.060019361084220714,0.03375,0.15707774931020882,1033,1261,8
+domestic,India,viol,Quota di frasi sulla violenza (media),0.25133543165467626,0.23983758503401356,0.26339509808870576,1112,1261,8
+domestic,India,dem,Quota di frasi sulle richieste (media),0.2540827338129496,0.21771026182432435,0.2676502823789023,1112,1261,8
+domestic,India,ratio,Rapporto frasi violenza / frasi richieste,0.9891873716995825,0.9291745514565093,1.1711771816181902,1112,1261,8
+domestic,India,q_gov,Articoli che citano polizia o governo,0.6384892086330936,0.5631868230471055,0.7108616251673637,1112,1261,8
+domestic,India,q_prot,Articoli che citano manifestanti o organizzatori,0.579136690647482,0.512879053649354,0.6015139885301939,1112,1261,8
+domestic,India,deleg,Articoli con almeno un termine delegittimante,0.15557553956834533,0.11252300882370128,0.25770910233252176,1112,1261,8
+domestic,India,head_viol,Titoli con cornice di violenza,0.23394131641554322,0.21468807990177186,0.2635899907908369,1261,1261,8
+domestic,India,head_host,Titoli ostili verso i manifestanti,0.14829500396510706,0.12254947099174514,0.23079268292682925,1261,1261,8
+domestic,India,gap,Titolo meno testo: differenza di ostilità (punti),0.04316546762589928,0.003714248234645417,0.07593945939357824,1112,1261,8
+domestic,Indonesia,hostile,Articoli ostili verso i manifestanti,0.07608695652173914,0.034078972498090145,0.14898635086310713,92,99,8
+domestic,Indonesia,supportive,Articoli favorevoli ai manifestanti,0.17391304347826086,0.1056711581101825,0.26317235396182764,92,99,8
+domestic,Indonesia,hostile_dem,Articoli ostili verso le richieste (dove citate),0.02666666666666667,0.0,0.07894736842105263,75,99,8
+domestic,Indonesia,viol,Quota di frasi sulla violenza (media),0.1955434782608696,0.1305280191789032,0.23624077407740773,92,99,8
+domestic,Indonesia,dem,Quota di frasi sulle richieste (media),0.26619565217391306,0.19865807748538009,0.2969294117647059,92,99,8
+domestic,Indonesia,ratio,Rapporto frasi violenza / frasi richieste,0.7345855451204574,0.476756057847056,1.1258141683331881,92,99,8
+domestic,Indonesia,q_gov,Articoli che citano polizia o governo,0.4673913043478261,0.359974358974359,0.5535782967032967,92,99,8
+domestic,Indonesia,q_prot,Articoli che citano manifestanti o organizzatori,0.45652173913043476,0.30952380952380953,0.5463985788113694,92,99,8
+domestic,Indonesia,deleg,Articoli con almeno un termine delegittimante,0.08695652173913043,0.04250976986539297,0.12987012987012986,92,99,8
+domestic,Indonesia,head_viol,Titoli con cornice di violenza,0.30303030303030304,0.1691666666666667,0.3787902315076228,99,99,8
+domestic,Indonesia,head_host,Titoli ostili verso i manifestanti,0.1111111111111111,0.08162435705989712,0.17543859649122806,99,99,8
+domestic,Indonesia,gap,Titolo meno testo: differenza di ostilità (punti),0.043478260869565216,-0.01098901098901099,0.0975809676129548,92,99,8
+domestic,Mexico,hostile,Articoli ostili verso i manifestanti,0.06818181818181818,0.0,0.12179536679536665,88,96,5
+domestic,Mexico,supportive,Articoli favorevoli ai manifestanti,0.38636363636363635,0.25862068965517243,0.47297297297297297,88,96,5
+domestic,Mexico,hostile_dem,Articoli ostili verso le richieste (dove citate),0.0,0.0,0.0,77,96,5
+domestic,Mexico,viol,Quota di frasi sulla violenza (media),0.22534090909090906,0.19098360655737703,0.25025,88,96,5
+domestic,Mexico,dem,Quota di frasi sulle richieste (media),0.2591477272727273,0.196625,0.30162162162162165,88,96,5
+domestic,Mexico,ratio,Rapporto frasi violenza / frasi richieste,0.8695461521596141,0.6255932428571837,1.2727272727272725,88,96,5
+domestic,Mexico,q_gov,Articoli che citano polizia o governo,0.5454545454545454,0.5,0.6296296296296297,88,96,5
+domestic,Mexico,q_prot,Articoli che citano manifestanti o organizzatori,0.3522727272727273,0.21428571428571427,0.5,88,96,5
+domestic,Mexico,deleg,Articoli con almeno un termine delegittimante,0.11363636363636363,0.03125,0.19607843137254902,88,96,5
+domestic,Mexico,head_viol,Titoli con cornice di violenza,0.14583333333333334,0.07142857142857142,0.2413793103448276,96,96,5
+domestic,Mexico,head_host,Titoli ostili verso i manifestanti,0.0625,0.027777777777777776,0.15625,96,96,5
+domestic,Mexico,gap,Titolo meno testo: differenza di ostilità (punti),0.0,-0.0392156862745098,0.125,88,96,5
+domestic,Nigeria,hostile,Articoli ostili verso i manifestanti,0.15476190476190477,0.09611486486486487,0.25,84,91,11
+domestic,Nigeria,supportive,Articoli favorevoli ai manifestanti,0.4166666666666667,0.31816378066378065,0.48915217391304344,84,91,11
+domestic,Nigeria,hostile_dem,Articoli ostili verso le richieste (dove citate),0.037037037037037035,0.0,0.07017543859649122,81,91,11
+domestic,Nigeria,viol,Quota di frasi sulla violenza (media),0.2976190476190476,0.26263024259868417,0.3566533405172413,84,91,11
+domestic,Nigeria,dem,Quota di frasi sulle richieste (media),0.2776190476190476,0.23416631355932205,0.3093793317184383,84,91,11
+domestic,Nigeria,ratio,Rapporto frasi violenza / frasi richieste,1.0720411663807892,0.8867695384041743,1.4735228682104127,84,91,11
+domestic,Nigeria,q_gov,Articoli che citano polizia o governo,0.5952380952380952,0.5087681488203267,0.7609387351778656,84,91,11
+domestic,Nigeria,q_prot,Articoli che citano manifestanti o organizzatori,0.44047619047619047,0.2711776129943503,0.5365917843388961,84,91,11
+domestic,Nigeria,deleg,Articoli con almeno un termine delegittimante,0.15476190476190477,0.08818458417849899,0.2637466307277628,84,91,11
+domestic,Nigeria,head_viol,Titoli con cornice di violenza,0.45054945054945056,0.35555555555555557,0.5915910718548579,91,91,11
+domestic,Nigeria,head_host,Titoli ostili verso i manifestanti,0.10989010989010989,0.059679543459174714,0.15555555555555556,91,91,11
+domestic,Nigeria,gap,Titolo meno testo: differenza di ostilità (punti),-0.05952380952380952,-0.17655882352941177,0.0,84,91,11
+domestic,Portugal,hostile,Articoli ostili verso i manifestanti,0.14634146341463414,0.027777777777777776,0.27510174418604644,41,50,5
+domestic,Portugal,supportive,Articoli favorevoli ai manifestanti,0.43902439024390244,0.3224706744868035,0.5128205128205128,41,50,5
+domestic,Portugal,hostile_dem,Articoli ostili verso le richieste (dove citate),0.125,0.027777777777777776,0.21621621621621623,40,50,5
+domestic,Portugal,viol,Quota di frasi sulla violenza (media),0.19073170731707315,0.10147058823529412,0.2778260869565217,41,50,5
+domestic,Portugal,dem,Quota di frasi sulle richieste (media),0.37317073170731707,0.3085,0.4370967741935484,41,50,5
+domestic,Portugal,ratio,Rapporto frasi violenza / frasi richieste,0.5111111111111111,0.2534900808229243,0.8863636363636365,41,50,5
+domestic,Portugal,q_gov,Articoli che citano polizia o governo,0.2682926829268293,0.13333333333333333,0.36363636363636365,41,50,5
+domestic,Portugal,q_prot,Articoli che citano manifestanti o organizzatori,0.6097560975609756,0.483616298811545,0.7021276595744681,41,50,5
+domestic,Portugal,deleg,Articoli con almeno un termine delegittimante,0.1951219512195122,0.08333333333333333,0.3684210526315789,41,50,5
+domestic,Portugal,head_viol,Titoli con cornice di violenza,0.2,0.08,0.3,50,50,5
+domestic,Portugal,head_host,Titoli ostili verso i manifestanti,0.1,0.03636363636363636,0.17391304347826086,50,50,5
+domestic,Portugal,gap,Titolo meno testo: differenza di ostilità (punti),-0.0975609756097561,-0.20512820512820512,0.029411764705882353,41,50,5
+domestic,Serbia,hostile,Articoli ostili verso i manifestanti,0.14213197969543148,0.02631291657090324,0.4737824037706205,197,244,7
+domestic,Serbia,supportive,Articoli favorevoli ai manifestanti,0.5736040609137056,0.2997916666666667,0.6666666666666666,197,244,7
+domestic,Serbia,hostile_dem,Articoli ostili verso le richieste (dove citate),0.1488095238095238,0.03267443340972753,0.4917598684210521,168,244,7
+domestic,Serbia,viol,Quota di frasi sulla violenza (media),0.17563451776649744,0.14424606274490104,0.23860581896551722,197,244,7
+domestic,Serbia,dem,Quota di frasi sulle richieste (media),0.1730710659898477,0.1403125,0.18748062015503877,197,244,7
+domestic,Serbia,ratio,Rapporto frasi violenza / frasi richieste,1.0148115559466195,0.817189068336683,1.6160963348067776,197,244,7
+domestic,Serbia,q_gov,Articoli che citano polizia o governo,0.2639593908629442,0.16961865318416525,0.3407919815971081,197,244,7
+domestic,Serbia,q_prot,Articoli che citano manifestanti o organizzatori,0.5126903553299492,0.41379310344827586,0.6083916083916084,197,244,7
+domestic,Serbia,deleg,Articoli con almeno un termine delegittimante,0.1116751269035533,0.024509803921568627,0.3645833333333333,197,244,7
+domestic,Serbia,head_viol,Titoli con cornice di violenza,0.22131147540983606,0.13377926421404682,0.31647441132435006,244,244,7
+domestic,Serbia,head_host,Titoli ostili verso i manifestanti,0.2581967213114754,0.15157701238390092,0.517094001726122,244,244,7
+domestic,Serbia,gap,Titolo meno testo: differenza di ostilità (punti),0.1116751269035533,0.0,0.16759776536312848,197,244,7
+domestic,Spain,hostile,Articoli ostili verso i manifestanti,0.17486338797814208,0.11737089201877934,0.32222222222222224,183,222,5
+domestic,Spain,supportive,Articoli favorevoli ai manifestanti,0.546448087431694,0.375,0.6869918699186992,183,222,5
+domestic,Spain,hostile_dem,Articoli ostili verso le richieste (dove citate),0.05521472392638037,0.017857142857142856,0.07627118644067797,163,222,5
+domestic,Spain,viol,Quota di frasi sulla violenza (media),0.25486338797814206,0.17930894308943093,0.37866666666666665,183,222,5
+domestic,Spain,dem,Quota di frasi sulle richieste (media),0.3040163934426229,0.21474074074074076,0.3538513513513513,183,222,5
+domestic,Spain,ratio,Rapporto frasi violenza / frasi richieste,0.8383212006830233,0.5016230666412068,1.7499137633666777,183,222,5
+domestic,Spain,q_gov,Articoli che citano polizia o governo,0.5355191256830601,0.4470588235294118,0.6310323214527709,183,222,5
+domestic,Spain,q_prot,Articoli che citano manifestanti o organizzatori,0.5683060109289617,0.4485402023634819,0.647887323943662,183,222,5
+domestic,Spain,deleg,Articoli con almeno un termine delegittimante,0.19672131147540983,0.13357400722021662,0.37777777777777777,183,222,5
+domestic,Spain,head_viol,Titoli con cornice di violenza,0.3738738738738739,0.3047945205479452,0.49732620320855614,222,222,5
+domestic,Spain,head_host,Titoli ostili verso i manifestanti,0.22072072072072071,0.16336633663366337,0.3313953488372093,222,222,5
+domestic,Spain,gap,Titolo meno testo: differenza di ostilità (punti),0.04371584699453552,-0.02040816326530612,0.07058823529411765,183,222,5
+domestic,Small,hostile,Articoli ostili verso i manifestanti,0.12927756653992395,0.0859375,0.1784584980237154,263,320,96
+domestic,Small,supportive,Articoli favorevoli ai manifestanti,0.38783269961977185,0.3092973163841808,0.46392368319200594,263,320,96
+domestic,Small,hostile_dem,Articoli ostili verso le richieste (dove citate),0.07916666666666666,0.038878205128205126,0.12222517730496453,240,320,96
+domestic,Small,viol,Quota di frasi sulla violenza (media),0.15277566539923954,0.11998863636363634,0.18678762605042018,263,320,96
+domestic,Small,dem,Quota di frasi sulle richieste (media),0.3179847908745247,0.28370993108217674,0.3514942291666667,263,320,96
+domestic,Small,ratio,Rapporto frasi violenza / frasi richieste,0.4804495994260433,0.3556957433116361,0.6264475591327286,263,320,96
+domestic,Small,q_gov,Articoli che citano polizia o governo,0.4828897338403042,0.41664156626506027,0.5551290463692039,263,320,96
+domestic,Small,q_prot,Articoli che citano manifestanti o organizzatori,0.5475285171102662,0.4787334642414221,0.6147548957070869,263,320,96
+domestic,Small,deleg,Articoli con almeno un termine delegittimante,0.1482889733840304,0.10319630521247646,0.19579509627294223,263,320,96
+domestic,Small,head_viol,Titoli con cornice di violenza,0.190625,0.13987790447504303,0.24227194945373173,320,320,96
+domestic,Small,head_host,Titoli ostili verso i manifestanti,0.11875,0.08174108880609464,0.16404025198239575,320,320,96
+domestic,Small,gap,Titolo meno testo: differenza di ostilità (punti),-0.030418250950570342,-0.08085244095572541,0.014084507042253521,263,320,96

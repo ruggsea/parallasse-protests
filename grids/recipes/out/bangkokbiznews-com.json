@@ -1,0 +1,5 @@
+{
+  "list_templates": ["https://image.bangkokbiznews.com/sitemap/xml/{YYYY}/sitemap_{YYYY}_{MM}.xml"],
+  "article_regex": "https://www\\.bangkokbiznews\\.com/[a-z0-9]+([/-][a-z0-9]+)*/[0-9]+",
+  "notes": "Monthly news sitemap (robots.txt Sitemap: /sitemap_index.xml -> one file per month on image.bangkokbiznews.com); no dates in URLs, checker filters by lastmod which equals pub date for ~85-90% of entries (178/87/178 URLs on 09-30/10-10/10-20, all >=15); article URLs are /section[/subsection]/<id>; /sitemap/latest is a rolling 3-day feed, not usable for the past window"
+}

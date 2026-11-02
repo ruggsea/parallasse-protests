@@ -1,0 +1,24 @@
+{
+ "name": "countries",
+ "cells": 108,
+ "accepted": 5,
+ "failed": 0,
+ "pending": 103,
+ "attempts": 33,
+ "rejected_attempts": 28,
+ "awaiting_review": 0,
+ "corrected_by_checker": 0,
+ "models": {
+  "local2/local2-engine": 12,
+  "local8/local8-engine": 5,
+  "local13/local13-engine": 2,
+  "local3/local3-engine": 5,
+  "local9/local9-engine": 3,
+  "local7/local7-engine": 3,
+  "local12/local12-engine": 3
+ },
+ "last_activity": "2026-10-25T02:39:56Z",
+ "failed_ids": [],
+ "stop_no_engine": "2026-10-25T02:03:45Z kimi (cell r05-local)",
+ "updated": "2026-11-02T16:39:44Z"
+}

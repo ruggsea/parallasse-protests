@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.razon.com.mx/arc/outboundfeeds/sitemap/{YYYY}-{MM}-{DD}/?outputType=xml"
+  ],
+  "article_regex": "https?://www\\.razon\\.com\\.mx/[^/]+/\\d{4}/\\d{2}/\\d{2}/[^/]+/",
+  "notes": "Uses Arc Publishing per‑day sitemap to list La Razón article URLs."
+}

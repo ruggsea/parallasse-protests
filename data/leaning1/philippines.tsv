@@ -1,0 +1,9 @@
+outlet	domain	leaning	url	quote	note
+Philippine Daily Inquirer	inquirer.net	centre_left	https://mediabiasfactcheck.com/philippine-daily-inquirer/	Philippine Daily Inquirer is rated Left-Center with Mostly Factual factual reporting by Media Bias Fact Check.	MBFC label Left-Center mapped to centre_left
+The Philippine Star	philstar.com	centre_left	https://mediabiasfactcheck.com/philippine-star/	Philippine Star is rated Left-Center with Mostly Factual factual reporting by Media Bias Fact Check.	MBFC label Left-Center mapped to centre_left
+The Manila Times	manilatimes.net	centre_right	https://mediabiasfactcheck.com/the-manila-times/	The Manila Times is rated Right-Center with Mixed factual reporting by Media Bias Fact Check.	MBFC label Right-Center mapped to centre_right
+Rappler	rappler.com	centre_left	https://mediabiasfactcheck.com/rappler/	Rappler is rated Left-Center with High factual reporting by Media Bias Fact Check.	MBFC label Left-Center mapped to centre_left
+GMA Network	gmanetwork.com	centre_left	https://mediabiasfactcheck.com/gma-network/	GMA Network is rated Left-Center with Mixed factual reporting by Media Bias Fact Check.	MBFC label Left-Center mapped to centre_left
+VERA Files	verafiles.org	centre_left	https://mediabiasfactcheck.com/vera-files/	Vera Files is rated Left-Center with High factual reporting by Media Bias Fact Check.	MBFC label Left-Center mapped to centre_left
+Bulatlat	bulatlat.com	left	https://en.wikipedia.org/wiki/Bulatlat	"political_position"":{""wt"":""[[Left-wing politics|Left-wing]]"	Wikipedia infobox political position, mapped to left
+BusinessWorld	bworldonline.com	centre	https://en.wikipedia.org/wiki/BusinessWorld	"political_position"":{""wt"":""[[Centre politics|Centre]]"	Wikipedia infobox political position, mapped to centre

@@ -1,0 +1,5 @@
+{
+ "list_templates": [],
+ "article_regex": "^https://tg1\\.rai\\.it/.+\\.html$",
+ "notes": "BLOCKED: tg1.rai.it is a client-side shell of the rainews.it platform (its robots.txt URL returns the HTML shell, /sitemap.xml likewise); it has no TG1-specific sitemap or dated archive (/archivio/<section> are JS pages), TG1 content is bulletin video at rainews.it/notiziari/tg1. Rai news text articles are already covered by out/rainews-it.json (rainews.it monthly sitemaps), which are not TG1-attributable."
+}

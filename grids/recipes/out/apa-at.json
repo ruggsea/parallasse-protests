@@ -1,0 +1,5 @@
+{
+  "list_templates": [],
+  "article_regex": "https://(?:www\\.)?apa\\.at/news/[a-z0-9-]+/",
+  "notes": "robots block: apa.at robots.txt (identical on www + bare host) Disallows /news/ and /newsfeed/ for all bots, and every daily article is under /news/<slug>/ (homepage links); verified with robotparser and polite_fetch REFUSED on both hosts; tried sitemaps (WP google-sitemap-generator: post-sitemap = 2 stale blog posts, page-sitemap = corporate pages, misc = homepage; /wp-sitemap.xml and any other .xml name return an empty urlset) and archive pages under /news/ (all REFUSED); TDM-policy tdmrep.json says tdm-reservation:1"
+}

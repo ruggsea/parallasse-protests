@@ -1,0 +1,3 @@
+{"list_templates": ["https://indianexpress.com/sitemap.xml?yyyy={YYYY}&mm={MM}&dd={DD}"],
+ "article_regex": "https://indianexpress\\.com/(?:article|photos|videos|web-stories)/[^\\s\"'<>]+",
+ "notes": "Per-day sitemap (robots.txt 'Sitemap archive' -> /sitemap.xml index, one file per day back to 2026-07; /sitemap.xml?yyyy=&mm=&dd= answers any date, 210-286 URLs/day); URLs are /article/, /photos/, /videos/, /web-stories/ on the apex host, articles readable 9k-15k chars, no paywall (videos/web-stories are thin JS pages)."}

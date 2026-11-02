@@ -1,0 +1,7 @@
+{
+ "list_templates": [
+  "https://www.lastampa.it/sitemap-{YYYY}-{MM}.xml.gz"
+ ],
+ "article_regex": "https://www\\.lastampa\\.it/[^\\\"'<>\\\\s]*?/\\d{4}/\\d{2}/\\d{2}/news/[A-Za-z0-9_.\\-]+/?",
+ "notes": "Monthly gz sitemap from sitemap.xml index (robots allows; no date archive page exists, /archivio/404s); URL path embeds pub date so filter by /YYYY/MM/DD/ in URL; 139-232 /news/ articles per day in Sep-Oct 2026 window; /video/ /foto/ /diretta/ types excluded; sample articles give 2500-7900 chars of readable text."
+}

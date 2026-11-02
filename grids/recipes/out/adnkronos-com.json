@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.adnkronos.com/{YYYY}/{MM}/{DD}/sitemap.xml"
+  ],
+  "article_regex": "https://www\\.adnkronos\\.com/[^\"'<>\\s]+_[A-Za-z0-9]{20,22}",
+  "notes": "Adnkronos publishes a complete daily sitemap at /YYYY/M/D/sitemap.xml (works zero-padded or not); each <loc> is an absolute article URL whose sibling <lastmod> is the publish date (URLs have no date, so filter on lastmod); article URLs end in _<20-22 char base62 id> (specials/pages don't and are excluded); verified 462/252/463 dated URLs for 09-30/10-10/10-20 and article text 10-18k chars; the current day's file only fills in as the day progresses (1 entry at 00:01 on 10-25), past days are complete."
+}

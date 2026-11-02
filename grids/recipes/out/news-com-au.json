@@ -1,0 +1,5 @@
+{
+  "list_templates": [],
+  "article_regex": "",
+  "notes": "robots block: robots.txt is identical on www.news.com.au and news.com.au (both 200, read via the fetcher) - it opens with an explicit no-automated-collection notice, whitelists only named SEO/ads/search bots, then 'User-agent: * / Disallow: /' (only /ads.txt and /app-ads.txt allowed), so polite_fetch refuses everything for ParallasseResearchBot: robotparser confirms can_fetch False on /, on article paths, and on both sitemaps the file declares (/sitemap.xml, /news-sitemap.xml); I also tried /sitemap_index.xml, the /sitemaps/... guesses, /best-of-sitemap.xml and daily-archive guesses /archive/2026/10/10//, /2026/10/10/ on both hosts, all refused before any request leaves. No recipe can pass here: even if a list page were reachable, the article pages live only on the same blocked host, so the 1500-char article step is refused too. Needs Ruggero: ask News Corp AU for written crawler permission or a licensed/syndicated feed."
+}

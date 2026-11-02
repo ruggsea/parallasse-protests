@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.imagenradio.com.mx/sitemap-noticias-{YYYY}{MM}.xml.gz"
+  ],
+  "article_regex": "^https?://www\\.imagenradio\\.com\\.mx/.+$",
+  "notes": "Uses monthly gzipped sitemaps; filter by <lastmod> date for the desired day."
+}

@@ -1,0 +1,5 @@
+{
+  "list_templates": [],
+  "article_regex": "https://(www\\.)?letelegramme\\.fr/.*?\\d{4}/\\d{2}/\\d{2}/[^/\"']+\\.html",
+  "notes": "blocked, no recipe possible from their own site: robots.txt (revised 2026-10-15, inside our window) has a catch-all section '6. Tous les autres robots' with 'User-agent: *' -> 'Disallow: /' and our ParallasseResearchBot UA is not in their allow list; the server additionally returns HTTP 403 to our UA on every path tested (16 requests, all 403): homepage www and bare, http://, /sitemaps/sitemap.xml and /sitemaps/sitemap-news.xml (the only two Sitemap: lines robots.txt declares), /flux-rss, date archive shapes /archives/2026-09-30/, /archives/2026-09/30/, /2026-09-30/ and the same three for 2026-10-10, /29/loire-atlantique/, /guide-conso/ (explicitly allowed in robots section 5 for listed agents, still 403 for us), /api/, /version-imprimee/; m.letelegramme.fr does not resolve. Sitemaps, archive pages and RSS were all tried and are unreachable through the robots-aware fetcher, so empty list_templates per the blocked-site rule; article_regex is an unverified shape guess (date-segment + .html) kept only for schema completeness."
+}

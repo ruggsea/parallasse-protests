@@ -1,0 +1,7 @@
+{
+ "list_templates": [
+  "https://www.ilpost.it/sitemaps/posts/sitemap-{YYYY}-{MM}.xml"
+ ],
+ "article_regex": "^https://www\\.ilpost\\.it/\\d{4}/\\d{2}/\\d{2}/[a-z0-9-]+/$",
+ "notes": "Monthly post sitemap listed in robots-declared sitemap-posts-index.xml; each URL embeds its publication date (/YYYY/MM/DD/slug/) and has <lastmod>; ~15-60 posts/day. Flash items are in sitemaps/sitemap-flashes-index.xml (not used)."
+}

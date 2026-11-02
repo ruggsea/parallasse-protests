@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.kurir.rs/sitemaps-v2/articles-{YYYY}-{MM}.xml"
+  ],
+  "article_regex": "https://(?:[a-z0-9-]+\\.)?kurir\\.rs/(?:[A-Za-z0-9-]+/){1,4}\\d{6,}/[A-Za-z0-9-]+",
+  "notes": "Monthly article sitemaps from robots.txt (sitemaps-v2/index.xml), strictly month-bounded by lastmod (== publication date); TRAP: the whole 2026-10 file uses the biznis.kurir.rs host while 2026-09 uses www.kurir.rs, so the regex must allow any subdomain; regex = any kurir.rs host + 2-4 section slugs + numeric doc id + slug."
+}

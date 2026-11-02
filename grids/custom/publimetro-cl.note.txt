@@ -1,0 +1,1 @@
+Use per‑day sitemap + Wayback fallback; avoid relying solely on the sparse Google‑news feed.

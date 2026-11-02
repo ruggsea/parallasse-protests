@@ -1,0 +1,9 @@
+{
+  "list_templates": [
+    "https://letraslibres.com/archivio/{YYYY}/{MM}/{DD}/",
+    "https://letraslibres.com/?m={YYYY}{MM}{DD}"
+  ],
+  "article_regex": "^https?://(?:www\\.)?letraslibres\\.com/.+/\\d{2}/\\d{2}/\\d{4}/?$",
+  "notes": "Daily archive pages list ≥15 article URLs; regex matches absolute article URLs ending with DD/MM/YYYY.",
+  "date_range": "2026-09-25 to 2026-10-25"
+}

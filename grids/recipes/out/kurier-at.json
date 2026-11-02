@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://kurier.at/sitemaps_article_{YYYY}-{MM}-{DD}.xml"
+  ],
+  "article_regex": "https://kurier\\.at/[^/]+(?:/[^/]+)*/\\d{8,}",
+  "notes": "Daily per-day article sitemaps at kurier.at/sitemaps_article_{YYYY-MM-DD}.xml (unlisted in the index sitemaps_article.xml, which only lists weekly files; the daily files exist for every day of the window, 570-959 URLs/day; all article URLs are https://kurier.at/<sections...>/<9-digit id>). robots.txt allows us."
+}

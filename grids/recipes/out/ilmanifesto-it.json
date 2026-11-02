@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.ilmanifesto.it/edizioni/il-manifesto/il-manifesto-del-{DD}-{MM}-{YYYY}"
+  ],
+  "article_regex": "https://www\\.ilmanifesto\\.it/(?!(abbonamenti|accesso|aiuto|archivio|buon-compleanno-manifesto|contatti|cookie|cosa-puoi-fare-con-i-diversi-abbonamenti|dichiarazione-di-accessibilita|edizioni|gerenza|il-manifesto-50|la-fine-del-mondo|la-manifestal-2026|la-membership-del-manifesto|lab|le-novita-digitali-del-2025|mdm|mema|monde-diplomatique|newsletters|podcast|privacy|publicita-sul-manifesto|pubblicita-sul-manifesto|scarica-le-app-del-manifesto|tariffe|tdm-disclaimer|termini-e-condizioni)$)[a-z0-9][a-z0-9-]{5,}$",
+  "notes": "Daily print-edition page lists that day's articles (38-57/day over 2026-09-25..10-25, all status 200, sampled articles 4300-5300 readable chars); robots.txt User-agent:* Allow:/ so polite_fetch passes; sitemap-articoli/*.xml are count-chunks with no date indexing so unusable as date templates; regex negative-lookahead excludes 29 fixed footer/nav slugs (lab, mdm, abbonamenti, edizioni, ...)."
+}

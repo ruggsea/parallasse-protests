@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.sowetanlive.co.za/arc/outboundfeeds/sitemap/{YYYY}-{MM}-{DD}/?outputType=xml"
+  ],
+  "article_regex": "https://www\\.sowetan(?:live)?\\.co\\.za/[a-z0-9-]+(?:/[a-z0-9-]+)*/\\d{4}-\\d{2}-\\d{2}-[a-z0-9-]+/",
+  "notes": "Arc site: per-day XML sitemap at /arc/outboundfeeds/sitemap/{date}/?outputType=xml (declared via sitemap-index in the site's own robots.txt); locs use canonical host www.sowetan.co.za, same paths also served on www.sowetanlive.co.za; no dated HTML archive (404); all lastmod==date, 60/21/64 URLs on 09-30/10-10/10-20."
+}

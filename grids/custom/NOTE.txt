@@ -1,0 +1,1 @@
+# Note: This scraper uses monthly archive pages and polite_fetch; other workers should not duplicate effort.

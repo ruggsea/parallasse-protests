@@ -1,0 +1,7 @@
+{
+ "list_templates": [
+  "https://www.extra.ec/sitemap-noticias-{YYYY}{MM}.xml.gz"
+ ],
+ "article_regex": "https://(?:www\\.)?extra\\.ec/noticia/(?:[A-Za-z0-9][A-Za-z0-9_-]*/)+[A-Za-z0-9][A-Za-z0-9_-]*-\\d+\\.html",
+ "notes": "Ecuador daily Extra: robots.txt (allows *; only named SEO/AI bot group is Disallow:/, we are not in it) -> sitemap-index.xml of WordPress MONTHLY post sitemaps sitemap-noticias-{YYYY}{MM}.xml.gz (gzip gunzipped by fetcher, per-URL lastmod with -05:00); 33-197 articles/day for every day 2026-09-25..10-24 (10-25 partial), 0 regex misses on 3905 URLs; no date archives (/2026/10/10/ 404), no per-day sitemap (403=their not-found), /hemeroteca/* is robots-disallowed so unusable."
+}

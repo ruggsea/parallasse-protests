@@ -1,0 +1,5 @@
+{
+ "list_templates": [],
+ "article_regex": "^https://www\\.editorialedomani\\.it/(?!autore/)[a-z0-9-]+(?:/[a-z0-9-]+)*/[a-z0-9-]+-[a-z0-9]{8}$",
+ "notes": "BLOCKED: robots allow, but sitemaps/sitemap_index.xml gives sitemap_news1.xml (last 2 days, 65 URLs), sitemap1.xml (section pages), sitemap2/3.xml (author pages with sparse 2020 dates), video sitemaps; no news2, no monthly/daily files, /archivio and /archivio/YYYY/MM/DD 404, no feedservice sitemaps; no homepage link to a dated archive and ?page=2 on a section is not date-addressable. Earlier recipe in out_bad listed sitemap1-3 which contain no 2026-09/10 articles."
+}

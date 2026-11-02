@@ -1,0 +1,5 @@
+{
+  "list_templates": [],
+  "article_regex": "",
+  "notes": "hard block: server WAF 403s ParallasseResearchBot on ALL html paths (home, sections, articles, AMP, RSS, /archives/ 403, /rss 403) on www and bare host; only /robots.txt and /arc/outboundfeeds/*.xml return 200; no daily sitemaps (Arc sitemap-news/{date} 404; main Arc sitemap is count-chunked by lastmod from=0..9900, no date indexing); robots.txt itself allows us but server rejects; m.liberation.fr is 410 Gone"
+}

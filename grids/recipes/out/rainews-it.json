@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.rainews.it/sitemap.rainews.articoli.{MM}.{YYYY}.xml"
+  ],
+  "article_regex": "^https?://www\\.rainews\\.it/articoli/\\d{4}/\\d{2}/[^/]+\\.html$",
+  "notes": "Monthly rainews.it article sitemaps (month.year) contain absolute article URLs with embedded publication dates; filter by date after fetching."
+}

@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://hotnews.ro/sitemap.xml?yyyy={YYYY}&mm={MM}&dd={DD}"
+  ],
+  "article_regex": "https://hotnews\\.ro/[^/?#\\s]+-\\d{4,}$",
+  "notes": "hotnews.ro (robots.txt open, Sitemap: /sitemap.xml index) publishes one per-day urlset at https://hotnews.ro/sitemap.xml?yyyy=YYYY&mm=MM&dd=DD on the bare host, every day back years; 106/66/97/86 article URLs on 09-30/10-10/10-20/09-25, all single-segment /<slug>-<id> (one URL has %c2%b2 percent-encoding, hence [^/?#\\s]+), so since {DD} is present the checker skips lastmod filtering; the day file follows local (EEST) publication date while lastmod is UTC, so a handful of entries carry the neighbouring UTC date; 6 sampled articles from 3 dates returned 4.7k-11.7k characters of readable text."
+}

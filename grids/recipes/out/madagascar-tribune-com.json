@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.madagascar-tribune.com/sitemap.xml?date={YYYY}-{MM}-{DD}"
+  ],
+  "article_regex": "(?:https?://)?www\\.madagascar-tribune\\.com/[^/]+\\.html",
+  "notes": "Archive via daily date parameter returns same sitemap; sitemap provides >750 article URLs; regex captures absolute/relative .html URLs; two sample articles exceed 1500 characters."
+}

@@ -1,0 +1,4 @@
+{
+  "script": "scrapers/custom/eltelegrafo-com-ec.py",
+  "notes": "Scraper uses public sitemap (single page) to collect URLs for dates 2026-10-23 to 2026-10-25 (38 URLs). Pagination blocked (403); Wayback CDX attempts timed out. Additional dates (2026-09-30, 2026-10-10, 2026-10-20) not reachable via sitemap. Fallback strategies (e.g., Wayback CDX, site archive pages) need further development. The current TSV at data/urls_custom/eltelegrafo-com-ec.tsv contains the collected URLs with dates."
+}

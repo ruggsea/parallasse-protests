@@ -1,0 +1,6 @@
+2026-10-25T01:57:32Z [r03-gdelt] No youth/student protests found in Central and Eastern Europe within window after probing GDELT, Reuters, Wikipedia; future workers may need API key or proxy settings to access GDELT.
+2026-10-25T02:00:34Z [r10-gdelt] Probed Wikipedia searches for Kazakhstan, Uzbekistan, Kyrgyzstan, Russia but found no youth/student protests in window; output NONE row.
+2026-10-25T02:01:43Z [r11-gdelt] No youth/student protests found after probing GDELT API, Reuters, Wikipedia, Times of India; wrote NONE row.
+2026-10-25T02:01:55Z [r13-gdelt] Probed multiple Myanmar youth articles but found no explicit protests involving students/young people; output NONE row. Future workers may need better search terms or local language sources.
+2026-10-25T02:01:57Z [r04-acled] Added Albania and Serbia youth protest rows; ensure start_date ISO and include at least two distinct hosts per country.
+2026-10-25T02:11:41Z [r15-gdelt] GDELT: api.gdeltproject.org https resets from our IP; http works but is rate-limited 1 req/5s per IP (shared by all gdelt cells), so we 429 each other and get long cooldowns. Space API calls >=10s apart, and prefer the raw 15-min event files http://data.gdeltproject.org/gdeltv2/YYYYMMDDHHMM00.export.CSV.zip (no rate limit, include SOURCEURL) — see work/r15-gdelt/download_events.py (resumable, filt

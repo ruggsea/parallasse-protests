@@ -1,0 +1,1 @@
+# Note: Used polite_fetch for all HTTP, deduplication by URL, dates parsed from sitemap or URL path.

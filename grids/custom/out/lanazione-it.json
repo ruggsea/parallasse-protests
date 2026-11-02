@@ -1,0 +1,1 @@
+{"script": "scrapers/custom/lanazione-it.py", "notes": "Used lanazione.it sitemap index (articles week and month) via polite_fetch; parsed XML, filtered dates 2026-09-25..2026-10-25, deduped URLs, wrote TSV with URL and ISO date. Verified sample URLs for 2026-09-30, 2026-10-10, 2026-10-20 have >1500 chars and datePublished matching listed date."}

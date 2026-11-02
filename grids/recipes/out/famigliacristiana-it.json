@@ -1,0 +1,5 @@
+{
+ "list_templates": [],
+ "article_regex": "^https://www\\.famigliacristiana\\.it/[a-z0-9-]+(?:/[a-z0-9-]+)*/[a-z0-9-]+-[a-z0-9]{8}$",
+ "notes": "BLOCKED: robots allow all, but sitemaps/fc/sitemap_index.xml holds only sitemap_news1.xml (last 2 days, 34 URLs), sitemap1/2.xml (500 section pages, 288 author pages, no dates), image/video sitemaps; no feedservice sitemaps, no news2, /archivio 404; section pages have no date paging."
+}

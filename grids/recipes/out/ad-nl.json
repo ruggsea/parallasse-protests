@@ -1,0 +1,1 @@
+{"list_templates": ["https://www.ad.nl/sitemap-{YYYY}{MM}.xml"], "article_regex": "https?://www\\.ad\\.nl/.+~[a-f0-9]{8,}", "notes": "monthly sitemap provides per-article <lastmod> for date filtering"}

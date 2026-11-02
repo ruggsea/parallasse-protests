@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.prothomalo.com/sitemap/sitemap-daily-{YYYY}-{MM}-{DD}.xml"
+  ],
+  "article_regex": "https://www\\.prothomalo\\.com/[a-z0-9-]+(?:/[a-z0-9-]+)+",
+  "notes": "Daily per-day XML sitemaps (from robots.txt sitemap index at /sitemap.xml): sitemap-daily-YYYY-MM-DD.xml, ~220-301 URLs/day with 100% lastmod on that day; works for 2026-09-25 too even though the index only lists from 09-26. Sister subdomains (nagorik/trust/bigganchinta etc.) are excluded by the www anchor; no paywall, articles give thousands of readable chars."
+}

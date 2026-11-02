@@ -1,0 +1,5 @@
+{
+  "list_templates": [],
+  "article_regex": "",
+  "notes": "globovision.com robots.txt (200, identical 216B on www and apex) disallows our UA from everything: 'User-agent: * / Disallow: /' with only Bingbot, Googlebot, msnbot, facebookexternalhit, facebookcatalog explicitly allowed, and no Sitemap: lines; polite_fetch (robots-aware) refuses every URL incl. archives and sitemaps, so no list template is usable."
+}

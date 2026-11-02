@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://diwanfm.net/sitemap-5.xml"
+  ],
+  "article_regex": "https://diwanfm\\.net/news/[^\\s<\\\"']+",
+  "notes": "Static WP sitemap chunk (sitemapindex.xml -> sitemap-1..5.xml, ~50k urls each, ascending lastmod); chunk 5 spans 2025-02-28..2026-10-25 so it covers the whole window; lastmod IS the publication date (JSON-LD datePublished matches it), ~40-112 articles/day, all URLs absolute on the bare host; regex requires /news/ to skip tag pages (/كلمة-مفتاحية/...); use the bare host, www.diwanfm.net drops our TLS connection (HTTP 0) consistently."
+}

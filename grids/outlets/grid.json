@@ -1,0 +1,17 @@
+{
+ "name": "outlets",
+ "workdir": ".",
+ "brief": "brief.md",
+ "cells": "cells.tsv",
+ "check": "python3 grids/outlets/check_outlets.py {PART} {ID}",
+ "engines": [
+  "liquid",
+  "liquid",
+  "kimi"
+ ],
+ "output": "out/{ID}.tsv",
+ "parallel": "auto",
+ "timeout_s": 2400,
+ "board": true,
+ "worker_cwd": "grids/outlets/work/{ID}"
+}

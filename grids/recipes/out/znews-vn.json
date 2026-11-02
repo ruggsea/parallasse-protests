@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://znews.vn/sitemap/sitemap-article-{YYYY}{MM}{DD}.xml"
+  ],
+  "article_regex": "https://znews\\.vn/[a-z0-9-]+-post\\d+\\.html",
+  "notes": "znews.vn daily XML sitemaps (robots.txt -> /sitemap/sitemap.xml index, one file per day back to at least 2026-06): 72/57/49/49 URLs on 09-25/09-30/10-10/10-20, lastmod==file day for the majority (55/44/49), no dates in article URLs so rely on lastmod filter; 2 sample articles 6.2k/8.4k readable chars."
+}

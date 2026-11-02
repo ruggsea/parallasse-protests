@@ -1,0 +1,9 @@
+{
+  "list_templates": [
+    "https://news.sbs.co.kr/news/sitemap.do?yyyy={YYYY}&mm={MM}&dd={DD}",
+    "https://news.sbs.co.kr/news/sitemap.do?yyyy={YYYY}&mm={MM}",
+    "https://news.sbs.co.kr/news/sitemap.do"
+  ],
+  "article_regex": "https?://news\\.sbs\\.co\\.kr/news/endPage\\.do\\?news_id=N\\d+",
+  "notes": "Use polite_fetch.py to retrieve the XML, then filter <loc> entries whose <news:publication_date> matches the target YYYY-MM-DD. The URLs matching article_regex are the article pages."
+}

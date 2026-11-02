@@ -1,0 +1,7 @@
+{
+ "list_templates": [
+  "https://www.jungewelt.de/{YYYY}/{MM}-{DD}/index.php"
+ ],
+ "article_regex": "https://(?:www\\.)?jungewelt\\.de/artikel/\\d+\\.[^\\s\"'<>?#]+\\.html",
+ "notes": "ONE per-day page https://www.jungewelt.de/{YYYY}/{MM}-{DD}/index.php (title 'junge Welt vom <datum>') = the full daily edition, 48-52 article URLs on the 3 check dates, robots open, no paywall (3.8k-13k chars readable); google-sitemap is stale (2021 urlset, no article dates) and /aktuell/?day= ignores the day param."
+}

@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.teleamazonas.com/sitemap-noticias-{YYYY}{MM}.xml.gz"
+  ],
+  "article_regex": "https://www\\.teleamazonas\\.com/(?:[a-z0-9\\-]+/)+[a-z0-9\\-]+-\\d{4,7}/",
+  "notes": "teleamazonas.com (Ecuador): robots.txt allows us (only /2015/../2020/ date dirs and a few subsections disallowed) and declares one index, /sitemap-index.xml, whose Yoast-style post sitemaps are MONTHLY: /sitemap-noticias-{YYYY}{MM}.xml.gz (one file per month back to 2020). No daily sitemap (sitemap-noticias-20261010.xml.gz is 403) and no date archive (/2026/10/10/ and /2026/10/ 404, ?m=YYYYMMDD silently returns the homepage), so the month file plus the checker's lastmod filter is the only route. Verified by CLI on both windows months: 98/30/105 article URLs for 2026-09-30/10-10/10-20, and every window day 2026-09-25..10-24 has 30-117 (weekends 30-47, weekdays 80-117); 100% of the sitemap <loc>s match the regex, 4/4 sample articles gave 2870-5314 chars of readable text. <lastmod> is the post's modified time, so ~3.5% of entries (156 of 4388) carry a later edit date and a handful of old articles resurface on an edit day; per-day counts stay far above 15. 2026-10-25 has no entries yet at fetch time (the month file is written as the day goes)."
+}

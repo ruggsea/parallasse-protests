@@ -1,0 +1,1 @@
+{"script":"scrapers/custom/editorialedomani-it.py","accepted_by":"manual exception, 25 Oct","note":"Lists 1035 URLs 2026-09-25..10-25 incl. paywalled (premium) articles, whose page text is cut to ~700 chars. Kept deliberately to avoid bias toward free articles; premium URLs in data/urls_custom/editorialedomani-it.premium.txt; rows must be marked paywall_truncated."}

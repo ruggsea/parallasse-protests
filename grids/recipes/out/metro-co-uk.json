@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://metro.co.uk/sitemap.xml?yyyy={YYYY}&mm={MM}&dd={DD}"
+  ],
+  "article_regex": "https://(www\\.)?metro\\.co\\.uk/\\d{4}/\\d{2}/\\d{2}/[A-Za-z0-9-]+/",
+  "notes": "PASS: one per-day sitemap (robots.txt Sitemap lines -> yearly index sitemap.xml?yyyy=2026 lists daily files); every loc is https://metro.co.uk/YYYY/MM/DD/slug-ID/ so the date is in the URL and lastmod filtering is a no-op; 90/68/94 on-date URLs on 09-30/10-10/10-20, articles 9.6k-46k readable chars; robots open to ParallasseResearchBot (no block line for us); host is bare metro.co.uk not www."
+}

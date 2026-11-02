@@ -1,0 +1,1 @@
+{"list_templates": [], "article_regex": "", "notes": "Edge/WAF block from our datacenter IP: empty 403 in 0.06-0.17s on EVERY path (homepage, robots.txt, sitemap.xml, a nonexistent path = 403 not 404) on www+bare, http+https; m.al-ayyam.ps has no DNS. Site fully unreachable for polite_fetch."}

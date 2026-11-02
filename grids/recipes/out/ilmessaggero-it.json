@@ -1,0 +1,5 @@
+{
+ "list_templates": [],
+ "article_regex": "^https://www\\.ilmessaggero\\.it/.+-\\d{7}\\.html$",
+ "notes": "BLOCKED: only sitemap is /?sez=XML&p=MapNews (last ~80 URLs, 2 days; &data= parameter ignored); no sitemap.xml, /archivio/ and date paths 404; archivio.ilmessaggero.it is a paid JS single-page app over an API (cedsdigital), not listable; section pages have no date paging. Tried also sitemap_index.xml, /rss/sitemap.xml (feed of latest)."
+}

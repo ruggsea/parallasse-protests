@@ -1,0 +1,11 @@
+outlet	domain	leaning	url	quote	note
+CBC News	cbc.ca	centre_left	https://mediabiasfactcheck.com/cbc-news-canadian-broadcasting/	CBC News (Canadian Broadcasting) is rated Left-Center with High factual reporting by Media Bias Fact Check	MBFC Left-Center -> centre_left (Least biased->centre)
+CTV News	ctvnews.ca	centre	https://mediabiasfactcheck.com/ctv-news/	CTV News is rated Least biased with High factual reporting by Media Bias Fact Check	MBFC Least biased -> centre (Least biased->centre)
+Global News	globalnews.ca	centre_left	https://mediabiasfactcheck.com/global-news/	Global News is rated Left-Center with High factual reporting by Media Bias Fact Check	MBFC Left-Center -> centre_left (Least biased->centre)
+La Presse	lapresse.ca	centre_left	https://mediabiasfactcheck.com/la-presse/	La Presse is rated Left-Center with High factual reporting by Media Bias Fact Check	MBFC Left-Center -> centre_left (Least biased->centre)
+Le Journal de Montréal	journaldemontreal.com	right	https://mediabiasfactcheck.com/le-journal-de-montreal/	Le Journal de Montreal is rated Right with Mostly Factual factual reporting by Media Bias Fact Check	MBFC Right -> right (Least biased->centre)
+The Canadian Press	thecanadianpress.com	centre	https://mediabiasfactcheck.com/the-canadian-press/	The Canadian Press is rated Least biased with High factual reporting by Media Bias Fact Check	MBFC Least biased -> centre (Least biased->centre)
+The Tyee	thetyee.ca	centre_left	https://mediabiasfactcheck.com/the-tyee/	The Tyee is rated Left-Center with High factual reporting by Media Bias Fact Check	MBFC Left-Center -> centre_left (Least biased->centre)
+The Walrus	thewalrus.ca	left	https://mediabiasfactcheck.com/the-walrus/	The Walrus is rated Left with High factual reporting by Media Bias Fact Check	MBFC Left -> left (Least biased->centre)
+APTN	aptnnews.ca	centre_left	https://mediabiasfactcheck.com/aptn-news/	APTN News is rated Left-Center with High factual reporting by Media Bias Fact Check	MBFC Left-Center -> centre_left (Least biased->centre)
+Winnipeg Free Press	winnipegfreepress.com	centre	https://mediabiasfactcheck.com/winnipeg-free-press/	Winnipeg Free Press is rated Least biased with High factual reporting by Media Bias Fact Check	MBFC Least biased -> centre (Least biased->centre)

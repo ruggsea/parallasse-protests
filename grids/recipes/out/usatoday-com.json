@@ -1,0 +1,5 @@
+{
+ "list_templates": [],
+ "article_regex": "",
+ "notes": "dead edge-block cell, do not re-dispatch with current fetcher: every content path 402s in 0.06-0.2s on www+bare, http+https (homepage, a real /story/.../2026-10-17/ article URL, /nation, and ALL four robots.txt-declared sitemaps news-sitemap.xml / web-sitemap-index.xml / money/blueprint/sitemap.xml / online-betting/news-sitemap.xml) while only robots.txt 200s; same 402s logged at 02:20Z, 04:01Z and 14:34Z so persistent >12h; the edge bot-manager rejects ParallasseResearchBot before routing (402 not 404 even for nonexistent paths), same signature as the 403 cells (publico.pt/romanialibera-ro/jn.pt) so no template can pass the check."
+}

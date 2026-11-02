@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.bulatlat.com/post-sitemap.xml"
+  ],
+  "article_regex": "^https?://(?:www\\.)?bulatlat\\.com/\\d{4}/\\d{2}/\\d{2}/[^/]+/?$",
+  "notes": "The post-sitemap.xml contains <url> entries with <loc> URLs in the form https://www.bulatlat.com/YYYY/MM/DD/slug/. Use the <lastmod> field or the date embedded in the URL path to filter for the target date. Tested on 2026-09-30, 2026-10-10, 2026-10-20: each yields >15 distinct article URLs, with at least two articles containing ≥1500 characters of readable text."
+}

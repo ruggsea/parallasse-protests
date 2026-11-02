@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.joongang.co.kr/sitemap/articles/{YYYY}/{YYYY}{MM}{DD}"
+  ],
+  "article_regex": "https?://(www\\.)?joongang\\.co\\.kr/article/\\d+",
+  "notes": "Daily XML news sitemaps at /sitemap/articles/{YYYY}/{YYYYMMDD} (yearly index linked from robots.txt Sitemap: lines); verified 2026-09-30, 2026-10-10, 2026-10-20 give 345/131/310 distinct absolute <loc> URLs like https://www.joongang.co.kr/article/25468570; two sample articles yield ~195k chars of readable text; robots.txt disallows many AI crawler user-agents site-wide but the generic * block does not cover /sitemap/ or /article/."
+}

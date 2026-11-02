@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.agi.it/sitemap/Articolo/{YYYY}/{MM}/sitemap.xml"
+  ],
+  "article_regex": "https://www\\.agi\\.it/[a-z0-9-]+(?:/[a-z0-9-]+)?/news/\\d{4}-\\d{2}-\\d{2}/[a-z0-9-]+/",
+  "notes": "Monthly sitemap from the sitemap index (robots.txt: Sitemap https://www.agi.it/sitemap.xml); article URLs embed the date as /news/YYYY-MM-DD/ so the checker keeps the right day; verified 49/35/44 URLs for 09-30/10-10/10-20 and 2 articles with 8670/5302 readable chars. Note: regex must allow a second path segment (maeci/it, maeci/fr news items); sitemap_news.xml only holds ~1 recent day, useless for a past window."
+}

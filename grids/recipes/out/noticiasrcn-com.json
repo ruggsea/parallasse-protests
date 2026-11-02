@@ -1,0 +1,8 @@
+{
+  "list_templates": [
+    "https://www.noticiasrcn.com/sitemaps/articles_September_2026.xml.gz",
+    "https://www.noticiasrcn.com/sitemaps/articles_October_2026.xml.gz"
+  ],
+  "article_regex": "https://www\\.noticiasrcn\\.com/[a-z0-9-]+/(?:[a-z0-9-]+/)?[a-z0-9][a-z0-9-]*-\\d{5,9}",
+  "notes": "robots.txt (www and apex identical) allows us and points to /sitemapindex, whose only article files are MONTHLY gz sitemaps named by month NAME (/sitemaps/articles_<Month>_<YYYY>.xml.gz, e.g. /sitemaps/articles_October_2026.xml.gz, back to 2013); since {MM} cannot spell a month name, the two literal month files covering the 2026-09-25..2026-10-25 window are listed and the checker's lastmod filter splits by day (per-URL <lastmod> = publication time, Colombian UTC-05; 85/48/99 URLs on 2026-09-30/10-10/10-20, 104 on 09-25). No per-day sitemap exists (articles_2026-10-10.xml.gz, articles_10_10_2026.xml.gz, articles_2026-10.xml.gz, daily_articles.xml.gz all 404) and no date archive pages (/2026/10/10, /archivo/2026/10/10, /archivo?fecha= all 404); /sitemap.xml and /sitemap_index.xml 404, sitemapnews is a rolling last-2-days Google-News file. All locs are www.noticiasrcn.com/<section>/<slug>-<id> (plus /opinion/<author>/<slug>-<id>), no paywall, 4.8k-6k chars readable text."
+}

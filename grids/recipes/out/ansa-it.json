@@ -1,0 +1,5 @@
+{
+ "list_templates": [],
+ "article_regex": "^https://www\\.ansa\\.it/sito/notizie/[a-z_]+/\\d{4}/\\d{2}/\\d{2}/[^\\s<>]+\\.html$",
+ "notes": "BLOCKED: robots allow; sito/sitemaps/sito_sitemap_index.xml lists 63 per-section *_sitemap_new.xml files but each holds only the last ~2 days (ultimaora 2026-10-23..25, cronaca 10-23..25); no monthly/daily sitemap, no date archive (/archivio, /sito/notizie/<sez>/YYYY/MM/DD/, sitemap.xml all 404); section pages are only the current page."
+}

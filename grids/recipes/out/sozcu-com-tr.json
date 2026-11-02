@@ -1,0 +1,7 @@
+{
+ "list_templates": [
+  "https://www.sozcu.com.tr/feeds/sitemapposts?year={YYYY}&month={MM}"
+ ],
+ "article_regex": "https://www\\.sozcu\\.com\\.tr/[A-Za-z0-9\\-\\._~%]+-p[0-9]+(?=[<>\\s\"]|$)",
+ "notes": "Monthly posts sitemap declared in robots.txt (feeds/sitemapindex); &day= param is ignored, files are month-complete with entries sorted by lastmod desc and lastmod==pub date for the articles of that day (min 186/day across the whole 09-25..10-25 window, 321/186/354 on the check dates); zero-padded month=09 serves identical to month=9; every <loc> ends -p<id> (0 non-article URLs in either file); 2 sample articles gave 3954/6522 readable chars."
+}

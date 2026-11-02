@@ -1,0 +1,16 @@
+id	country	outlet	domain	state	reason	urls_found
+ilmessaggero-it	Italy	Il Messaggero	ilmessaggero.it	rejected	js_site	0
+ilmattino-it	Italy	Il Mattino	ilmattino.it	rejected	js_site	0
+ilsecoloxix-it	Italy	Il Secolo XIX	ilsecoloxix.it	rejected	waf_403_429	0
+ilgazzettino-it	Italy	Il Gazzettino	ilgazzettino.it	rejected	js_site	0
+unionesarda-it	Italy	L'Unione Sarda	unionesarda.it	rejected	no_archive	0
+tg1-rai-it	Italy	TG1	tg1.rai.it	rejected	js_site	0
+rete4-mediaset-it	Italy	Rete 4	rete4.mediaset.it	rejected	waf_403_429	0
+fanpage-it	Italy	Fanpage.it	fanpage.it	rejected	waf_403_429	0
+espresso-repubblica-it	Italy	L'Espresso	espresso.repubblica.it	rejected	other	0
+internazionale-it	Italy	Internazionale	internazionale.it	rejected	no_archive	0
+famigliacristiana-it	Italy	Famiglia Cristiana	famigliacristiana.it	rejected	no_archive	0
+radio24-ilsole24ore-com	Italy	Radio 24	radio24.ilsole24ore.com	rejected	no_archive	0
+raiplaysound-it	Italy	Radio Rai	raiplaysound.it	rejected	robots_disallow	0
+linkiesta-it	Italy	Linkiesta	linkiesta.it	rejected	waf_403_429	0
+ildubbio-news	Italy	Il Dubbio	ildubbio.news	recipe_failed	worker_no_output	0

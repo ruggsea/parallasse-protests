@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.excelsior.com.mx/sitemap-noticias-{YYYY}{MM}.xml.gz"
+  ],
+  "article_regex": "https?://www\\.excelsior\\.com\\.mx/[a-z]+/[^/]+(?:-[^/]+)*",
+  "notes": "Monthly sitemap provides all articles for a given month; regex matches article URLs across sections."
+}

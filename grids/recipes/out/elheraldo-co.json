@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.elheraldo.co/arc/outboundfeeds/sitemap/{YYYY}-{MM}-{DD}/?outputType=xml"
+  ],
+  "article_regex": "https://www\\.elheraldo\\.co/(?:[a-z0-9-]+/){1,2}\\d{4}/\\d{2}/\\d{2}/[^\"'\\s<>]+",
+  "notes": "elheraldo.co (Arc Publishing): ONE per-day sitemap gives the whole day - /arc/outboundfeeds/sitemap/{YYYY}-{MM}-{DD}/?outputType=xml, 200 on every day tested (146/142/99/148/101 URLs on 09-25,09-30,10-10,10-20,10-24; 34 by 11:00Z on 10-25), robots.txt allows our UA there and lists only 'latest'+yesterday in its sitemap-index (so the index is no guide: the dated files exist unlisted). All <loc> are /section/ or /section/subsection/+YYYY/MM/DD/slug; regex matched 100% of 1,454 locs over 11 days and 8-10k chars of text per article, no paywall. 92-100% of a day file carries that day's path date; the rest are recirculated old items (a few 2024/2025 URLs on 10-20), filter on the /YYYY/MM/DD/ segment if exact publication date matters. RIGHTS CAUTION: the robots.txt comment header reserves TDM/AI rights in plain text ('data mine or scrape ... prohibited without prior written permission') and Disallow: CCbot/ClaudeBot/GPTBot/PerplexityBot/DeepSeekBot by name, contact juridico@elheraldo.co - mechanically we sit in the permissive '*' group (robotparser: sitemap and article paths allowed), but this is an AI-processed dataset, so get written permission before scaling past spot checks."
+}

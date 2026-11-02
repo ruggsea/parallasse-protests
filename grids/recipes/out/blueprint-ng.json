@@ -1,0 +1,9 @@
+{
+  "list_templates": [
+    "https://www.blueprint.ng/{YYYY}/{MM}/{DD}/",
+    "https://www.blueprint.ng/{YYYY}/{MM}/{DD}/page/2/",
+    "https://www.blueprint.ng/{YYYY}/{MM}/{DD}/page/3/"
+  ],
+  "article_regex": "^https://(www\\.)?blueprint\\.ng/(?!feed/)[a-z0-9][a-z0-9-]+/$",
+  "notes": "WordPress daily archive /YYYY/MM/DD/ (www host) + theme pagination /page/2/ /page/3/ (slashless 'page/2/' form works, 'page/2' is 404); all 3 templates 200 on 2026-09-30/10-10/10-20 with 94/51/36-51 distinct article URLs per page (page/4/ 404s on 10-10 so not included); article URLs are single-segment https://blueprint.ng/<slug>/ on the BARE host (regex covers both hosts); robots.txt allows our bot (only blocks named AI bots and /feed/ /search/ /wp-admin/); no paywall (5.4k chars test article); site's Yoast sitemaps are chunked by post-id (post-sitemap1..N.xml) and useless for a date window."
+}

@@ -1,0 +1,3 @@
+{"list_templates": ["https://www.mega.cl/sitemaps/content/sitemap-{YYYY}-{MM}.xml"],
+ "article_regex": "^https://(?:www\\.)?mega\\.cl/[\\w\\-/]*\\d{5,7}-[\\w\\-]+\\.html$",
+ "notes": "robots.txt allows us and lists /sitemaps/sitemap-index-content.xml -> monthly urlset sitemaps /sitemaps/content/sitemap-{YYYY}-{MM}.xml; every <loc> is an article ending -<6-digit id>.html with <lastmod> = publication time (Chile -03:00), 17-51 URLs/day for every day 2026-09-25..2026-10-24 (no daily sitemaps: /sitemaps/content/sitemap-YYYY-MM-DD.xml is 404; sitemap-news.xml and sitemap-all-content.xml are rolling latest-only); articles are server-rendered, 4.1-4.3k chars readable, no paywall."}

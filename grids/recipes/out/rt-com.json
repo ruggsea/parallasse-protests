@@ -1,0 +1,5 @@
+{
+  "list_templates": ["https://rt-english.com/sitemap_{YYYY}.xml"],
+  "article_regex": "https://rt-english\\.com/(news|world|asia|india|russia|africa|business|shows|podcast|hq|category|gallery)/[0-9]+-[a-z0-9-]+/",
+  "notes": "Yearly sitemap template; filter URLs by <lastmod> date to get daily articles."
+}

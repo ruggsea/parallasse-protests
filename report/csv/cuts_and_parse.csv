@@ -1,0 +1,7 @@
+model,kind,rows,parsed,unparseable,error_rows,cut,longest_prompt_tokens,window
+A,head,19230,18353.0,3.0,874.0,0.0,180.0,65536.0
+A,body,18396,17445.0,40.0,911.0,0.0,32125.0,65536.0
+A,invalid_values,0,,,,,,
+B,head,600,600.0,0.0,0.0,0.0,154.0,65536.0
+B,body,600,600.0,0.0,0.0,0.0,6341.0,65536.0
+B,invalid_values,0,,,,,,

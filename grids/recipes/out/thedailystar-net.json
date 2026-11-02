@@ -1,0 +1,7 @@
+{
+ "list_templates": [
+  "https://www.thedailystar.net/sitemaps/{YYYY}/sitemap-{YYYY}-1.xml"
+ ],
+ "article_regex": "https://www\\.thedailystar\\.net/(?:[a-z0-9-]+/)+[^/]*?-\\d{5,}$",
+ "notes": "robots.txt allows us; sitemap.xml index -> yearly chunk files (only /sitemaps/{YYYY}/sitemap-{YYYY}-N.xml), 2026 chunk 1 = 45,927 URLs each with lastmod=publication day, 109-201 URLs/day across 2026-09-25..10-25 (min 37) and 100% match the regex; no per-day sitemaps exist (/sitemaps/2026/sitemap-2026-10-10.xml 404) and no date archive pages (/archive, /2026/10/10 404); BEWARE /news?date=YYYY-MM-DD and /todays-news?date=YYYY-MM-DD return HTTP 200 but IGNORE the date (same ~104 current articles for any date, ~1% overlap with the real day), so never use them"
+}

@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.huffingtonpost.it/sitemap-{YYYY}-{MM}.xml.gz"
+  ],
+  "article_regex": "https://www\\.huffingtonpost\\.it/(?:[a-z0-9-]+/)+\\d{4}/\\d{2}/\\d{2}/[a-z][a-z-]*/[a-z0-9_-]+-\\d+/",
+  "notes": "Monthly gzip sitemaps sitemap-{YYYY}-{MM}.xml.gz (declared in robots.txt; fetcher gunzips); every <loc> is a dated article URL /{section}/{YYYY}/{MM}/{DD}/(news|video)/{slug}-{id}/ so the date filter on URL works; tested 2026-09-30/10-10/10-20 -> 33/31/43 urls, articles readable ~3300 chars; no /archivio/ date pages (404) and sitemap-n.xml is a google-news file covering only the last day."
+}

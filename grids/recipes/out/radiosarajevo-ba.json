@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://radiosarajevo.ba/sitemap/articles/{YYYY}-{MM}-{DD}.xml"
+  ],
+  "article_regex": "https?://(?:www\\.)?radiosarajevo\\.ba/(?:[a-z0-9-]+/)+[a-z0-9-]+/\\d{5,}",
+  "notes": "robots.txt allows all and names only /sitemap/articles/YYYY.xml (yearly, NO lastmod, so unusable for a date); but per-day sitemaps exist unlisted at /sitemap/articles/{YYYY}-{MM}-{DD}.xml -> 29-61 article locs per day for every day tested 09-25..10-25, each URL section/sub/slug/<numeric id> and datePublished confirmed on the article; /sitemap/articles/YYYY-MM.xml exists but is empty; news.xml holds only the last ~2 days."
+}

@@ -1,0 +1,5 @@
+{
+  "list_templates": [],
+  "article_regex": "",
+  "notes": "Dead cell: Cloudflare path-selective edge block. Only /robots.txt and /rss.xml return 200; EVERY other path (homepage, both robots-declared sitemaps sitemap.xml and googlenews.xml, /sitemap.xml.gz, all article pages /content/<slug>/<id> and /blogs/<author>/<slug>, /frontpage, /news/, /node/ and /?q= forms, /archive/ and date guesses, /amp/) 403s in 0.05-0.12s including a nonexistent path (403 not 404 = edge rule), on www+bare over https, http:// also 403, no m. subdomain; persistent (earlier worker hit identical 403s 04:06Z, ~9h before). RSS is rolling (20 items, 2026-10-08..10-23 only) so it cannot serve the 2026-09-25..10-25 window per-day, and article pages 403 anyway so the check's 1500-char article fetch cannot pass."
+}

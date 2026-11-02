@@ -1,0 +1,8 @@
+{
+  "list_templates": [
+    "https://bntnews.bg/sitemap/sitemap_news_2026_9.xml",
+    "https://bntnews.bg/sitemap/sitemap_news_2026_10.xml"
+  ],
+  "article_regex": "^https://(?:www\\.)?bntnews\\.bg/news/[^/?#\\s]*-\\d+news\\.html$",
+  "notes": "robots.txt allows all and declares bntnews.bg/sitemap.xml (a monthly index only, names like sitemap_news_2026_9.xml with UNPADDED month, so no {MM} placeholder is possible: sitemap_news_2026_09.xml is 404); no daily sitemap under any name tried, no dated HTML archive (/?date= ignored, /2026/10/10 and /arhiv 404), so the two monthly files covering the 2026-09-25..10-25 window are hardcoded and the per-URL <lastmod> (= publication day) does the day split: 154/117/152 URLs on 2026-09-30/10-10/10-20, all matching /news/<slug>-<id>news.html"
+}

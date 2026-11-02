@@ -1,0 +1,1 @@
+{"list_templates": [], "article_regex": "", "notes": "blocked: ilsecoloxix.it WAF answers HTTP 429 to ParallasseResearchBot on /robots.txt on both ilsecoloxix.it and www.ilsecoloxix.it (5 attempts 03:22-03:56Z, all 429); robots 429 = backoff, so the robots-aware fetcher refuses every page and no sitemap or archive template could be fetched or tested, per the 429-backoff rule."}

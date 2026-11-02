@@ -1,0 +1,4 @@
+outlet	domain	leaning	url	quote	note
+franceinfo	francetvinfo.fr	centre_left	https://mediabiasfactcheck.com/france-info/	France Info is rated Left-Center with High factual reporting by Media Bias Fact Check	MBFC Left-Center -> centre_left (Least biased->centre) (MBFC page source is franceinfo.fr, successor domain)
+RTL	rtl.fr	centre	https://mediabiasfactcheck.com/rtl-bias-and-credibility/	RTL is rated Least biased with Mostly Factual factual reporting by Media Bias Fact Check	MBFC Least biased -> centre (Least biased->centre)
+Ouest-France	ouest-france.fr	centre_right	https://fr.wikipedia.org/wiki/Ouest-France	"orientation politique"":{""wt"":""[[Centre-droit]]"	French Wikipedia infobox orientation politique: Centre-droit, Democratie christienne

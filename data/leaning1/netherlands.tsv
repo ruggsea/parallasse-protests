@@ -1,0 +1,6 @@
+outlet	domain	leaning	url	quote	note
+Trouw	trouw.nl	centre_left	https://mediabiasfactcheck.com/trouw/	Trouw is rated Left-Center with High factual reporting by Media Bias Fact Check.	MBFC label Left-Center mapped to centre_left
+RTL Nieuws	rtl.nl	centre_right	https://mediabiasfactcheck.com/rtl-nieuws/	RTL Nieuws is rated Right-Center with High factual reporting by Media Bias Fact Check.	MBFC label Right-Center mapped to centre_right
+Het Financieele Dagblad	fd.nl	centre_right	https://en.wikipedia.org/wiki/Het_Financieele_Dagblad	"political_position"":{""wt"":""[[Centre-Right]]"	Wikipedia infobox political position, mapped to centre_right
+GeenStijl	geenstijl.nl	right	https://mediabiasfactcheck.com/geenstijl-bias-and-credibility/	Geenstijl is rated Right with Mostly Factual factual reporting by Media Bias Fact Check.	MBFC label Right mapped to right; page mentions the right country
+Follow the Money	ftm.nl	centre_left	https://mediabiasfactcheck.com/follow-the-money-bias-and-credibility/	Follow the Money is rated Left-Center with High factual reporting by Media Bias Fact Check.	MBFC label Left-Center mapped to centre_left; page mentions the right country

@@ -1,0 +1,7 @@
+{
+ "list_templates": [
+  "https://www.standartnews.com/sitemaps/articles-{YYYY}-{MM}.xml"
+ ],
+ "article_regex": "https://www\\.standartnews\\.com/[a-z0-9_-]+/[a-z0-9_-]+-\\d+\\.html",
+ "notes": "robots.txt (200, allows all but /search) -> /sitemaps/index.xml -> ONE monthly sitemap articles-{YYYY}-{MM}.xml with per-URL full-timestamp lastmod (no per-day sitemap: /sitemaps/articles-YYYY-MM-DD.xml and /sitemaps/daily/... both 403; no date archive: /archive/, /arhiv/, /YYYY/MM/DD/, /news/YYYY/MM/DD/ all 404). 72-127 URLs/day for every day 2026-09-25..10-24, 5552/5552 URLs match the regex, articles 5.3-8.5k chars; CAVEAT lastmod is the MODIFIED time (== article:modified_time): published day equal in 38/40 sampled articles, 2 shifted +1 day (edited after midnight), so use article:published_time to refine the day if exactness matters."
+}

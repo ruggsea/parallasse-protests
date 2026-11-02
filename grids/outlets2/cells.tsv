@@ -1,0 +1,9 @@
+id	country	focus
+italy-newspapers	Italy	national and regional daily newspapers (Wikipedia 'List of newspapers in Italy' or 'Media of Italy')
+italy-tv	Italy	television news channels and TV news websites (Wikipedia 'List of television stations in Italy', 'Media of Italy')
+italy-online	Italy	online-only news sites and wires/agencies (Reuters Institute Digital News Report brand table for Italy, Wikipedia 'Media of Italy')
+italy-magazines	Italy	news magazines, weeklies and radio news (Wikipedia 'Media of Italy', 'List of magazines in Italy')
+france-newspapers	France	national and regional daily newspapers (Wikipedia 'List of newspapers in France' or 'Media of France')
+france-tv	France	television news channels and TV news websites (Wikipedia 'List of television stations in France', 'Media of France')
+france-online	France	online-only news sites and wires/agencies (Reuters Institute Digital News Report brand table for France, Wikipedia 'Media of France')
+france-magazines	France	news magazines, weeklies and radio news (Wikipedia 'Media of France', 'List of magazines in France')

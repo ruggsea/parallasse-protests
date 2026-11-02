@@ -1,0 +1,5 @@
+{
+ "list_templates": [],
+ "article_regex": "https?://(?:www\\.)?raiplaysound\\.it/audio/\\d{4}/\\d{2}/[^\\\"'<>\\s]+-del-\\d{8}-[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}\\.html",
+ "notes": "robots.txt is reachable and its User-agent: * group disallows /*.xml$ and /*.json$, so every sitemap is refused and so is the only dated episode list, the program page's pathPage=/programmi/<slug>.json; sitemap.programmi.gr1.xml has 613 <loc> and 0 <lastmod>, so it could not be filtered by day even if XML were allowed. No per-day HTML archive exists: /archivio/*, /audio/YYYY/MM/DD and /programmi/gr1/<date> return 404, /programmi/gr1/ultime-edizioni/archivio-edizioni lists the latest 511 editions for all dates at once and ?data=2026-10-10 returns byte-identical HTML (sha256 9367e8042379e8a7), /radio1/palinsesto/giorno/DD-MM-YYYY is 200 but renders 0 audio links (schedule loaded client-side). The outlet is audio-only, not articles: episode pages yield 988-2439 chars of player text, short of the 1500-char text gate. Its preamble also forbids automated scraping and text/data mining."
+}

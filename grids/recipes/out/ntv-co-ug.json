@@ -1,0 +1,7 @@
+{
+ "list_templates": [
+  "https://ntv.co.ug/wp-sitemap-posts-post-6.xml"
+ ],
+ "article_regex": "https://ntv\\.co\\.ug/(news|business|sports|current-affairs|lifestyle|blog|ntv-at-20|documentary|entertainment)/[A-Za-z0-9_-]+(?:/[A-Za-z0-9_-]+){0,2}",
+ "notes": "WordPress core sitemap: /wp-sitemap.xml index lists 6 post chunks; chunk 6 is the newest and spans lastmod 2026-09-17..2026-10-25 (980 urls, whole window) so one static chunk serves all 3 dates (30/30/26 urls on 09-30/10-10/10-20). No date archives (/2026-10-10/ = 404), robots open to our UA (only AI bots blocked). URLs carry no date; lastmod is publication time except when later edited (one sample 13h later), so the checker's lastmod==date filter is exact enough. All locs absolute on bare host ntv.co.ug (no www); articles verified readable 4510/4098 chars."
+}

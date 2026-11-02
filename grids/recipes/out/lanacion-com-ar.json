@@ -1,0 +1,3 @@
+{"list_templates": ["https://www.lanacion.com.ar/sitemap-articles-from{YYYY}-{MM}-{DD}T00:00:00Z-to{YYYY}-{MM}-{DD}T23:59:59Z.xml"],
+ "article_regex": "https://www\\.lanacion\\.com\\.ar/(?:[^/\\s\"'<>]+/)+[^/\\s\"'<>]*-nid\\d{4,}(?:-\\d+)?/?(?:[?#]\\S*)?$",
+ "notes": "Arc platform: robots.txt -> sitemap-index-historico.xml lists per-day article sitemaps; the from/to form below returns exactly one UTC day (verified identical to the site's own from-D-to-D+1 file), 350-714 -nid URLs/day, lastmod all on the day, full server-rendered text (6k-70k chars) despite the meter paywall; no HTML date archive exists and robots disallows the /notas-*.xml and /ln-www-news-*.xml sitemap names"}

@@ -1,0 +1,5 @@
+{
+  "list_templates": ["https://www.ng.ru/archive/{YYYY}/{MM}/{DD}/"],
+  "article_regex": "^https?://www\\.ng\\.ru/[a-z_]+/\\d{4}-\\d{2}-\\d{2}/\\d+_[^/]+\\.html$",
+  "notes": "Daily archive page lists all sections; regex matches article URLs."
+}

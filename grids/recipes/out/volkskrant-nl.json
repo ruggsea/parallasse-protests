@@ -1,0 +1,1 @@
+{"list_templates": ["https://www.volkskrant.nl/sitemaps/{YYYY}{MM}.xml"], "article_regex": "https?://www\\.volkskrant\\.nl/[^\\s]+?~[a-f0-9]+/", "notes": "Use monthly sitemap; filter by <lastmod> for date"}

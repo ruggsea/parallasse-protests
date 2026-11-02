@@ -1,0 +1,24 @@
+# generated or scraped, never committed (article text is copyrighted; re-create with scrapers/)
+.venv/
+__pycache__/
+*.pyc
+.claude/
+data/articles/
+data/discarded/
+data/fetchcache/
+data/gdelt/
+data/urls/
+data/urls_custom/
+logs/
+design/examples/
+workshop-deck/
+workshop-deck.zip
+data/framing_v1_qwen.jsonl*
+grids/*/work/
+grids/*/logs/
+grids/*/rejected/
+grids/*/out_bad/
+grids/*/tmp/
+grids/*/tmp_*
+grids/*/out/*.part
+report/charts.zip

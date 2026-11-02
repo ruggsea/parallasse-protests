@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.avgi.gr/search?keywords={YYYY}-{MM}-{DD}"
+  ],
+  "article_regex": "https?://www\\.avgi\\.gr/[^\\s\"'>]+",
+  "notes": "The search page returns article teasers for the requested date. Each teaser contains a relative link like \"/section/...\" that resolves to an absolute URL on www.avgi.gr. The regex matches any absolute article URL on the site."
+}

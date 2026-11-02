@@ -1,0 +1,5 @@
+{
+  "list_templates": ["https://www.hankookilbo.com/sitemap/daily-articles/{YYYY}{MM}{DD}"],
+  "article_regex": "https?://www\\.hankookilbo\\.com/news/article/A\\d+",
+  "notes": "Uses per‑day sitemap; article URLs follow /news/article/A… pattern"
+}

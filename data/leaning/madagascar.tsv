@@ -1,0 +1,10 @@
+outlet	domain	leaning	url1	quote1	url2	quote2	note
+L'Express de Madagascar	lexpress.mg	unclassified					Main French-language daily; the fetched pages give no political placement of any kind.
+Midi Madagasikara	midi-madagasikara.mg	unclassified	https://fr.wikipedia.org/wiki/Midi_Madagasikara	et l'imprimerie SNIC. Elle précise que le média n'affiche pas d'obédience politique déclarée et qu'il est généralement perçu comme politiquement neutre			fr.wikipedia: no declared political affiliation, generally seen as politically neutral; Slate (2009) said families close to Ravalomanana owned it. Alignment to people, not a left-right placement. The homepage answers a 307 redirect to the fetcher.
+La Gazette de la Grande Île	lagazette-dgi.com	unclassified					Daily listed in the en.wikipedia list of Madagascar newspapers; no political placement in the fetched sources.
+Madagascar Tribune	madagascar-tribune.com	unclassified					Self-described independent online paper (en.wikipedia); no left-right placement.
+Newsmada	newsmada.com	unclassified					Daily; evidence page is its own homepage; no political placement in the fetched sources.
+2424.mg	2424.mg	unclassified					News site of United Malagasy Media (own homepage); no political placement in the fetched sources.
+La Vérité	laverite.mg	unclassified	https://www.slate.fr/story/2417/madagascar-des-medias-pris-au-piege	. Rolly Mercia, directeur de publication du quotidien La Vérité et chroniqueur politique à la radio Viva, a adopté un ton des plus virulents envers Ravalomanana.			Slate (2009): its publisher took a virulent tone against Ravalomanana, i.e. media split pro/anti-Ravalomanana, not left-right. The homepage answers HTTP 500 to the fetcher (server error).
+Radio Don Bosco	radiodonbosco.org	unclassified					Catholic radio station (en.wikipedia Media of Madagascar); no left-right placement.
+Radio Antsiva	antsiva.mg	unclassified	https://en.wikipedia.org/wiki/Media_of_Madagascar	Radio Antsiva, private.			Private radio station; no left-right placement.

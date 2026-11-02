@@ -1,0 +1,1 @@
+{"list_templates": ["https://nayapatrikadaily.com/sitemap-news.xml"], "article_regex": "^https?://nayapatrikadaily\\.com/news/\\d+/[A-Za-z0-9\\-]+/?$", "notes": "per-day URLs via sitemap filtered by <lastmod>"}

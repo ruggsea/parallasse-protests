@@ -1,0 +1,1 @@
+{"list_templates": ["https://www.munhwa.com/sitemap/articles/{YYYY}/{YYYY}{MM}{DD}"], "article_regex": "https://www\\.munhwa\\.com/article/\\d+", "notes": "Per-day sitemaps (robots.txt declares /sitemap/articles/{YYYY} year index of /sitemap/articles/{YYYY}/{YYYYMMDD} daily urlsets, lastmod = pub date); articles are plain /article/<id>"}

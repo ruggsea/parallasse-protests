@@ -1,0 +1,5 @@
+{
+  "list_templates": ["https://ctinews.com/rss/sitemap-articles-{YYYY}-{MM}.xml"],
+  "article_regex": "https://ctinews\\.com/news/items/[A-Za-z0-9]+",
+  "notes": "Monthly sitemap from robots.txt (Sitemap: /rss/sitemap.xml index); lastmod is strictly month-bounded and equals pub date, all URLs are https://ctinews.com/news/items/<id>; verified 253/206/273 URLs on 09-30/10-10/10-20, window edges 205 (09-25) and 184 (10-25); 4/4 checker sample articles 4.6k-5.2k chars."
+}

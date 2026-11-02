@@ -1,0 +1,8 @@
+{
+ "list_templates": [
+  "https://telma.com.mk/post-sitemap81.xml",
+  "https://telma.com.mk/post-sitemap82.xml"
+ ],
+ "article_regex": "https://telma\\.com\\.mk/\\d{4}/\\d{2}/\\d{2}/[^\\s<>\\\"']+",
+ "notes": "Yoast sitemaps: the two STATIC chunks post-sitemap81.xml + post-sitemap82.xml (from /sitemap_index.xml) cover the whole 2026-09-25..10-25 window (17-62 URLs/day; Yoast splits by post id so dates interleave across chunks); pub date is embedded in every article URL /YYYY/MM/DD/slug/ (bare host, Latin or percent-encoded Cyrillic slugs); WordPress date archive /2026-10-10/ 404s; 10-06 and 10-07 genuinely have zero dated articles in chunks 79-82. Verified via polite_fetch: 54/28/54 distinct URLs on 09-30/10-10/10-20, 3 sample articles 5.3k-6.7k readable chars."
+}

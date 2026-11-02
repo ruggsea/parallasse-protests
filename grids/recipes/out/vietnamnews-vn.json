@@ -1,0 +1,5 @@
+{
+  "list_templates": ["https://vietnamnews.vn/sitemaps/news-{YYYY}-{MM}.xml"],
+  "article_regex": "https://(?:www\\.)?vietnamnews\\.vn/[A-Za-z-]+(?:/[A-Za-z-]+)?/\\d+/.+\\.html",
+  "notes": "monthly news sitemaps from robots.txt -> /sitemap.xml index (news-2026-9.xml listed unpadded, zero-padded news-2026-09.xml serves the same file); lastmod is strictly month-bounded and equals pub date, 81/56/91 URLs on 09-30/10-10/10-20; bare host only"
+}

@@ -1,0 +1,5 @@
+{
+  "list_templates": [],
+  "article_regex": "https?://(?:www\\.)?expressfm\\.net/(?!lander(?:[?#]|$)|sitemap\\.xml(?:[?#]|$)|robots\\.txt(?:[?#]|$))[^\\s\\\"'<>]+",
+  "notes": "expressfm.net is a PARKED domain (GoDaddy lander), not a news site: robots.txt is served by the parking service (Allow /, Sitemap: /sitemap.xml) and that sitemap is one urlset holding only https://expressfm.net/lander - every path (/, /lander, /sitemap_index.xml, /news-sitemap.xml, /2026/10/10/, /rss.xml, /feed, /ar/, /news/, a nonexistent path) returns the same parking redirect page, so there are zero articles and no template can block or pass; expressfm.tn and news.expressfm.net (78.129.232.99) do not connect (HTTP 0)."
+}

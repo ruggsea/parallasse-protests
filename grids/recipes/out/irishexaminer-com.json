@@ -1,0 +1,8 @@
+{
+  "list_templates": [
+    "https://www.irishexaminer.com/sitemap-index/sitemap/44-2026-3-0002.xml",
+    "https://www.irishexaminer.com/sitemap-index/sitemap/44-2026-4-0001.xml"
+  ],
+  "article_regex": "https://www\\.irishexaminer\\.com/[a-z0-9-]+(?:/[a-z0-9-]+)*/arid-\\d+\\.html",
+  "notes": "robots.txt is 200 and disallows nothing for our bot; sitemap index 44-google_sitemap.xml (declared in robots) serves chunked sitemaps whose article <lastmod> gives the publish day, and 44-2026-3-0002.xml (articles 2026-09-08..10-20) plus 44-2026-4-0001.xml (2026-09-28..10-25) together cover all three test dates with 121 / 68 / 161 URLs on 09-30 / 10-10 / 10-20 and four sample articles fetched at 7800-11500 chars of text."
+}

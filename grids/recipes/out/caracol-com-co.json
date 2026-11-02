@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://caracol.com.co/arc/outboundfeeds/news-sitemap/{YYYY}-{MM}-{DD}/?outputType=xml"
+  ],
+  "article_regex": "^https?://caracol\\.com\\.co/\\d{4}/\\d{2}/\\d{2}/[^/]+/$",
+  "notes": "Use daily news sitemap; URLs follow /YYYY/MM/DD/slug/ pattern."
+}

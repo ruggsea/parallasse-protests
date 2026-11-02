@@ -1,0 +1,8 @@
+{
+  "list_templates": [
+    "https://alquds.com/sitemaps/posts-19.xml",
+    "https://alquds.com/sitemaps/posts-20.xml"
+  ],
+  "article_regex": "https://alquds\\.com/[a-z]{2,3}/posts/\\d+(?:-[A-Za-z0-9-]+)?",
+  "notes": "robots.txt open (Allow /); no dated HTML archive (404) and news.xml is a rolling 2.5-day window, so use the two static sitemap chunks posts-19.xml (lastmod 2026-07-06..10-02) + posts-20.xml (2026-10-02..now) and filter by <lastmod>, which equals the article dateModified (==datePublished except when edited); 91/141/328 URLs on 09-30/10-10/10-20, all articles 200 with 6-9k chars text"
+}

@@ -1,0 +1,1 @@
+Note: Use news‑type sitemaps first; fallback to Wayback CDX for missing dates. Deduplicate URLs, ensure dates from <news:publication_date> or <lastmod>. Respect robots.txt via polite_fetch.fetch and back‑off on 429 responses.

@@ -1,0 +1,5 @@
+{
+  "list_templates": [],
+  "article_regex": "",
+  "notes": "robots.txt (200 on www and bare host) is a whitelist of named bots; catch-all 'User-agent: *' Disallows / (only /ads.txt, /app-ads.txt allowed), so polite_fetch REFUSES every page including the declared sitemaps (sitemap.xml, news-sitemap.xml) and the site's anti-scraping notice applies; verified with the fetcher on both hosts; /archive/ is disallowed even for Googlebot"
+}

@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.thecable.ng/{YYYY}/{MM}/{DD}/"
+  ],
+  "article_regex": "^https://www\\.thecable\\.ng/[a-z0-9-]+/$",
+  "notes": "Daily archive pages list ≥15 article URLs; sample articles exceed 1500 chars."
+}

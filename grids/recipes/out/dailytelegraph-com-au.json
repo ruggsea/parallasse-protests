@@ -1,0 +1,5 @@
+{
+  "list_templates": [],
+  "article_regex": "",
+  "notes": "Blocked: robots.txt (reachable, 200 on both www.dailytelegraph.com.au and dailytelegraph.com.au, same content) whitelists named agents then 'User-agent: *' with 'Disallow: /' — ParallasseResearchBot is not whitelisted, so polite_fetch refused every page I tried, including the two sitemaps robots.txt itself declares (https://www.dailytelegraph.com.au/sitemap.xml and /news-sitemap.xml) and the /archive/ route; no recipe can pass check.py."
+}

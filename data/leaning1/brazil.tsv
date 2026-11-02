@@ -1,0 +1,6 @@
+outlet	domain	leaning	url	quote	note
+Folha de S.Paulo	folha.uol.com.br	centre_left	https://mediabiasfactcheck.com/folha-de-s-paulo/	Overall, we rate Folha de S.Paulo Left-Center biased	MBFC label mapped: Left-Center->centre_left
+Record	r7.com	centre_right	https://mediabiasfactcheck.com/noticias-r7-bias-and-credibility/	Overall, we rate Notícias R7 as Right-Center biased based on editorial positions that moderately favor the right.	MBFC label mapped: Right-Center->centre_right; MBFC page is for Notícias R7 (r7.com), the news site of Record
+Jovem Pan	jovempan.com.br	right	https://en.wikipedia.org/wiki/Jovem_Pan	Jovem Pan News has been described as practicing partisan reporting in favor of the Republican Party, the Jair Bolsonaro administration, and conservative causes	en Wikipedia: conservative, pro-Bolsonaro partisan reporting; no explicit left-right label, mapped to right; weak
+Brasil de Fato	brasildefato.com.br	left	https://en.wikipedia.org/wiki/Brasil_de_Fato	left-wing</a> journalists, writers, commentators, and other national	en Wikipedia: gathers left-wing journalists; quote includes raw HTML of the cached page; weak
+Estado de Minas	em.com.br	centre	https://en.wikipedia.org/wiki/Estado_de_Minas	political_position":{"wt":"[[Centrism]], [[Non-partisan]]	en Wikipedia infobox political position: Centrism, Non-partisan

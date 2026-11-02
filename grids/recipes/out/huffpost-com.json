@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.huffpost.com/static-assets/isolated/huffpostsitemapgeneratorjob-prod-public/us/sitemaps/archive/sitemap-{YYYY}-{MM}-{DD}-v1.xml"
+  ],
+  "article_regex": "https?://(?:www\\.)?huffpost\\.com/entry/[^\\s]+",
+  "notes": "Per‑day archive sitemap template; regex matches any HuffPost article URL (entry pages). Tested on 2026‑09‑30 and 2026‑10‑10 – each yielded >15 URLs and two sampled articles exceeded 1500 readable characters."
+}

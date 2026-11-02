@@ -1,0 +1,109 @@
+id	region	kind
+r00-wire	Western Europe	wire
+r00-wikipedia	Western Europe	wikipedia
+r00-gdelt	Western Europe	gdelt
+r00-acled	Western Europe	acled
+r00-local	Western Europe	local
+r00-ngo	Western Europe	ngo
+r01-wire	Southern Europe incl Italy Spain Greece Portugal	wire
+r01-wikipedia	Southern Europe incl Italy Spain Greece Portugal	wikipedia
+r01-gdelt	Southern Europe incl Italy Spain Greece Portugal	gdelt
+r01-acled	Southern Europe incl Italy Spain Greece Portugal	acled
+r01-local	Southern Europe incl Italy Spain Greece Portugal	local
+r01-ngo	Southern Europe incl Italy Spain Greece Portugal	ngo
+r02-wire	Northern Europe and Nordics and Baltics	wire
+r02-wikipedia	Northern Europe and Nordics and Baltics	wikipedia
+r02-gdelt	Northern Europe and Nordics and Baltics	gdelt
+r02-acled	Northern Europe and Nordics and Baltics	acled
+r02-local	Northern Europe and Nordics and Baltics	local
+r02-ngo	Northern Europe and Nordics and Baltics	ngo
+r03-wire	Central and Eastern Europe	wire
+r03-wikipedia	Central and Eastern Europe	wikipedia
+r03-gdelt	Central and Eastern Europe	gdelt
+r03-acled	Central and Eastern Europe	acled
+r03-local	Central and Eastern Europe	local
+r03-ngo	Central and Eastern Europe	ngo
+r04-wire	Balkans and Caucasus	wire
+r04-wikipedia	Balkans and Caucasus	wikipedia
+r04-gdelt	Balkans and Caucasus	gdelt
+r04-acled	Balkans and Caucasus	acled
+r04-local	Balkans and Caucasus	local
+r04-ngo	Balkans and Caucasus	ngo
+r05-wire	Turkey Middle East and Gulf	wire
+r05-wikipedia	Turkey Middle East and Gulf	wikipedia
+r05-gdelt	Turkey Middle East and Gulf	gdelt
+r05-acled	Turkey Middle East and Gulf	acled
+r05-local	Turkey Middle East and Gulf	local
+r05-ngo	Turkey Middle East and Gulf	ngo
+r06-wire	North Africa	wire
+r06-wikipedia	North Africa	wikipedia
+r06-gdelt	North Africa	gdelt
+r06-acled	North Africa	acled
+r06-local	North Africa	local
+r06-ngo	North Africa	ngo
+r07-wire	West Africa	wire
+r07-wikipedia	West Africa	wikipedia
+r07-gdelt	West Africa	gdelt
+r07-acled	West Africa	acled
+r07-local	West Africa	local
+r07-ngo	West Africa	ngo
+r08-wire	East and Horn of Africa	wire
+r08-wikipedia	East and Horn of Africa	wikipedia
+r08-gdelt	East and Horn of Africa	gdelt
+r08-acled	East and Horn of Africa	acled
+r08-local	East and Horn of Africa	local
+r08-ngo	East and Horn of Africa	ngo
+r09-wire	Southern and Central Africa	wire
+r09-wikipedia	Southern and Central Africa	wikipedia
+r09-gdelt	Southern and Central Africa	gdelt
+r09-acled	Southern and Central Africa	acled
+r09-local	Southern and Central Africa	local
+r09-ngo	Southern and Central Africa	ngo
+r10-wire	Central Asia and Russia	wire
+r10-wikipedia	Central Asia and Russia	wikipedia
+r10-gdelt	Central Asia and Russia	gdelt
+r10-acled	Central Asia and Russia	acled
+r10-local	Central Asia and Russia	local
+r10-ngo	Central Asia and Russia	ngo
+r11-wire	South Asia	wire
+r11-wikipedia	South Asia	wikipedia
+r11-gdelt	South Asia	gdelt
+r11-acled	South Asia	acled
+r11-local	South Asia	local
+r11-ngo	South Asia	ngo
+r12-wire	East Asia	wire
+r12-wikipedia	East Asia	wikipedia
+r12-gdelt	East Asia	gdelt
+r12-acled	East Asia	acled
+r12-local	East Asia	local
+r12-ngo	East Asia	ngo
+r13-wire	South-East Asia	wire
+r13-wikipedia	South-East Asia	wikipedia
+r13-gdelt	South-East Asia	gdelt
+r13-acled	South-East Asia	acled
+r13-local	South-East Asia	local
+r13-ngo	South-East Asia	ngo
+r14-wire	Oceania and Pacific	wire
+r14-wikipedia	Oceania and Pacific	wikipedia
+r14-gdelt	Oceania and Pacific	gdelt
+r14-acled	Oceania and Pacific	acled
+r14-local	Oceania and Pacific	local
+r14-ngo	Oceania and Pacific	ngo
+r15-wire	North America	wire
+r15-wikipedia	North America	wikipedia
+r15-gdelt	North America	gdelt
+r15-acled	North America	acled
+r15-local	North America	local
+r15-ngo	North America	ngo
+r16-wire	Mexico Central America and Caribbean	wire
+r16-wikipedia	Mexico Central America and Caribbean	wikipedia
+r16-gdelt	Mexico Central America and Caribbean	gdelt
+r16-acled	Mexico Central America and Caribbean	acled
+r16-local	Mexico Central America and Caribbean	local
+r16-ngo	Mexico Central America and Caribbean	ngo
+r17-wire	South America	wire
+r17-wikipedia	South America	wikipedia
+r17-gdelt	South America	gdelt
+r17-acled	South America	acled
+r17-local	South America	local
+r17-ngo	South America	ngo

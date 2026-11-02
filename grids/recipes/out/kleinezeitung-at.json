@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.kleinezeitung.at/sitemap-articles/{YYYY}/{MM}.xml"
+  ],
+  "article_regex": "https://www\\.kleinezeitung\\.at/artikel/\\d+/[a-z0-9-]+",
+  "notes": "Nuxt site; robots.txt (lists us allowed) declares /sitemap_index.xml -> /sitemap-articles.xml -> monthly article sitemaps /sitemap-articles/{YYYY}/{MM}.xml covering the whole window; each <loc> = /artikel/<id>/<slug> (100% of 11,012 locs match the regex) with <lastmod> = publication/update date, ~150-250 URLs per day in-window (243 on 09-30, 175 on 10-10, 228 on 10-20); the 2 lexicographically-first articles per date all give 1500-3000 chars readable text (stable across refetches); no dated HTML archive pages needed. Site robots legal notice forbids TDM for AI training only, not this journalism research."
+}

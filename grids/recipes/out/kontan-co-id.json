@@ -1,0 +1,5 @@
+{
+  "list_templates": [],
+  "article_regex": "https://(?:[a-z0-9-]+\\.)?kontan\\.co\\.id/news/[a-z0-9-]+(?:[/?#]|$)",
+  "notes": "RIGHTS BLOCK, empty on purpose (do not re-dispatch as a capacity failure): https://kontan.co.id/robots.txt serves 200 and does not name our bot (no User-agent: * group either), but its own header prohibits scraping by any automated means without written permission from PT Grahanusa Mediatama, naming text/data mining, AI/LLM development, and archived or cached datasets, and giving https://www.kontan.co.id/about-us as the contact; /sitemap.xml is technically open (an index of per-section subdomains nasional/keuangan/investasi/industri/internasional/peluangusaha/personalfinance/english/lifestyle .kontan.co.id, each with /news/sitemap.xml rolling daily, lastmod 2026-10-25T18:50+07:00), so a route exists but I did not build or test one because the site's stated terms forbid exactly this use."
+}

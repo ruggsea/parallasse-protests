@@ -1,0 +1,5 @@
+{
+  "list_templates": [],
+  "article_regex": "(?!)",
+  "notes": "Robots-blocked: belganewsagency.eu robots.txt (200, identical sha c95a81f5a9cadb16 on www and bare) allows only named search engines and social-preview bots and ends with 'User-agent: * / Disallow: /', so polite_fetch refuses every path including the declared Sitemap https://www.belganewsagency.eu/sitemap.xml and any archive page - robots itself states AI crawling, dataset building and bulk extraction are NOT authorised and names Belga's authenticated MCP service (mcp.belga.press, request via belgapress@belga.be, subject 'mcp access request', licence https://www.belganewsagency.eu/.well-known/rsl.xml) as the only machine-access route, so no listing template could be tested; needs an access decision by Ruggero."
+}

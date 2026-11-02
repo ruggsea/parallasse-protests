@@ -1,0 +1,5 @@
+{
+  "list_templates": ["https://veja.abril.com.br/sitemap.xml?yyyy={YYYY}&mm={MM}&dd={DD}"],
+  "article_regex": "https://veja\\.abril\\.com\\.br/[a-z0-9-]+/[a-z0-9-]+(?:/[a-z0-9-]+)?/",
+  "notes": "apex veja.abril.com.br serves per-day sitemaps sitemap.xml?yyyy=YYYY&mm=MM&dd=DD (declared in robots.txt as the Sitemap archive index); every loc is a dated article URL (section/slug/ or coluna/col/slug/), 64-188 URLs/day, articles server-rendered with 9-16k readable chars, no paywall; www host gives HTTP 0 (connection fails) - use the apex"
+}

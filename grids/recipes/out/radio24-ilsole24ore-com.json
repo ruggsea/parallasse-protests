@@ -1,0 +1,5 @@
+{
+ "list_templates": [],
+ "article_regex": "^https://(?:www\\.)?radio24\\.ilsole24ore\\.com/.+$",
+ "notes": "BLOCKED: radio24.ilsole24ore.com is a thin audio/programme site: sitemap.xml linked in the footer returns 404, robots.txt has no Sitemap line, /archivio/... and /sitemap-news.xml return the homepage shell; homepage links only conduttori, palinsesto and info pages (no dated article list); footer carries a text-and-data-mining disclaimer (st.ilsole24ore.com/st/tdm-disclaimer). Radio 24 talk content is not published as articles."
+}

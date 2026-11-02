@@ -1,0 +1,9 @@
+{
+  "list_templates": [
+    "https://www.jagran.com/all-news-sitemap.xml",
+    "https://www.jagran.com/news-sitemap.xml",
+    "https://www.jagran.com/sitemap.xml"
+  ],
+  "article_regex": "^https://www\\.jagran\\.com/.+\\.html$",
+  "notes": "Use the <news:publication_date> field in the news sitemaps to filter articles by date; each sitemap contains URLs for many days, so filter for the target date."
+}

@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://sitemaps.lefigaro.fr/lefigaro.fr/articles/{YYYY}-{MM}-{DD}.xml"
+  ],
+  "article_regex": "https://www\\.lefigaro\\.fr/[a-z0-9\\-]+(?:/[a-z0-9\\-]+)*-\\d{8}",
+  "notes": "Daily per-article XML sitemaps at sitemaps.lefigaro.fr/lefigaro.fr/articles/YYYY-MM-DD.xml (declared in robots.txt, index lists every day since 2019, incl. whole 2026-09-25..10-25 window); 217-308 dated article URLs per day, pages render 11k+ chars of text. robots allows ParallasseResearchBot (User-agent: *)."
+}

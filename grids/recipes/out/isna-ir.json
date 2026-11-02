@@ -1,0 +1,5 @@
+{
+  "list_templates": [],
+  "article_regex": "",
+  "notes": "BLOCKED: every path (home, robots.txt, all sitemap names, dated archives /2026-10-10/ /archive/..., /api/, article pages) answers HTTP 200 with a JS cookie challenge page (__arcsjs hash + reload, 'Transferring to the website...') on www+bare, http+https, persistently over 20+ fetches; only /rss/ passes with real XML but it is a rolling 30-item feed, useless for a month-old window; polite_fetch cannot execute JS or hold cookies so no template can satisfy the 15-URL and 1500-char checks; for future reference ISNA article URLs /news/<13-digit-id>/<slug> encode the Shamsi (Iranian calendar) publication date as the first 8 id digits (14050803 = 2026-10-25)."
+}

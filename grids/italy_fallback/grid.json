@@ -1,0 +1,17 @@
+{
+ "name": "italy_fallback",
+ "workdir": ".",
+ "brief": "brief.md",
+ "cells": "cells.tsv",
+ "check": "python3 grids/italy_fallback/check.py {PART} {START} {ID}",
+ "engines": [
+  "liquid",
+  "liquid",
+  "liquid"
+ ],
+ "output": "out/{ID}.json",
+ "parallel": "auto",
+ "timeout_s": 1200,
+ "board": true,
+ "worker_cwd": "grids/italy_fallback/work/{ID}"
+}

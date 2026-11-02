@@ -1,0 +1,7 @@
+{
+ "list_templates": [
+  "https://www.pagina12.com.ar/arc/outboundfeeds/sitemap/{YYYY}-{MM}-{DD}/?outputType=xml"
+ ],
+ "article_regex": "https://www\\.pagina12\\.com\\.ar/\\d{4}/\\d{2}/\\d{2}/[A-Za-z0-9][A-Za-z0-9\\-]*/",
+ "notes": "Arc Publishing: one daily sitemap per date (robots.txt lists only breakingnews feeds; found via /arc/outboundfeeds/sitemap-index/), 107-229 <loc>/day over the whole window, every lastmod = that day; canonical URLs are /YYYY/MM/DD/slug/ (the same file also lists /print/YYYY/MM/DD/slug/ twins, excluded by the regex), ~75-140 of the returned URLs carry the day's own date in the path and the rest are older items updated that day, so filter on the path date downstream; no pagination (page=2 / /2/ ignored or 404)."
+}

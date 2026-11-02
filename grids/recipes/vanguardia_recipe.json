@@ -1,0 +1,8 @@
+{
+  "list_templates": [
+    "https://www.vanguardia.com/arc/outboundfeeds/sitemap/{YYYY}-{MM}-{DD}/?outputType=xml",
+    "https://www.vanguardia.com/arc/outboundfeeds/sitemap-index/"
+  ],
+  "article_regex": "https://www\\.vanguardia\\.com/.+?/\\d{4}/\\d{2}/\\d{2}/[^/]+(?:/|$)",
+  "notes": "Uses per‑day Arc Publishing sitemaps; fallback to sitemap index. Regex matches absolute article URLs containing a date segment."
+}

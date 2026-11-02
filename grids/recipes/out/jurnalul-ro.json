@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://jurnalul.ro/sitemap-articles-{YYYY}-{MM}.xml"
+  ],
+  "article_regex": "https://jurnalul\\.ro/[a-z0-9\\-]+(?:/[a-z0-9\\-]+)?/[a-z0-9\\-]+-\\d+\\.html",
+  "notes": "Monthly article sitemap from robots.txt sitemap index (sitemap.xml); per-URL lastmod IS the publication date (ranges verified exactly within the month); article URLs are bare-jurnalul.ro /<section>[/<sub>]/<slug>-<id>.html, no date in the URL so the lastmod filter does the day split; 99/64/77 urls on 09-30/10-10/10-20, articles 14-15k chars readable."
+}

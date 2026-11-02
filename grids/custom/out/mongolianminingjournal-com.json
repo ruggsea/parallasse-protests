@@ -1,0 +1,1 @@
+{"script": "scrapers/custom/mongolianminingjournal-com.py", "notes": "Fetched 34 URLs via Wayback CDX and extracted publication dates from og:article:published_time meta tags.", "status": "completed", "url_count": 34}

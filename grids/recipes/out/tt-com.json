@@ -1,0 +1,1 @@
+{"list_templates": ["https://www.tt.com/sitemaps/{YYYY}-{MM}-{DD}.xml"], "article_regex": "https://www\\.tt\\.com/artikel/\\d+/[a-z0-9-]+", "notes": "robots.txt allows us; daily sitemaps /sitemaps/{YYYY-MM-DD}.xml exist for EVERY date (sitemap index lists only Mondays) with 440-550 URLs/day; filter lastmod==day for the ~60-87 articles actually published that day"}

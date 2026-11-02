@@ -1,0 +1,7 @@
+{
+  "list_templates": [
+    "https://www.metropoles.com/sitemap-news/{YYYY}/news-{YYYY}-{MM}.xml"
+  ],
+  "article_regex": "https://www\\.metropoles\\.com/[a-z0-9-]+/[a-z0-9-]+(?:/[a-z0-9-]+)?$",
+  "notes": "robots.txt allows us (only /api/, /search, /busca, /wp-*, /_next/ disallowed) and names only /sitemap/google-news.xml (rolling), but /sitemap.xml is a real index of MONTHLY news urlset sitemaps at /sitemap-news/{YYYY}/news-{YYYY}-{MM}.xml: one <loc> per article with <lastmod>, 11.5k locs for 2026-09 and 9.2k for 2026-10, 435/196/429 article URLs on 2026-09-30/10-10/10-20 after the lastmod==day filter (469 on 09-25), all locs www.metropoles.com with 2 or 3 path segments (mostly /section/slug, plus /colunas/columnist/slug); no per-day sitemap (/sitemap-news/{YYYY}/{MM}/news-{YYYY}-{MM}-{DD}.xml and /sitemap/daily/... 404, any /sitemap/*.xml returns an empty urlset) and no date archive (/2026/10/10/ and /arquivo 404); articles are server-rendered Next.js with full text, no paywall; lastmod equals the publication timestamp except for the few __trashed (deleted) entries, which the regex drops."
+}

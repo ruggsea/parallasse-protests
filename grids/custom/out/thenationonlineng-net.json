@@ -1,0 +1,1 @@
+{"script": "scrapers/custom/thenationonlineng-net.py", "notes": "Fetched sitemap index via https, parsed post-sitemap files descending. Handled occasional 503 errors on some sitemap numbers but collected 2998 URLs in the 2026-09-25 to 2026-10-25 window. Per‑day counts printed; key dates have >200 URLs. Script writes TSV to data/urls_custom/thenationonlineng-net.tsv."}

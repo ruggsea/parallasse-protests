@@ -1,0 +1,10 @@
+{
+ "list_templates": [
+  "https://www.lagazzettadelmezzogiorno.it/sitemaps/1/305_ultima-ora_32.xml",
+  "https://www.lagazzettadelmezzogiorno.it/sitemaps/1/305_ultima-ora_33.xml",
+  "https://www.lagazzettadelmezzogiorno.it/sitemaps/1/200_puglia_10.xml",
+  "https://www.lagazzettadelmezzogiorno.it/sitemaps/1/145_bari_7.xml"
+ ],
+ "article_regex": "^https://www\\.lagazzettadelmezzogiorno\\.it/news/[a-z0-9-]+/\\d+/[a-z0-9-]+\\.html$",
+ "notes": "Robots-declared /siteMap.jsp indexes per-section sitemaps chunked by sequence of 5000 ids (not by date); these four are the newest chunks (ultima-ora 32+33 cover 2026-08-29..10-25, ~150-200 URLs/day, with <lastmod> = day; puglia_10 and bari_7 add local news, chunk numbers fixed). Other sections (italia_*, mondo_*, economia_*, sport_*, home_*) exist as further chunks if wider coverage is needed. Keep URLs whose lastmod is the day."
+}

@@ -1,0 +1,1 @@
+{"script": "scrapers/custom/tribune-net-ph.py", "notes": "Used /latest?page=N pagination (polite_fetch, status 200 for pages 1‑139, page 140 returned no articles). Extracted URLs via regex capturing /YYYY/MM/DD/ path, filtered to 2026‑09‑25..2026‑10‑25. Wrote 2459 unique URLs to data/urls_custom/tribune‑net‑ph.tsv. Works for required dates with >15 URLs each day."}

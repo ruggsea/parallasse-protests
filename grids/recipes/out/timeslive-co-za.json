@@ -1,0 +1,7 @@
+{
+ "list_templates": [
+  "https://www.timeslive.co.za/arc/outboundfeeds/sitemap/{YYYY}-{MM}-{DD}/?outputType=xml"
+ ],
+ "article_regex": "https://www\\.timeslive\\.co\\.za/[a-z0-9-]+(?:/[a-z0-9-]+)?/\\d{4}-\\d{2}-\\d{2}-[a-z0-9-]+/",
+ "notes": "Arc per-day sitemap (one file per day, ?outputType=xml required); all locs are dated-slug articles, 111/82/88 on the 3 check dates, articles return full text."
+}

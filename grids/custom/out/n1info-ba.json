@@ -1,0 +1,1 @@
+{"script": "scrapers/custom/n1info-ba.py", "notes": "Used robots.txt listed sitemaps. Fetched sitemap index, iterated all sitemap_post_*.xml plus news sitemap. Parsed news:publication_date when present, otherwise lastmod. Filtered dates 2026-09-25 to 2026-10-25. Deduped URLs, wrote TSV. Works within 20 min, prints per‑day counts."}

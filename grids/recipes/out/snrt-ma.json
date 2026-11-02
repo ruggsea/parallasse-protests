@@ -1,0 +1,5 @@
+{
+  "list_templates": [],
+  "article_regex": "",
+  "notes": "Site blocks sitemap and archive URLs (HTTP 503); no viable per-day archive or sitemap found."
+}

@@ -1,0 +1,7 @@
+{
+ "list_templates": [
+  "https://www.welt.de/sitemaps/sitemap/{YYYY}/{MM}/sitemap.xml.gz"
+ ],
+ "article_regex": "https://www\\.welt\\.de/[^\\s\\\"'<>]*/(?:article|plus)[0-9a-f]{16,}/[^\\s\\\"'<>]*\\.html",
+ "notes": "Monthly gz sitemap from robots.txt index; every <loc> has lastmod=publication day, 272-578 free+plus articles/day across 2026-09-25..10-25 (577/299/454 on 09-30/10-10/10-20); no daily sitemap (403) and no dated HTML archive (/archiv/YYYY/MM/DD 404); /plus URLs are paywalled teasers (~4k chars), free /article pages give 5-9k."
+}

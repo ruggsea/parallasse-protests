@@ -1,0 +1,9 @@
+{
+  "list_templates": [
+    "https://island.lk/{YYYY}/{MM}/{DD}/",
+    "https://island.lk/{YYYY}/{MM}/{DD}/feed/",
+    "http://island.lk/wp-sitemap-posts-post-42.xml"
+  ],
+  "article_regex": "https?://(?:www\\.)?island\\.lk/(?:[A-Za-z0-9_]+-){2,}[A-Za-z0-9_]+/",
+  "notes": "WordPress: per-day date archive https://island.lk/YYYY/MM/DD/ (paginated, ~20 posts/page) plus that day's RSS at .../feed/; third template is the last WP-core post chunk (/wp-sitemap.xml lists post chunks 1..42, chunk 42 spans 2026-09-10..2026-10-25 so it covers the window and freezes there), where the checker's lastmod==date filter gives 30/56/78 URLs for 09-30/10-10/10-20. URLs are dateless single-segment slugs, hence the 2+ hyphen requirement, which also drops nav noise like /archives/, /conatct-us/, /feed/. robots.txt allows *, only named AI training bots are blocked."
+}

@@ -1,0 +1,10 @@
+{
+  "list_templates": [
+    "https://newsmada.com/wp-sitemap-posts-post-33.xml",
+    "https://newsmada.com/wp-sitemap-posts-post-34.xml",
+    "https://newsmada.com/{YYYY}/{MM}/{DD}/",
+    "https://newsmada.com/{YYYY}/{MM}/{DD}/page/2/"
+  ],
+  "article_regex": "https?://(?:www\\.)?newsmada\\.com/\\d{4}/\\d{2}/\\d{2}/[^/\\\"'\\s<>\\\\]+/",
+  "notes": "trial"
+}

@@ -1,0 +1,4 @@
+outlet	domain	leaning	url	quote	note
+NBC News	nbcnews.com	centre_left	https://mediabiasfactcheck.com/nbc-news/	NBC News is rated Left-Center with High factual reporting by Media Bias Fact Check.	MBFC bias rating Left-Center mapped to centre_left.
+ABC News	abcnews.go.com	centre_left	https://mediabiasfactcheck.com/abc-news/	ABC News is rated Left-Center with High factual reporting by Media Bias Fact Check.	MBFC bias rating Left-Center mapped to centre_left.
+Associated Press	apnews.com	centre_left	https://mediabiasfactcheck.com/associated-press/	Overall, we rate the Associated Press as left-centered biased	MBFC states left-centered biased, mapped to centre_left.

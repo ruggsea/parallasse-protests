@@ -1,0 +1,9 @@
+{
+ "list_templates": [
+  "https://www.lanazione.it/feedservice/sitemap/generic/lan/{YYYY}/month/sitemap.xml",
+  "https://www.lanazione.it/feedservice/sitemap/generic/lan/{YYYY}/week/sitemap.xml",
+  "https://www.lanazione.it/feedservice/sitemap/generic/lan/{YYYY}/day/sitemap.xml"
+ ],
+ "article_regex": "https?://(?:www\\.)?lanazione\\.it/(?:[a-z0-9-]+/)+[a-z0-9-]*-[a-z0-9]{8}(?:[?#]|$)",
+ "notes": "Rolling XML sitemaps only (robots.txt 200, Disallow /archivio/ and /cerca, so no date archive page and no site search; robots declares feedservice/sitemap/generic/lan/2026/day + index/nazione). Three generic/lan/2026/{month,week,day} news sitemaps unioned cover the whole 2026-09-25..10-25 window: month = 09-15..10-23 (19,156 urls, 20.6 MB), week = 10-16..10-25 (4,931), day = 10-23..10-25 (881); per-URL <lastmod> is the publication stamp the checker uses. Per-lastmod-date article counts measured today: 09-30=378, 10-10=442, 10-20=405; every one of the 31 window dates has >=174. Date-shaped sitemap paths all 404 (generic/lan/2026/10/10/sitemap.xml, .../10/day/, .../10/10/day/, lan/articles/2026/10/10/, .../10/month/), so no per-day file exists; lan/articles/2026/{month,week} is the same shape but only a ~415/day subset, so generic/ is used. No WAF: no 403/429 seen anywhere. 4 sitemap entries point at sister domains (ilgiorno.it, quotidiano.net); regex restricts to lanazione.it."
+}

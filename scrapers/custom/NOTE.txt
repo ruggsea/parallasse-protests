@@ -1,0 +1,1 @@
+All Detik URLs are sourced from news sitemaps; use <news:publication_date> for dating; no duplicate URLs across sitemaps.

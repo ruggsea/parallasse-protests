@@ -1,0 +1,5 @@
+{
+  "list_templates": [],
+  "article_regex": "",
+  "notes": "block: WAF 403s ParallasseResearchBot on EVERY path (homepage, robots.txt, sitemap.xml, /economie section, /rss.xml) on www.tijd.be and tijd.be, http+https, instant ~0.09s so no recipe can pass"
+}

@@ -1,0 +1,50 @@
+outlet	domain	kind	url	quote
+Corriere della Sera	corriere.it	national_daily	https://en.wikipedia.org/wiki/Corriere_della_Sera	<title>Corriere della Sera - Wikipedia</title>
+La Stampa	lastampa.it	national_daily	https://en.wikipedia.org/wiki/La_Stampa	<meta property="og:title" content="La Stampa - Wikipedia">
+Il Sole 24 Ore	ilsole24ore.com	national_daily	https://en.wikipedia.org/wiki/Il_Sole_24_Ore	<title>Il Sole 24 Ore - Wikipedia</title>
+Il Giornale	ilgiornale.it	national_daily	https://en.wikipedia.org/wiki/Il_Giornale	<meta property="og:title" content="Il Giornale - Wikipedia">
+Libero	liberoquotidiano.it	national_daily	https://en.wikipedia.org/wiki/Libero_(newspaper)	<title>Libero (newspaper) - Wikipedia</title>
+Il Fatto Quotidiano	ilfattoquotidiano.it	national_daily	https://en.wikipedia.org/wiki/Il_Fatto_Quotidiano	<title>il Fatto Quotidiano - Wikipedia</title>
+il manifesto	ilmanifesto.it	national_daily	https://en.wikipedia.org/wiki/Il_manifesto	<meta property="og:title" content="il manifesto - Wikipedia">
+Avvenire	avvenire.it	national_daily	https://en.wikipedia.org/wiki/Avvenire	<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/8/88/Avvenire.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail_unscaled">
+Il Foglio	ilfoglio.it	national_daily	https://en.wikipedia.org/wiki/Il_Foglio	<meta property="og:title" content="Il Foglio - Wikipedia">
+Domani	editorialedomani.it	national_daily	https://en.wikipedia.org/wiki/Domani_(newspaper)	<title>Domani (newspaper) - Wikipedia</title>
+Il Messaggero	ilmessaggero.it	regional_daily	https://en.wikipedia.org/wiki/Il_Messaggero	<title>Il Messaggero - Wikipedia</title>
+Il Resto del Carlino	ilrestodelcarlino.it	regional_daily	https://en.wikipedia.org/wiki/Il_Resto_del_Carlino	<title>il Resto del Carlino - Wikipedia</title>
+Il Mattino	ilmattino.it	regional_daily	https://en.wikipedia.org/wiki/Il_Mattino	<meta property="og:title" content="Il Mattino - Wikipedia">
+Il Secolo XIX	ilsecoloxix.it	regional_daily	https://en.wikipedia.org/wiki/Il_Secolo_XIX	<title>Il Secolo XIX - Wikipedia</title>
+La Nazione	lanazione.it	regional_daily	https://en.wikipedia.org/wiki/La_Nazione	<meta property="og:title" content="La Nazione - Wikipedia">
+Il Gazzettino	ilgazzettino.it	regional_daily	https://en.wikipedia.org/wiki/Il_Gazzettino	<title>Il Gazzettino - Wikipedia</title>
+Gazzetta del Mezzogiorno	lagazzettadelmezzogiorno.it	regional_daily	https://en.wikipedia.org/wiki/La_Gazzetta_del_Mezzogiorno	<title>La Gazzetta del Mezzogiorno - Wikipedia</title>
+L'Unione Sarda	unionesarda.it	regional_daily	https://en.wikipedia.org/wiki/L'Unione_Sarda	<title>L'Unione Sarda - Wikipedia</title>
+Rai	rai.it	public_broadcaster	https://en.wikipedia.org/wiki/RAI	<meta property="og:title" content="RAI - Wikipedia">
+Rai News 24	rainews.it	tv	https://en.wikipedia.org/wiki/Rai_News_24	<meta property="og:title" content="Rai News 24 - Wikipedia">
+TG1	tg1.rai.it	tv	https://en.wikipedia.org/wiki/TG1	<meta property="og:title" content="TG1 - Wikipedia">
+TG5	tg5.mediaset.it	tv	https://en.wikipedia.org/wiki/TG5	<meta property="og:title" content="TG5 - Wikipedia">
+Tg La7	tg.la7.it	tv	https://en.wikipedia.org/wiki/TG_La7	<meta property="og:title" content="TG La7 - Wikipedia">
+Sky TG24	tg24.sky.it	tv	https://en.wikipedia.org/wiki/Sky_TG24	<meta property="og:title" content="Sky TG24 - Wikipedia">
+Mediaset	mediaset.it	tv	https://en.wikipedia.org/wiki/Mediaset	<meta property="og:title" content="Mediaset - Wikipedia">
+Rete 4	rete4.mediaset.it	tv	https://en.wikipedia.org/wiki/Rete_4	<meta property="og:title" content="Rete 4 - Wikipedia">
+ANSA	ansa.it	wire	https://en.wikipedia.org/wiki/ANSA	<meta property="og:title" content="Ansa - Wikipedia">
+Adnkronos	adnkronos.com	wire	https://en.wikipedia.org/wiki/Adnkronos	<meta property="og:title" content="Adnkronos - Wikipedia">
+Agenzia Italia	agi.it	wire	https://en.wikipedia.org/wiki/Agenzia_Giornalistica_Italia	<title>Agenzia Giornalistica Italia - Wikipedia</title>
+Il Post	ilpost.it	online_only	https://en.wikipedia.org/wiki/Il_Post	<meta property="og:title" content="Il Post - Wikipedia">
+Fanpage.it	fanpage.it	online_only	https://en.wikipedia.org/wiki/Fanpage.it	<meta property="og:title" content="Fanpage.it - Wikipedia">
+HuffPost Italia	huffingtonpost.it	online_only	https://en.wikipedia.org/wiki/HuffPost	<meta property="og:title" content="HuffPost - Wikipedia">
+L'Espresso	espresso.repubblica.it	weekly	https://en.wikipedia.org/wiki/L'Espresso	<span>Open letter to <span><i>L'Espresso</i></span> on the Pinelli case</span>
+Internazionale	internazionale.it	weekly	https://en.wikipedia.org/wiki/Internazionale	Internazionale Milano – Icelandic" lang="is" hreflang="is" data-title="F.C.
+Panorama	panorama.it	weekly	https://en.wikipedia.org/wiki/Panorama_(magazine)	<title>Panorama (magazine) - Wikipedia</title>
+Famiglia Cristiana	famigliacristiana.it	weekly	https://en.wikipedia.org/wiki/Famiglia_Cristiana	<title>Famiglia Cristiana - Wikipedia</title>
+Radio Radicale	radioradicale.it	radio	https://en.wikipedia.org/wiki/Radio_Radicale	<title>Radio Radicale - Wikipedia</title>
+Radio 24	radio24.ilsole24ore.com	radio	https://en.wikipedia.org/wiki/Radio_24	<meta property="og:title" content="Radio 24 - Wikipedia">
+Radio Rai	raiplaysound.it	radio	https://en.wikipedia.org/wiki/Rai_Radio_1	<meta property="og:title" content="Rai Radio 1 - Wikipedia">
+Gazzetta dello Sport	gazzetta.it	national_daily	https://en.wikipedia.org/wiki/La_Gazzetta_dello_Sport	<title>La Gazzetta dello Sport - Wikipedia</title>
+Il Tempo	iltempo.it	national_daily	https://en.wikipedia.org/wiki/Il_Tempo	<meta property="og:title" content="Il Tempo - Wikipedia">
+Linkiesta	linkiesta.it	online_only	https://en.wikipedia.org/wiki/Linkiesta	<meta property="og:title" content="Linkiesta - Wikipedia">
+Il Riformista	ilriformista.it	national_daily	https://en.wikipedia.org/wiki/Il_Riformista	<title>Il Riformista - Wikipedia</title>
+La Repubblica	repubblica.it	national_daily	https://repubblica.it	added 25 Oct: omitted by the stage-2 list, major Italian outlet
+La Verità	laverita.info	national_daily	https://laverita.info	added 25 Oct: omitted by the stage-2 list, major Italian outlet
+Open	open.online	online_native	https://open.online	added 25 Oct: omitted by the stage-2 list, major Italian outlet
+Il Giorno	ilgiorno.it	national_daily	https://ilgiorno.it	added 25 Oct: omitted by the stage-2 list, major Italian outlet
+Today.it	today.it	online_native	https://today.it	added 25 Oct: omitted by the stage-2 list, major Italian outlet
+Il Dubbio	ildubbio.news	national_daily	https://ildubbio.news	added 25 Oct: omitted by the stage-2 list, major Italian outlet

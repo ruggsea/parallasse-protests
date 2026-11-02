@@ -1,0 +1,5 @@
+{
+  "list_templates": [],
+  "article_regex": "",
+  "notes": "Dead WAF cell: Fastly edge 406 'WAF Forbidden' on EVERY path for the bot UA (robots.txt, homepage, /es/sitemapMonth.xml) on www, persistent; bare elperiodico.com = HTTP 0 (SSL unsafe-legacy-renegotiation) then redirects to www. Same IP + Chrome UA gets 200 everywhere (UA-based rule, not IP). If fetcher UA is fixed: robots.txt Sitemap: /es/sitemapMonth.xml (rolling month, ~7k locs) and article URLs embed the date https://www.elperiodico.com/es/<section>/YYYYMMDD/<slug>-<id>."
+}
