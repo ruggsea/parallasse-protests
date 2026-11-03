@@ -1,24 +1,27 @@
 # Media coverage of the 2026 youth protests
 
-This repository contains code and data for the [Scomodo](https://www.scomodo.org) Parallasse piece on how newspapers covered the youth protests of autumn 2026 (25 September to 25 October), and on whether Italian outlets were more hostile to the protesters than outlets in other countries.
+This repository contains the code and data for the [Scomodo](https://www.scomodo.org) Parallasse piece on the media coverage of the 2026 youth protests. The piece investigates how newspapers covered the youth protests of autumn 2026 (25 September to 25 October) and whether Italian outlets were more hostile to protesters than outlets in other countries.
 
-The report is in Italian, in `report/index.html` and `report/parallasse_protests_report.pdf`. The charts are in `report/charts/` and the numbers behind them in `report/csv/`.
+## Report
+
+The report is written in Italian and can be found in the `report/` folder. The main files are `index.html` and `parallasse_protests_report.pdf`. The charts used in the report are located in the `report/charts/` folder, and the CSV files containing the data are in the `report/csv/` folder.
 
 ## Results
 
-We call an article hostile when the model labels its stance towards the protesters as hostile (the other two labels are neutral and sympathetic). Intervals are 95% bootstrap intervals over outlets.
+The results are based on the model's labels of the stance towards protesters as hostile, neutral, or sympathetic. Intervals are 95% bootstrap intervals over outlets.
 
-| | Italy | other countries | difference |
-|---|---|---|---|
-| all coverage | 49% (n=1,589) | 19% (n=11,664) | +30.2 points [+18.8, +40.7] |
-| coverage of protests in the outlet's own country | 56% (n=1,233) | 20% (n=6,084) | +35.9 points [+22.1, +48.5] |
-
-Italian articles also give more space to violence (41% of sentences against 34%) and slightly less to the demands of the protesters (19% against 22%).
+- Hostile share, all coverage: Italy 49% (n=1,589) vs others 19% (n=11,664), diff +30.2 points [+18.8, +40.7]
+- Hostile share, protests in the outlet's own country: Italy 56% (n=1,233) vs others 20% (n=6,084), diff +35.9 points [+22.1, +48.5]
+- Sentences on violence: Italy 41% vs 34%
+- Sentences on demands: Italy 19% vs 22%
 
 ![Share of hostile articles by country](report/charts/c3_paesi.png)
 
-Other charts in `report/charts/`:
+### Charts
 
+The charts used in this project can be found in the `report/charts/` directory. The following charts are included:
+
+- `c3_paesi`: hostile share by country (above)
 - `c1_ostili_italia_altri`: hostile share, Italy and the other countries
 - `c2_violenza_richieste`: share of sentences about violence and about the demands
 - `c4_settimane`: hostile share week by week
@@ -28,40 +31,44 @@ Other charts in `report/charts/`:
 
 ## Checks and limits
 
-- The model calls more articles hostile than a blind reading of 299 of them by Claude (Anthropic), which saw only title and text: 42.0% against 32.5% in Italy (n=200), 19.2% against 11.1% elsewhere (n=99). With the Claude labels the gap between Italy and the rest is +20.5 points [+4.8, +35.6], so the gap holds but the absolute shares are probably too high. No person has labelled a sample yet.
-- Agreement on the stance label (Cohen's kappa): 0.64 between the main model and the Claude reading (n=299), 0.66 between the two models (n=598).
-- The prompt tells the model the country of the outlet. Removing that line, or swapping the country, on 598 articles moved the Italian hostile share by +0.3 and -0.3 points and the others by +0.0 and +0.3.
-- The outlets are different in each country, and the Italian sample has 32 of them. The other limits are listed in `report/limitations_it.md`.
+- Claude (Anthropic) blind read of 299 articles, title + text only. The model calls hostile more than Claude blind read: Italy model 42.0% vs Claude 32.5% (n=200); others model 19.2% vs Claude 11.1% (n=99). The gap Italy-others on Claude labels is +20.5 points [+4.8, +35.6]. The gap holds, but absolute shares are probably too high. No person has labelled a sample yet.
+- Cohen's kappa stance is 0.64 for the main model vs Claude (n=299), and 0.66 between two models (n=598).
+- The prompt tells the model the country of the outlet. Removing that line or swapping the country, 598 articles: Italy +0.3 and -0.3 points, others +0.0 and +0.3.
+
+Limits:
+- Outlets differ per country.
+- The Italian sample includes 32 outlets.
+- More details are available in `report/limitations_it.md`.
 
 ## Data and models
 
-We collected 1,439,388 pages from 320 outlets in 49 countries. Keyword filters plus a model label kept 18,355 articles about youth protests, and 13,253 of them had a usable text (long enough, not a live blog, not a duplicate). On a hand-checked sample the relevance label was right for 73 of 80 articles on `protest` and 33 of 40 on `youth`, and missed 1 relevant article in 200.
+The data and models used in this project are described below:
 
-Each article is labelled from the title alone and from title plus text: stance towards the protesters, main frame, share of sentences on violence and on demands, who is quoted, and delegitimising words. The main model is Qwen3.8-27B (BF16), run on every article; gpt-oss-120b checks a sample of 600. Both run with vLLM at temperature 0 with a 65,536-token window, and no prompt had to be cut.
-
-The leaning of the Italian outlets was classified by Luca Bagnariol (`data/leaning_italy.tsv`, with the source for each outlet).
-
-The article texts are copyrighted and are not included. The scrapers in `scrapers/` download them again. The label files (`data/framing_*.jsonl`) contain only URL, outlet and model answer.
+- Data: 1,439,388 pages, 320 outlets, 49 countries. Keyword filters + model label kept 18,355 articles on youth protests. 13,253 articles have usable text (long enough, not live blog, not duplicate).
+- Relevance check by hand: 73 of 80 were correct for the keyword `protest`, 33 of 40 for the keyword `youth`, and 1 relevant article was missed in 200.
+- Labels: from title alone and title + text: stance, main frame, share of sentences on violence and demands, who is quoted, delegitimising words.
+- Models: Main Qwen3.8-27B (BF16) on every article. gpt-oss-120b checks a sample of 600. vLLM, temperature 0, 65,536-token window, no prompt cut.
+- Leaning: Italian outlets classified by Luca Bagnariol. The data is in `data/leaning_italy.tsv` with a source per outlet.
+- Copyright: Article texts are not included. `scrapers/` download again. `data/framing_*.jsonl` only includes the URL, outlet, and model answer.
 
 ## Contents
 
-- `analysis/`: labelling scripts (`relevance_label.py`, `framing_label.py`), the prompt test (`bias_test.py`), `build_report.py`, which builds the report from the label files, and `check_plan.py`, which checks that the code uses the numbers fixed in `PLAN.md`
-- `scrapers/`: `discover.py` and `fetch_articles.py` for outlets with a generic recipe, `custom/` with one scraper for each of the other 391 outlets, `polite_fetch.py` (reads robots.txt, rate-limited)
-- `grids/`: configs and results of the LLM agent runs that wrote the recipes and custom scrapers
-- `data/`: countries, outlets, leaning tables and labels (the three largest files are gzipped)
-- `report/`: report, charts and csv
-- `design/`: fonts and chart style
+- `analysis/`: `relevance_label.py`, `framing_label.py`, `bias_test.py`, `build_report.py` builds the report from labels, `check_plan.py` checks that the code uses the numbers in `PLAN.md`.
+- `scrapers/`: `discover.py`, `fetch_articles.py` generic recipe, `custom/` one per other 391 outlets, `polite_fetch.py` robots.txt, rate-limited.
+- `grids/`: LLM agent runs that wrote recipes and scrapers.
+- `data/`: countries, outlets, leaning, labels; three largest gzipped.
+- `report/`: `index.html`, `parallasse_protests_report.pdf`.
+- `design/`: fonts, chart style.
 
 ## Running it
 
-```
-uv venv .venv && source .venv/bin/activate && uv pip install -r requirements.txt
-bash scrapers/scrape_all.sh
-bash scrapers/scrape_custom.sh
-python analysis/relevance_label.py PORT MODEL data/relevance_qwen.jsonl
-python analysis/framing_label.py A data/framing_A.jsonl - 8
-python analysis/check_plan.py
-python analysis/build_report.py
-```
+To run this project, follow these steps:
 
-The labelling scripts need an OpenAI-compatible server (we used vLLM) on the ports set at the top of each script, and `framing_label.py` loads the tokenizer from the local Hugging Face cache (`HF_HOME`). `build_report.py` works from the label files alone, without the article texts.
+1. Create a virtual environment and activate it: `uv venv .venv && source .venv/bin/activate`.
+2. Install the required packages: `uv pip install -r requirements.txt`.
+3. Scrape the data: `bash scrapers/scrape_all.sh` and `bash scrapers/scrape_custom.sh`.
+4. Label the data: `python analysis/relevance_label.py PORT MODEL data/relevance_qwen.jsonl` and `python analysis/framing_label.py A data/framing_A.jsonl - 8`.
+5. Check the plan: `python analysis/check_plan.py`.
+6. Build the report: `python analysis/build_report.py`.
+
+Note that the labelling scripts require an OpenAI-compatible server (we used vLLM) on ports at the top of each script. `framing_label.py` loads tokenizer from the local Hugging Face cache (`HF_HOME`). `build_report.py` works from label files alone.
